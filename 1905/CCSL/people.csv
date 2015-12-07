@@ -1,0 +1,113 @@
+person.key,person.name.last,person.name.first,entry.name
+glass-exc+ll,Glass,Dr. Percy,#league
+orr-exc,Orr,Dr. George W.,#league
+foulke-cal+ll,Foulke,Jimmy,#umpire
+mahoney-ump,Mahoney,George,#umpire
+mcguirk-ump,McGuirk,Thomas,#umpire
+mcwatters-ump,McWatters,John C.,#umpire
+balliett-cal,Balliett,Guy,Calumet
+callahan-cal,Callahan,J. E.,Calumet
+campbell-cal,Campbell,"Charles ""Charlie""",Calumet
+clark-cal,Clark,,Calumet
+corbiere-ssm+han+cal,Corbiere,Arthur,Calumet
+cuddihy-cal,Cuddihy,John D.,Calumet
+cusick-cal,Cusick,,Calumet
+depree-cal,De Pree,Jim,Calumet
+diehl-cal+ssm,Diehl,Si,Calumet
+foster-cal,Foster,"William M. ""Billy""",Calumet
+foulke-cal+ll,Foulks,"James T. ""Jimmy""",Calumet
+grimes-cal,Grimes,Paul Lawrence,Calumet
+kaiser-cal,Kaiser,Nicholas Francis,Calumet
+laughlin-cal,Laughlin,"John ""Cy""",Calumet
+leahy-cal,Leahy,Thomas E.,Calumet
+lewis-cal,Lewis,"Gordon M. ""Slim""",Calumet
+morrison-cal,Morrison,John W.,Calumet
+mutter-cal,Mutter,William Martin,Calumet
+norcabbage-cal,Norcabbage,Alex John,Calumet
+paige-cal,Paige,"George L. ""Pat""*",Calumet
+pell-cal,Pell,William,Calumet
+perry-cal,Perry,Henry ,Calumet
+ronan-cal,Ronan,Thomas,Calumet
+roth-cal,Roth,William,Calumet
+ryan-cal,Ryan,George,Calumet
+thomas.g-cal,Thomas,George C.,Calumet
+thomas.j-cal,Thomas,Jim,Calumet
+vorpagel-cal,Vorpagel,Robert August,Calumet
+andrews-han+ssm,Andrews,"Glenn A. ""Doggie""",Hancock
+bourgois-ll+ssm+han,Bourgois,,Hancock
+condon-han,Condon,John,Hancock
+corbiere-ssm+han+cal,Corbiere,Arthur,Hancock
+croze-han,Croze,,Hancock
+gleason-han,Gleason,"""Kid""",Hancock
+gorton-ssm+han,Gorton,Roger William,Hancock
+graff-han,Graff,,Hancock
+gregory-han,Gregory,Roy,Hancock
+hastings-han,Hastings,Ira Joseph,Hancock
+kippert-han,Kippert,"Edward A. ""Ed""*",Hancock
+mackin-han,Mackin,"John H. ""Jack""",Hancock
+mccaine-han+ssm,McCaine,,Hancock
+mccord-han,McCord,,Hancock
+mitchell-han,Mitchell,,Hancock
+munsell-han,Munsell,Henry,Hancock
+ohara-han,O'Hara/O'Hayer,,Hancock
+ohara-han,O'Hara,,Hancock
+ohara-han,O'Hayer,,Hancock
+rogers-han,Rogers,"James E. ""Ned""",Hancock
+safford-han,Safford,"Joseph C. ""Joe""",Hancock
+steimie-han,Steimie,,Hancock
+stevens-han,Stevens,,Hancock
+stjohn-han,St. John,,Hancock
+utley-han,Utley,"Jerome A. ""Jerry""",Hancock
+utley-han,Utley,Jerry,Hancock
+walker-han,Walker,"Lee ""Baldy""",Hancock
+wallace-han,Wallace,,Hancock
+wares-han,Wares,"Clyde E. ""Buzzy""*",Hancock
+watson-han,Watson,Frank,Hancock
+becker-ll,Becker,"Jesse F. ""Jess""",Lake Linden
+bourgois-ll+ssm+han,Bourgois,,Lake Linden
+burg-ll,Burg,Peter J.,Lake Linden
+foulke-cal+ll,Foulks,"James T. ""Jimmy""",Lake Linden
+glass-exc+ll,Glass,Dr. Percy,Lake Linden
+hotton-ll,Hotton,James A.,Lake Linden
+koukalik-ll,Koukalik,"Joseph ""Joe""*",Lake Linden
+kurke-ll,Kurke,Frank,Lake Linden
+newcomb-ll,Newcomb,Roy Orlando,Lake Linden
+parks-ll,Parks,,Lake Linden
+schubert-ll,Schubert,Tony,Lake Linden
+schurch-ll,Schurch,Henry,Lake Linden
+watts-ll,Watts,"Alvin Carter ""Al""",Lake Linden
+werner-ll,Werner,George,Lake Linden
+wilkie-ll,Wilkie,,Lake Linden
+williams-ll,Williams,"""Doc""",Lake Linden
+wotell-ll,Wotell,Michael George,Lake Linden
+andrews-han+ssm,Andrews,"Glenn A. ""Doggie""",Sault Ste. Marie
+baldwin-ssm,Baldwin,,Sault Ste. Marie
+bell-ssm,Bell,L. E.,Sault Ste. Marie
+bourgois-ll+ssm+han,Bourgois,,Sault Ste. Marie
+brown-ssm,Brown,,Sault Ste. Marie
+bufka-ssm,Bufka,"John ""Jack""",Sault Ste. Marie
+bush-ssm,Bush,Platt,Sault Ste. Marie
+corbiere-ssm+han+cal,Corbiere,Arthur,Sault Ste. Marie
+corcoran-ssm,Corcoran,Darb,Sault Ste. Marie
+curtis-ssm,Curtis,Frederick M.*,Sault Ste. Marie
+diehl-cal+ssm,Diehl,Si,Sault Ste. Marie
+earle-ssm,Earle,W. B.,Sault Ste. Marie
+ferguson-ssm,Ferguson,A. L.,Sault Ste. Marie
+finan-ssm,Finan,,Sault Ste. Marie
+gorton-ssm+han,Gorton,Roger William,Sault Ste. Marie
+horn-ssm,Horn,"Wm. L. ""Casey""",Sault Ste. Marie
+lizzette-ssm,Lizzette,Arthur Joseph,Sault Ste. Marie
+martin-ssm,Martin,Harry,Sault Ste. Marie
+marz-ssm,Marz,,Sault Ste. Marie
+mccaine-han+ssm,McCaine,,Sault Ste. Marie
+mccutcheon-ssm,McCutcheon,"William ""Bill""",Sault Ste. Marie
+mcdonald-ssm,McDonald,Harry,Sault Ste. Marie
+mills-ssm,Mills,Thomas,Sault Ste. Marie
+murray-ssm,Murray,,Sault Ste. Marie
+smith.c-ssm,Smith,Charlie,Sault Ste. Marie
+smith.u-ssm,Smith,,Sault Ste. Marie
+stripp-ssm,Stripp,"Frederick S. ""Fred""",Sault Ste. Marie
+taylor-ssm,Taylor,"M. Owen ""Kid""",Sault Ste. Marie
+warner-ssm,Warner,"Homer ""Slab""",Sault Ste. Marie
+wattrick-soo,Wattrick,Adolph Leon,Sault Ste. Marie
+westcomb-ssm,Westcomb,,Sault Ste. Marie

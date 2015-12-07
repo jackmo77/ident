@@ -1,0 +1,223 @@
+person.key,person.name.last,person.name.first,entry.name
+farrell-exc,Farrell,John H.,#league
+buckley-ump,Buckley,,#umpire
+campau-bin+ump,Campau,Charles C.*,#umpire
+conahan-ump,Conahan,Eddie,#umpire
+franklin-ump,Franklin,,#umpire
+gunnell-ump,Gunnell,,#umpire
+mccormick-ump,McCormick,,#umpire
+sullivan-ump,Sullivan,William J.,#umpire
+wood-ump,Wood,George A.*,#umpire
+barnett-alb,Barnett,John F.,Albany
+barry-alb,Barry,Thomas,Albany
+bowers-alb+bin,Bowers,D. (Rube),Albany
+braun-alb,Braun,William,Albany
+busse-alb,Busse,Carlton Tilton,Albany
+cargo-alb,Cargo,Charles (Chick),Albany
+connor-alb,Connor,James M.*,Albany
+dillon-alb,Dillon,John J. (Jack),Albany
+doherty-alb,Doherty,Michael J.,Albany
+fitzhenry-alb,Fitzhenry,John,Albany
+flater-alb,Flater,John W.*,Albany
+fox-alb+tro,Fox,Augustus (Gus),Albany
+garry-scr+alb,Garry,James,Albany
+garry-scr+alb,Garry,James T.*,Albany
+greene-alb,Greene,Patrick J. (Paddy)*,Albany
+kelly-alb,Kelley (Kelly),R,Albany
+kroh-alb,Kroh,Floyd M. (Rube)*,Albany
+lennon-alb,Lennon,Patrick Francis (Pat),Albany
+mcdonald-alb,McDonald,Edward C.*,Albany
+mock-alb,Mock,Homer V.,Albany
+mullin-alb+syr,Mullin,John. F. (Lefty),Albany
+nichols-alb,Nichols,Arthur F.*,Albany
+pastorius-alb,Pastorius,James W.*,Albany
+russell-alb,Russell,John  A.,Albany
+schrall-alb+scr,Schrall,Joseph E.,Albany
+spiesman-alb,Spiesman,Matthew J.,Albany
+bell-ajg,Bell,George G.*,Amsterdam-Johnstown-Gloversville
+childs-ajg,Childs,Peter P. *,Amsterdam-Johnstown-Gloversville
+clay-ajg,Clay,Waldo H.,Amsterdam-Johnstown-Gloversville
+cox-ajg,Cox,James Francis,Amsterdam-Johnstown-Gloversville
+eagan-ajc,Eagan,Patrick Peter (Pete),Amsterdam-Johnstown-Gloversville
+earl-ajg,Earl,Howard J.*,Amsterdam-Johnstown-Gloversville
+frank-ajg,Frank,Edward L.,Amsterdam-Johnstown-Gloversville
+hilley-ajg,Hilley,"Edward G, (Whitey)*",Amsterdam-Johnstown-Gloversville
+horton-ajg,Horton,Elmer E.*,Amsterdam-Johnstown-Gloversville
+hurley-ajg,Hurley,Jeremiah (Jerry)*,Amsterdam-Johnstown-Gloversville
+maurer-ajg+syr,Maurer,Bernard F. (Bernie),Amsterdam-Johnstown-Gloversville
+mcpartlin-ajg,McPartlin,Frank J.*,Amsterdam-Johnstown-Gloversville
+pinnance-ajg+tro,Pinnance,Elijah Edward*,Amsterdam-Johnstown-Gloversville
+simon-ajg,Simon,Henry J.*,Amsterdam-Johnstown-Gloversville
+stroh-ajg,Stroh,George J.,Amsterdam-Johnstown-Gloversville
+villeman-ajg,Villeman,George,Amsterdam-Johnstown-Gloversville
+weaver-ajg,Weaver,John H. (Buck),Amsterdam-Johnstown-Gloversville
+zinzer-ajg,Zinzer,Charles,Amsterdam-Johnstown-Gloversville
+baker-bin,Baker,Howard William,Binghamton
+barger-bin,Barger,Eros B. (Cy)*,Binghamton
+barries-bin,Barries,,Binghamton
+barthold-bin,Barthold,John F.*,Binghamton
+bayne-bin,Bayne,Alvin. B.  (Brindle),Binghamton
+bowers-alb+bin,Bowers,D. (Rube),Binghamton
+campau-bin+ump,Campau,Charles C.  (Count)*,Binghamton
+campau-bin+ump,Campau,Charles C.*,Binghamton
+dorgan-bin,Dorgan,William J. (Willie),Binghamton
+driscoll-scr+bin,Driscoll,C. C.,Binghamton
+driscoll-scr+bin,Driscoll,Charles C.,Binghamton
+drury-bin,Drury,Robert Blu,Binghamton
+drury-bin,Druby,Robert Blu,Binghamton
+farley-bin,Farley,Edward Lorimer,Binghamton
+fohl-bin,Fohl,Leo A. (Lee)*,Binghamton
+fuller-bin,Fuller,Charles F.*,Binghamton
+glavin-bin,Glavin,Edward,Binghamton
+hannivan-bin,Hannivan,Patrick James*,Binghamton
+hershey-wb+bin,Hershey,Frank*,Binghamton
+mccabe-bin,McCabe,Frank James (Jim),Binghamton
+messerly-bin,Messerly,John A. (Jack),Binghamton
+miller-bin,Miller,Roy O.*,Binghamton
+raidy-bin,Raidy,Joseph M. (Joe),Binghamton
+ramsey-bin,Ramsey,George Wash. (Buck),Binghamton
+schaefer-bin,Schaefer,,Binghamton
+shoch-bin,Shoch,George Q.*,Binghamton
+smythe-bin,Smythe,Henry W.,Binghamton
+spates-bin,Spates,Frank William,Binghamton
+viau-bin,Viau,Leon A.*,Binghamton
+welch-bin,Welch,Harry A.,Binghamton
+willig-bin,Willig,Louis K.,Binghamton
+willis-bin,Willis,Delaware James,Binghamton
+amole-syr+uti+scr,Amole,Morris G. (Doc),Scranton
+ashenbach-scr,Ashenbach,Edward Michael,Scranton
+ashenbach-scr,Ashenbach,Edward M.,Scranton
+bannon-scr,Bannon,William,Scranton
+betts-scr,Betts,Fred,Scranton
+brennan-scr,Brennan,John A.,Scranton
+callahan-scr,Callahan,,Scranton
+coogan-scr,Coogan,Daniel G.*,Scranton
+driscoll-scr+bin,Driscoll,C. C.,Scranton
+driscoll-scr+bin,Driscoll,Charles C.,Scranton
+dupee-scr,Dupee,Frank O.*,Scranton
+garry-scr+alb,Garry,James,Scranton
+garry-scr+alb,Garry,James T.*,Scranton
+gaughan-scr,Gaughan,,Scranton
+gettig-scr,Gettig,C. Henry*,Scranton
+gilleran-scr,Gilleran,Thomas,Scranton
+ging-scr,Ging,William J.*,Scranton
+gorman-tro+scr,Gorman,Eugene,Scranton
+graham-scr,Graham,Archibald W.*,Scranton
+gray-scr,Gray,George E.*,Scranton
+hale-scr,Hale,Jesse,Scranton
+hannafin-scr,Hannafin,Lawrence Joseph,Scranton
+herr-scr,Herr,Edward Joseph,Scranton
+kane-scr,Kane,,Scranton
+macgamwell-scr,MacGamwell,Edward M.*,Scranton
+manners-scr,Manners,Harry,Scranton
+mcdougal-scr,McDougal,John A.*,Scranton
+newenham-scr,Newenham,Horace Wellman,Scranton
+oneill-scr,O'Neill,Michael Joyce*,Scranton
+persons-scr,Persons,Edward,Scranton
+rudinski-scr,Rudinski,John A.,Scranton
+schrall-alb+scr,Schrall,Joseph E.,Scranton
+shea-scr,Shea,Peter,Scranton
+shortell-scr,Shortell,Edward J.,Scranton
+smink-sscr,Smink,William,Scranton
+spooner-scr,Spooner,George A.,Scranton
+steinberg-scr,Steinberg,Paul,Scranton
+wosinski-scr,Wosinski,,Scranton
+zeimer-scr,Zeimer,Gustave T.,Scranton
+amole-syr+uti+scr,Amole,Morris G. (Doc),Syracuse
+carter-syr,Carter,Conrad P.*,Syracuse
+crisham-syr,Crisham,Patrick J.*,Syracuse
+croughn-syr,Croughn,Leo James,Syracuse
+daly-syr,Daly,Joe,Syracuse
+fifield-syr,Fifield,John P.*,Syracuse
+griffin-syr,Griffin,"Tobias C. ""Sandy""*",Syracuse
+haslem-syr,Haslem,William J.,Syracuse
+helmund-syr,Helmund,George,Syracuse
+hollingsworth-syr,Hollingsworth,Wallace P.,Syracuse
+kuhns-syr,Kuhns,Charles B.*,Syracuse
+lovely-syr,Lovely,Robert (Bobby),Syracuse
+luskey-syr,Luskey,Charles M.*,Syracuse
+magie-syr,Magie,Jacob D.,Syracuse
+mains-syr,Mains,Willard E.*,Syracuse
+maurer-ajg+syr,Maurer,Bernard F. (Bernie),Syracuse
+mullin-alb+syr,Mullin,John. F. (Lefty),Syracuse
+murray-syr,Murray,Alexander (Sandy),Syracuse
+mylett-syr,Mylett,Thomas J.,Syracuse
+schrant-syr,Schrant,John H.,Syracuse
+scudder-syr,Scudder,William E.,Syracuse
+trainor-syr,Trainor,James T.,Syracuse
+bacon-tro,Bacon,James Louis,Troy
+browne-troy,Browne,James H.,Troy
+collopy-tro,Collopy,James B.,Troy
+connelly-tro,Connelly,,Troy
+davis-wb+tro,Davis,David (Davy),Troy
+degroff-tro,DeGroff,Edward Arthur (Art)*,Troy
+donnelly-tro,Donnelly,Edward*,Troy
+donovan-tro,Donovan,Thomas J.*,Troy
+ferris-tro,Ferris,James,Troy
+fox-alb+tro,Fox,Augustus (Gus),Troy
+gorman-tro+scr,Gorman,Eugene,Troy
+graham-tro,Graham,,Troy
+hardy-tro,Hardy,David  Alexander*,Troy
+hoover-tro,Hoover,,Troy
+james-tro,James,Richard,Troy
+jarrott-tro,Jarrott,Thomas J.,Troy
+johnson-tro,Johnson,Ebenezer T. (Abbie)*,Troy
+kelliher-tro,Kelliher,William,Troy
+mason-tro,Mason,Harry J.,Troy
+mulcahy-tro,Mulcahy,J. E.,Troy
+murray-tro,Murray,,Troy
+peartree-tro,Peartree,Joseph Oswald,Troy
+pinnance-ajg+tro,Pinnance,Elijah Edward*,Troy
+rafter-tro,Rafter,John C. (Jack)*,Troy
+reilly-tro,Reilly,William J.,Troy
+schudt-tro,Schudt,,Troy
+sinex-tro,Sinex,Lawrence F.,Troy
+stalter-tro,Stalter,Everett,Troy
+weeden-troy,Weeden,Charles A.*,Troy
+wernick-tro+uti,Wernick,,Troy
+white-tro,White,,Troy
+amole-syr+uti+scr,Amole,Morris G. (Doc),Utica
+beckel-uti,Beckel,Lawrence. C. (Larry),Utica
+blanchard-uti,Blanchard,Foster L.,Utica
+burrell-uti,Burrell,Lennius O. (Len),Utica
+cox-uti,Cox,Ralph G. (Dasher),Utica
+donahue-uti,Donahue,Patrick W.*,Utica
+ellis-uti,Ellis,Alfred Benjamin*,Utica
+fairbank-uti,Fairbank,James Lee*,Utica
+fox-uti,Fox,John T,Utica
+landy-uti,Landy,William  J.,Utica
+lawler-uti,Lawler,John J. (Jack),Utica
+lawler-uti,Lawler,John J.,Utica
+long-uti,Long,Nelson (Red)*,Utica
+madison-uti,Madison,Arthur M.*,Utica
+marshall-uti,Marshall,Archibald J.,Utica
+mcandrews-uti,McAndrews,Thomas,Utica
+mckeon-uti,McKeon,"Francis Patrick, Jr.",Utica
+mcnamara-uti,McNamara,William,Utica
+mills-uti,Mills,William G. (Willie)*,Utica
+miran-uti,Miran,John  J.,Utica
+morris-uti,Morris,Chester,Utica
+oreilly-uti,O'Reilly,Thomas F.,Utica
+rochford-uti,Rochford,Michael,Utica
+swayne-uti,Swayne,Frank Peter,Utica
+vowinkel-uti,Vowinkel,John H.*,Utica
+wernick-tro+uti,Wernick,,Utica
+westervelt-uti,Westervelt,Huyler*,Utica
+bowen-wb,Bowen,Sutherland M (Cy)*,Wilkes-Barre
+brown-wb,Brown,Arthur,Wilkes-Barre
+davis-wb+tro,Davis,David (Davy),Wilkes-Barre
+donovan-wb,Donovan,Michael B.*,Wilkes-Barre
+harkins-wb,Harkins,,Wilkes-Barre
+hershey-wb+bin,Hershey,Frank*,Wilkes-Barre
+hinchman-wb,Hinchman,Harry S.*,Wilkes-Barre
+mattern-wb,Mattern,Alonzo A.*,Wilkes-Barre
+neuer-wb,Neuer,John S.*,Wilkes-Barre
+ohara-wb,O'Hara,William A.*,Wilkes-Barre
+pounds-wb,Pounds,Jeared W. (Bill)*,Wilkes-Barre
+roach-wb,Roach,Michael S.*,Wilkes-Barre
+sharrott-wb,Sharrott,John H.*,Wilkes-Barre
+shaw-wb,Shaw,John W.,Wilkes-Barre
+siegle-wb,Siegle,John H.*,Wilkes-Barre
+smith-wb,Smith,Elmer E.*,Wilkes-Barre
+therre-wb,Therre,George Matthew,Wilkes-Barre
+wagner-wb,Wagner,Ivor E.,Wilkes-Barre

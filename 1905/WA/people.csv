@@ -1,0 +1,233 @@
+person.key,person.name.last,person.name.first,entry.name
+shiveley-exc,Shiveley,Dr. D. M.,#league
+cameron-ump,Cameron,Fred,#umpire
+deprey-ump,Deprey,A. H.,#umpire
+ghio-ump,Ghio,Chris,#umpire
+lewinson-ump,Lewinson,Mort,#umpire
+malay-ump,Malay,,#umpire
+owens-ump,Owens,Clarence B.,#umpire
+ragan-ump,Ragan,James,#umpire
+alderman-top+gut,Alderman,"Dallas Geer ""Dal""",Guthrie
+bennett-gut,Bennett,"Ben E. ""Dad""",Guthrie
+berry-gut,Berry,Charles A.,Guthrie
+blackburn-okc+gut+sed+top,Blackburn,George W.*,Guthrie
+brown-gut,Brown,Loren,Guthrie
+collins-gut,Collins,Robert F.,Guthrie
+companion-jop+gut,Companion,Paul C.,Guthrie
+dalrymple-gut,Dalrymple,George Edmund,Guthrie
+downs-gut,Downs,"Jerome W. ""Red""*",Guthrie
+forrester-gut+lea+top,Forrester,"John W. ""Jack""",Guthrie
+graves-gut,Graves,George,Guthrie
+hamilton-gut,Hamilton,Argus James,Guthrie
+hamilton-gut,Hamilton,Argus J.,Guthrie
+henderson-gut,Henderson,James Benjamin,Guthrie
+henderson-gut,Henderson,J. Ben,Guthrie
+hickey-gut,Hickey,Eddie*,Guthrie
+hite-gut,Hite,Leo,Guthrie
+hutter-sed+gut,Hutter,Amos,Guthrie
+jones-gut,Jones,"Wm. R. ""Tex""*",Guthrie
+knox-gut,Knox,,Guthrie
+mckelvey-gut+top,McKelvey,Ed,Guthrie
+mize-gut,Mize,Ora,Guthrie
+monroe-gut,Monroe,"R. L. ""Muggsy""",Guthrie
+nagel-jop+gut,Nagel,"Paul G. ""Lefty""",Guthrie
+pettigrew-gut,Pettigrew,Jim Ned*,Guthrie
+queisser.a-gut,Queisser,Arthur Henry,Guthrie
+queisser.w-gut+lea,Queisser,Walter Andrew,Guthrie
+womack-gut,Womack,Harry,Guthrie
+baerwald-jop,Baerwald,Rudolph F.*,Joplin
+baerwald-jop,Baerwald,Rudy*,Joplin
+bashore-jop,Bashore,Forest,Joplin
+bayless-jop,Bayless,"Harry O. ""Dick""*",Joplin
+clarke-wic+okc+jop,Clarke,"Orel ""Red""",Joplin
+companion-jop+gut,Companion,Paul C.,Joplin
+durbin-jop,Durbin,"Blaine A. ""Kid""*",Joplin
+fillman-jop+wic,Fillman,John Henry,Joplin
+fillman-jop+wic,Fillman,John H.,Joplin
+gray-lea+jop,Gray,William Henry,Joplin
+horton-jop+spr,Horton,Harry,Joplin
+ketchum-lea+jop,Ketchum,F.,Joplin
+laughlin-jop,Laughlin,"Joseph ""Joe""",Joplin
+morris-jop,Morris,Samuel (Indian),Joplin
+nagel-jop+gut,Nagel,"Paul G. ""Lefty""",Joplin
+olson-jop,Olson,Sylvester R.,Joplin
+pendry-jop,Pendry,John Llewellyn,Joplin
+shimonek-jop,Shimonek,"Anton ""Tony""",Joplin
+smith-jop+top,Smith,F. H.,Joplin
+stewart-top+jop,Stewart,"C. C. ""Ducky""",Joplin
+sullinger-jop,Sullinger,Ford W. ,Joplin
+trestrall-jop+sed,Trestrall,,Joplin
+vanderhill-jop,Vanderhill,"Anthony ""Tony""",Joplin
+welday-jop,Welday,"Lyndon E. ""Mike""*",Joplin
+wilkinson-jop,Wilkinson,Fred W.,Joplin
+wisser-jop,Wisser,"A. G. ""Gus""",Joplin
+armstrong-lea,Armstrong,Louis Franklin,Leavenworth
+armstrong-lea,Armstrong,Louis F.,Leavenworth
+ashley-lea,Ashley,John Clarence,Leavenworth
+corbin-lea,Corbin,Harry,Leavenworth
+ellis-spr+lea,Ellis,Harry E.,Leavenworth
+fanning-lea,Fanning,L. R./R. L./L. C.,Leavenworth
+forrester-gut+lea+top,Forrester,"John W. ""Jack""",Leavenworth
+gray-lea+jop,Gray,William Henry,Leavenworth
+harrington-lea,Harrington,"Guy ""Peck""",Leavenworth
+hood-spr+wic+lea+top,Hood,"G. W. ""Chub""",Leavenworth
+kahl-lea,Kahl,Robert J.,Leavenworth
+ketchum-lea+jop,Ketchum,F.,Leavenworth
+luettke-lea,Luettke,Herman G.,Leavenworth
+lyons-lea+top,Lyons,Charles K.,Leavenworth
+meredith-lea,Meredith,Elmer,Leavenworth
+nelson-lea+okc,Nelson,Clyde,Leavenworth
+nickell-lea+sed,Nickell,"Allen ""Al""",Leavenworth
+queisser.w-gut+lea,Queisser,Walter Andrew,Leavenworth
+rapps-lea,Rapps,"William H. ""Bill""",Leavenworth
+relihan-lea,Relihan,,Leavenworth
+shaumeyer-okc+lea,Shaumeyer,August F.,Leavenworth
+speer-lea+spr,Speer,George N.*,Leavenworth
+stjohn-lea,St. John,Roy,Leavenworth
+ulrich-lea,Ulrich,Fred,Leavenworth
+wind-lea,Wind,"Adolph ""Dolph""",Leavenworth
+wooley-lea,Wooley,"Elijah ""Eli""",Leavenworth
+bankhead-okc+wic,Bankhead,Cecil G.,Oklahoma City
+blackburn-okc+gut+sed+top,Blackburn,George W.*,Oklahoma City
+clarke-wic+okc+jop,Clarke,"Orel ""Red""",Oklahoma City
+craig-okc,Craig,"Edward A. ""Red""",Oklahoma City
+crum-top+okc,Crum,Charles W.,Oklahoma City
+frick-okc+wic,Frick,"Ernest ""Jimmy""",Oklahoma City
+galloway-okc,Galloway,W. E.,Oklahoma City
+genins-okc,Genins,C. Frank*,Oklahoma City
+halla-okc,Halla,John A.*,Oklahoma City
+hurlburt-okc,Hurlburt,"George C. ""Speck""",Oklahoma City
+lofton-okc,Lofton,Frank,Oklahoma City
+maier-okc,Maier,"""Pink""",Oklahoma City
+mclear-wic+okc,McLear,Harry,Oklahoma City
+millsap-okc,Millsap,Arthur Lewis,Oklahoma City
+nelson-lea+okc,Nelson,Clyde,Oklahoma City
+ogee-okc,Ogee,John L.,Oklahoma City
+parker-okc,Parker,Jay*,Oklahoma City
+risley-okc,Risley,"Dudley C. ""Dud""",Oklahoma City
+root-okc,Root,"John ""Jack""",Oklahoma City
+scoggins-okc,Scoggins,Arlo,Oklahoma City
+seigle-okc,Seigle,George,Oklahoma City
+shaner-wic+okc+sed,Shaner,Bert,Oklahoma City
+shaumeyer-okc+lea,Shaumeyer,August F.,Oklahoma City
+sigman-okc,Sigman,,Oklahoma City
+wilson-okc,Wilson,Frank Alf,Oklahoma City
+woods-okc,Woods,Lewis,Oklahoma City
+bauer-sed,Bauer,"Jacob ""Jake""",Sedalia
+blackburn-okc+gut+sed+top,Blackburn,George W.*,Sedalia
+bluejacket-sed,Bluejacket,Pearl Tecumseh,Sedalia
+brigham-sed,Brigham,J.,Sedalia
+burggeman-sed,Bruggeman,E.,Sedalia
+cheek-sed,Cheek,Harry G.*,Sedalia
+cravens-wic+top+sed,Cravens,James J.,Sedalia
+curtis-sed,Curtis,"Paul S. ""Dummy""",Sedalia
+davis-sed,Davis,"Gerald H. ""Red""",Sedalia
+douglas-sed,Douglas,,Sedalia
+ford-sed,Ford,"Henry ""Harry""",Sedalia
+gramley-sed,Gramley,Lee,Sedalia
+gregory-sed,Gregory,,Sedalia
+grindle-sed,Grindle,,Sedalia
+hutter-sed+gut,Hutter,Amos,Sedalia
+knarr-sed,Knarr,Jack,Sedalia
+lee-sed,Lee,Granville,Sedalia
+leftwich-sed,Leftwich,,Sedalia
+maryott-wic+sed,Maryott,Miles,Sedalia
+mcdill-sed,McDill,"Edward C. ""Eddie""",Sedalia
+nickell-lea+sed,Nickell,"Allen ""Al""",Sedalia
+northcutt-spr+sed,Northcutt,A. H.,Sedalia
+page-sed,Page,Ed,Sedalia
+persch-top+sed,Persch,"Abner ""Dutch""",Sedalia
+rohn-sed,Rohn,"Richard F. ""Dick""",Sedalia
+rolling-sed,Rolling,"Raymond C. ""Ray""*",Sedalia
+shaner-wic+okc+sed,Shaner,Bert,Sedalia
+suter-sed,Suter,Harry,Sedalia
+talbot-sed,Talbot,Robert Emmet,Sedalia
+trestrall-jop+sed,Trestrall,,Sedalia
+westcott-sed,Westcott,"Ralph E. ""Happy""",Sedalia
+white-sed,White,"William C. ""Billy""",Sedalia
+bagley-spr,Bagley,James,Springfield
+buckles-spr,Buckles,Ed,Springfield
+byrne-spr,Byrne,"Robert ""Bobby""*",Springfield
+cave-spr,Cave,Thomas R.,Springfield
+cope-wic+spr,Cope,Thomas,Springfield
+durand-spr,Durand,Dan,Springfield
+ellis-spr+lea,Ellis,Harry E.,Springfield
+friel-spr,Friel,Jack J.,Springfield
+groom-spr,Groom,"Robert ""Bob""*",Springfield
+heitling-spr,Hetling,Gus*,Springfield
+hiser-top+spr,Hiser,,Springfield
+hood-spr+wic+lea+top,Hood,"G. W. ""Chub""",Springfield
+horton-jop+spr,Horton,Harry,Springfield
+hunt-spr,Hunt,Carl,Springfield
+hurlburt-spr,Hurlburt,Frank,Springfield
+kling-spr,Kling,Rudolph A.*,Springfield
+mcwright-spr,McWright,,Springfield
+northcutt-spr+sed,Northcutt,A. H.,Springfield
+olmstead-spr,Olmstead,"Frederic W. ""Fred""*",Springfield
+porter-spr,Porter,C. M.,Springfield
+rush-spr,Rush,,Springfield
+seabough-spr,Seabough,James Warren,Springfield
+speer-lea+spr,Speer,George N.*,Springfield
+wakefield-spr,Wakefield,Henry,Springfield
+weisner-spr,Weisner,Charles,Springfield
+white-spr,White,,Springfield
+zoellers-spr,Zoellers,Joseph John,Springfield
+zoellers-spr,Zoellers,"Joseph J. ""Joe""",Springfield
+abbott-top,Abbott,Spencer A.,Topeka
+alderman-top+gut,Alderman,"Dallas Geer ""Dal""",Topeka
+andrews-top,Andrews,"Jay A. ""Doc""",Topeka
+blackburn-okc+gut+sed+top,Blackburn,George W.*,Topeka
+brown-top,Brown,Dick,Topeka
+carter-top,Carter,Charles L.,Topeka
+cole-top,Cole,Clarence E.,Topeka
+cravens-wic+top+sed,Cravens,James J.,Topeka
+crum-top+okc,Crum,Charles W.,Topeka
+dunn.bert.a-top,Dunn,Bert A.,Topeka
+dunn.burt-top,Dunn,Burt,Topeka
+dye-top,Dye,,Topeka
+elmore-top,Elmore,,Topeka
+forrester-gut+lea+top,Forrester,"John W. ""Jack""",Topeka
+henry-top,Henry,"John ""Jack""",Topeka
+hiser-top+spr,Hiser,,Topeka
+hokenson-top,Hokenson,,Topeka
+hood-spr+wic+lea+top,Hood,"G. W. ""Chub""",Topeka
+howie-top,Howie,"William ""Will""",Topeka
+hughes-top,Hughes,"Thomas L. ""Tom""*",Topeka
+lizotte-top,Lizotte,"Abel ""Abe""*",Topeka
+lyons-lea+top,Lyons,Charles K.,Topeka
+mcclure-top,McClure,,Topeka
+mckelvey-gut+top,McKelvey,Ed,Topeka
+murray-wic+top,Murray,J. Pearl,Topeka
+persch-top+sed,Persch,"Abner ""Dutch""",Topeka
+quigley-top,Quigley,Frank,Topeka
+ragan-top,Ragan,Steven J.,Topeka
+smith-jop+top,Smith,F. H.,Topeka
+stewart-top+jop,Stewart,"C. C. ""Ducky""",Topeka
+stvrain-top,St. Vrain,"James M. ""Jim""*",Topeka
+allen-wic,Allen,"Edward ""Shorty""",Wichita
+bankhead-okc+wic,Bankhead,Cecil G.,Wichita
+bemis-wic,Bemis,"Charles ""Peg""",Wichita
+bevis-wic,Bevis,Roy J.,Wichita
+clarke-wic+okc+jop,Clarke,"Orel ""Red""",Wichita
+cope-wic+spr,Cope,Thomas,Wichita
+cravens-wic+top+sed,Cravens,James J.,Wichita
+ferris-wic,Ferris,George Martin,Wichita
+fillman-jop+wic,Fillman,John Henry,Wichita
+frick-okc+wic,Frick,"Ernest ""Jimmy""",Wichita
+gehring-wic,Gehring,"Henry J. ""Hank""*",Wichita
+green-wic,Green,John,Wichita
+holland-wic,Holland,"John Abner ""Jack""",Wichita
+hood-spr+wic+lea+top,Hood,"G. W. ""Chub""",Wichita
+kimmel-wic,Kimmel,William J.,Wichita
+maryott-wic+sed,Maryott,Miles,Wichita
+mcgill-wic,McGill,,Wichita
+mclear-wic+okc,McLear,Harry,Wichita
+miller-wic,Miller,"Dakin E. ""Dusty""*",Wichita
+milton-wic,Milton,Sam. Lawrence*,Wichita
+milton-wic,Milton,S. Lawrence*,Wichita
+murray-wic+top,Murray,J. Pearl,Wichita
+oleary-wic,O'Leary,Daniel Leroy,Wichita
+price-wic,Price,Howard S.,Wichita
+shaner-wic+okc+sed,Shaner,Bert,Wichita
+solter-wic,Solter,A.,Wichita
+willet-wic,Willet,"Robert E. ""Ed""*",Wichita
