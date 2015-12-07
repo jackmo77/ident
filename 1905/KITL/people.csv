@@ -1,0 +1,137 @@
+person.key,person.name.last,person.name.first,entry.name
+brown-exc,Brown,Charles W.,#league
+farnbaker-exc,Farnbaker,M. J.,#league
+adams-ump,Adams,Frank,#umpire
+eckstone-cai+ump,Eckstone,Sydney,#umpire
+ike-ump,Ike,Albert,#umpire
+zinkins-ump,Zinkins,Ned,#umpire
+asher-hen+cai,Asher,"Elvis E. ""Big Bill""",Cairo
+bissell-cai,Bissell,Wilbert P.,Cairo
+bittrolff-cai,Bittrolff,George F.,Cairo
+blackburn-cai,Blackburn,R. J.,Cairo
+bomar-hop+cai,Bomar,Charles B.,Cairo
+daniels-hen+cai,Daniels,,Cairo
+eckstone-cai+ump,Eckstone,Sydney,Cairo
+fleming-cai,Fleming,Harry J.,Cairo
+gerard-cai,Gerard,"Frank ""Kitty""",Cairo
+harsey-cai,Harsey,,Cairo
+harvey-cai,Harvey,James,Cairo
+hippert-cai+vin,Hippert,Garfield Arthur,Cairo
+holycross-cai,Holycross,Pearl,Cairo
+hughes-cai,Hughes,"James C. ""Dummy""",Cairo
+lane-cai,Lane,Clifford,Cairo
+larsen-cai,Larsen,Andrew N.,Cairo
+lemon-vin+cai,Lemon,Lee,Cairo
+marre-cai,Marre,"Angelo ""Augie""",Cairo
+mccarthy-cai,McCarthy,"Daniel ""Dan""",Cairo
+mcnamare-cai,McNamare,,Cairo
+morgan-hen+cai,Morgan,Louis P.,Cairo
+morris-hop+cai,Morris,"Forrest ""Foxy""",Cairo
+opfergelt-cai,Opfergelt,Edward A.,Cairo
+petit-cai,Petit,"Andrew E. ""Andy""",Cairo
+price-cai,Price,Howard S.,Cairo
+roland-cai,Roland,William M.,Cairo
+schaefer-cai,Schaefer,Ben,Cairo
+taylor-cai,Taylor,,Cairo
+vitter-cai,Vitter,"Harry W. ""Red""",Cairo
+wagner-cai,Wagner,"Louis R. ""Dutch""",Cairo
+wilder-cai,Wilder,Percy,Cairo
+asher-hen+cai,Asher,"Elvis E. ""Big Bill""",Henderson
+brown-hen,Brown,M.,Henderson
+crowder-hen,Crowder,Ned,Henderson
+daniels-hen+cai,Daniels,,Henderson
+dennis-hen,Dennis,,Henderson
+duncan-hen,Duncan,,Henderson
+french-hen+vin,French,Charles C.*,Henderson
+gilbert-hen,Gilbert,Rufus W.,Henderson
+goodrich-hen,Goodrich,Clarence,Henderson
+kubitz-hen,Kubitz,Harry,Henderson
+long-hen+pri,Long,Arthur,Henderson
+morgan-hen+cai,Morgan,Louis P.,Henderson
+mullen-hen,Mullen,Otho,Henderson
+quinn-hen,Quinn,Franklin C.*,Henderson
+schissel-hen,Schissel,"Albert Daniel ""Al""",Henderson
+stewart-hen,Stewart,,Henderson
+uhl-hen,Uhl,Fred,Henderson
+barlow-hop+pri,Barlow,Robert,Hopkinsville
+bomar-hop+cai,Bomar,Charles B.,Hopkinsville
+brady-hop,Brady,Frank,Hopkinsville
+desmond-hop,Desmond,"John T. ""Jack""",Hopkinsville
+henderson-hop,Henderson,,Hopkinsville
+ketter-hop,Ketter,"Philip ""Phil""*",Hopkinsville
+mcandrews-hop+pri,McAndrews,"Patrick ""Pat""",Hopkinsville
+meyers-hop+pri,Meyers,Harry,Hopkinsville
+morris-hop+cai,Morris,"Forrest ""Foxy""",Hopkinsville
+perdue-hop+vin,Perdue,"Herbert R. ""Hub""*",Hopkinsville
+rutledge-hop,Rutledge,"Louis ""Lou""",Hopkinsville
+schan-hop,Schan,Louis,Hopkinsville
+simpson-hop,Simpson,,Hopkinsville
+sullinger-hop,Sullinger,Ford W.,Hopkinsville
+bohanon-pad,Bohanon,"L. P. Blackburn ""Red""",Paducah
+boreen-pad,Boreen,B. B.,Paducah
+brahic-pad,Brahic,"Lewis W. ""Dick""",Paducah
+frakes-pad,Frakes,William,Paducah
+gilligan-pad,Gilligan,"Edward M. ""Eddie""",Paducah
+grohie-pad,Grohie,Lewis,Paducah
+hedges-pad,Hedges,Alonzo,Paducah
+land-pad,Land,Grover C.*,Paducah
+lloyd-pad,Lloyd,Harry,Paducah
+mcclain-pad,McClain,James ,Paducah
+perry-pad,Perry,E. C. (Ed?),Paducah
+piatt-pad,Piatt,Wiley H.*,Paducah
+potts-pad,Potts,J. Frank,Paducah
+south-pad,South,Weldon,Paducah
+taylor-pad,Taylor,Eddie,Paducah
+vahrenhorst-pad,Vahrenhorst,Harry H.*,Paducah
+akers-pri,Akers,"Abram ""Abe""",Princeton
+barlow-hop+pri,Barlow,Robert,Princeton
+beeker-pri,Beeker,William,Princeton
+bell-pri,Bell,Theron,Princeton
+carnes-pri,Carnes,C. C.,Princeton
+downing-pri,Downing,"Patrick ""Pat""",Princeton
+fehn-pri,Fehn,,Princeton
+hoepple-pri,Hoepple,"J. F. ""Ike""",Princeton
+keller-pri,Keller,George,Princeton
+kipp-pri,Kipp,Joseph,Princeton
+long-hen+pri,Long,Arthur,Princeton
+magill-pri,Magill,Joseph,Princeton
+mcandrews-hop+pri,McAndrews,"Patrick ""Pat""",Princeton
+mcgill-pri,McGill,Charles Joseph,Princeton
+mcnamara-pri,McNamara,P. J.,Princeton
+meyers-hop+pri,Meyers,Harry,Princeton
+oleary-pri,O'Leary,,Princeton
+ray-pri,Ray,John S.,Princeton
+reiss-pri,Reiss,Andrew,Princeton
+rosson-pri,Rosson,"Lester G. ""Dummy""",Princeton
+smith-pri,Smith,"Thomas J. ""Tom""",Princeton
+swain-pri,Swain,"Arthur A. ""Cy""",Princeton
+taaffe-pri,Taaffe,William Bert,Princeton
+virgils-pri,Virgils,Ernest,Princeton
+wagner-pri,Wagner,,Princeton
+walters-pri,Walters,Clyde V.,Princeton
+weakley-pri,Weakley,Henry E.,Princeton
+wilkinson-pri,Wilkinson,Jack W.,Princeton
+witt-vin+pri,Witt,Harvey A.,Princeton
+worrall-pri,Worrall,,Princeton
+barbour-vin,Barbour,"Louis C. ""Lou""",Vincennes
+bierkortte-vin,Bierkortte,John H.,Vincennes
+bonno-vin,Bonno,"Gustav ""Gus""",Vincennes
+boylan-vin,Boylan,John,Vincennes
+cooper-vin,Cooper,"Henry ""Harry""",Vincennes
+donovan-vin,Donovan,"Leonard E. ""Len""",Vincennes
+dooln-vin,Dooln,,Vincennes
+duggan-vin,Duggan,John,Vincennes
+forney-vin,Forney,"William ""Will""",Vincennes
+french-hen+vin,French,Charles C.*,Vincennes
+hahn-vin,Hahn,Phil,Vincennes
+hippert-cai+vin,Hippert,Garfield Arthur,Vincennes
+kolb-vin,Kolb,"Edward W. ""Eddie""*",Vincennes
+lemon-vin+cai,Lemon,Lee,Vincennes
+mattern-vin,Mattern,Mattie,Vincennes
+matteson-vin,Matteson,"""Matty""",Vincennes
+mitchell-vin,Mitchell,"Felton ""Midget""",Vincennes
+nonemaker-vin,Nonemaker ,"Joseph F. ""Joe""",Vincennes
+perdue-hop+vin,Perdue,"Herbert R. ""Hub""*",Vincennes
+whitley-vin,Whitley,James,Vincennes
+wilkinson-vin,Wilkinson,George J.,Vincennes
+witt-vin+pri,Witt,Harvey A.,Vincennes

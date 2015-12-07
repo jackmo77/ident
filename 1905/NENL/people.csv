@@ -1,0 +1,269 @@
+person.key,person.name.last,person.name.first,entry.name
+murnane-exc,Murnane,Timothy H.,#league
+brady-ump,Brady,Tom,#umpire
+hastings-ump,Hastings,Charles M.*,#umpire
+kerins-ump,Kerins,"John N. ""Jack""*",#umpire
+mccloud-ump,McCloud,Harry J.,#umpire
+obrien-ump,O'Brien,,#umpire
+stafford-ump,Stafford,"John H. ""Jack""*",#umpire
+callahan-con,Callahan,John F.,Concord
+curley-con,Curley,Walter J.*,Concord
+devine-nas+con,Devine,Thomas F.,Concord
+duggan-con,Duggan,Daniel J.,Concord
+dunn-con,Dunn,Ambrose,Concord
+edmonston-con+nas,Edmonston,Samuel S.*,Concord
+eustace-con,Eustace,Frank J.*,Concord
+frock-con,Frock,Samuel W.*,Concord
+groom-con+hav,Groom,Leonard,Concord
+hartman-con,Hartman,"Samuel ""Sam""",Concord
+henry-con,Henry,Frank P.,Concord
+hickman-con,Hickman,Charles H.,Concord
+kane-con,Kane,Ambrose Patrick,Concord
+knotts-low+con,Knotts,Joseph S.*,Concord
+murphy-con,Murphy,Patrick H.,Concord
+sheets-con,Sheets,Roy C.,Concord
+sline-con,Sline,William Francis,Concord
+steventon-con+nas,Steventon,John H.,Concord
+sullivan.p-low+con,Sullivan,Percy J.,Concord
+templin-con,Templin,Curtis H.,Concord
+zacher-con,Zacher,Elmer H.*,Concord
+zeller-con,Zeller,Jack,Concord
+birmingham-fr,Birmingham,"Michael F. ""Mike""",Fall River
+bowcock-fr,Bowcock,Benjamin J.*,Fall River
+carrick-fr,Carrick,William M.*,Fall River
+carrier-nb+fr+man+hav,Carrier,Archie,Fall River
+curry-lyn+fr,Curry,,Fall River
+dwyer-fr+nb,Dwyer,Timothy J.,Fall River
+feeney-fr,Feeney,Thomas R./F.,Fall River
+gilroy-fr,Gilroy,Thomas W.,Fall River
+guiheen-fr,Guiheen,Thomas A.,Fall River
+harris-fr,Harris,Joseph L. W.*,Fall River
+higgins-fr,Higgins,Joseph I.,Fall River
+hirst-fr,Hirst,James W.,Fall River
+kiernan-fr,Kiernan,John Francis,Fall River
+lee-fr+tau,Lee,Carl F.,Fall River
+mcdermott-fr,McDermott,Thomas F.,Fall River
+moorhead-fr,Moorhead,James,Fall River
+ohara-fr,O'Hara,Dennis,Fall River
+rioux-fr,Rioux,,Fall River
+sullivan-fr,Sullivan,John D.,Fall River
+swanson-fr,Swanson,Iver,Fall River
+waters-fr,Waters,Martin John,Fall River
+ahearn-hav,Ahearn,Walter,Haverhill
+averill-hav,Averill,"John ""Jack""",Haverhill
+boardman-hav,Boardman,George H.,Haverhill
+brown-hav,Brown,Fred H.*,Haverhill
+carrier-nb+fr+man+hav,Carrier,Archie,Haverhill
+clancy-hav,Clancy,Charles A.,Haverhill
+connolly-hav,Connolly,Patrick H.,Haverhill
+cross-hav,Cross,James H.,Haverhill
+dean-hav,Dean,H. Lawrence,Haverhill
+driscoll-nas+hav,Driscoll,James W.,Haverhill
+edwards-hav,Edwards,George W.,Haverhill
+foley-hav,Foley,Charles,Haverhill
+francis-hav,Francis,,Haverhill
+groom-con+hav,Groom,Leonard,Haverhill
+lawrence-hav,Lawrence,Andrew,Haverhill
+leahy-nas+hav,Leahy,David F.,Haverhill
+mcginley-hav,McGinley,James W.*,Haverhill
+mcgraw-hav,McGraw,Bernard J.,Haverhill
+miron-hav,Miron,E. Dennis,Haverhill
+morrison-hav,Morrison,John J.,Haverhill
+moss-hav,Moss,Charles,Haverhill
+murphy-hav,Murphy,Cornelius D.*,Haverhill
+oneil.h-hav+tau,O'Neil,Harry J.,Haverhill
+oneill.j-hav+lyn,O'Neill,James J.,Haverhill
+raftery-hav,Raftery,Thomas F.*,Haverhill
+smythe-hav,Smythe,Harry W.,Haverhill
+spooner-hav,Spooner,George A.,Haverhill
+taylor-nb+hav,Taylor,Wallace N.,Haverhill
+unkle-hav,Unkle,W. George,Haverhill
+varney-hav+nas+nb,Varney,Lawrence D.*,Haverhill
+wallace-hav,Wallace,James L.*,Haverhill
+armbruster-man+law,Armbruster,Harry*,Lawrence
+cassidy-lyn+man+law,Cassidy,Bernard J.,Lawrence
+clark-man+law,Clark,W. Winfield*,Lawrence
+cote-man+law,Cote,Henry J.*,Lawrence
+cross-low+man+nas,Cross,G. Lewis*,Lawrence
+knau-man+law,Knau,Louis,Lawrence
+merritt-low+law,Merritt,William H.*,Lawrence
+morrissey-law,Morrissey,Thomas,Lawrence
+page-man+law,Page,"Wilfred H. ""Billy""",Lawrence
+sanderson-nas+law,Sanderson,John F.,Lawrence
+smith.j-man+law,Smith,John F.*,Lawrence
+spratt-man+law,Spratt,"William A. ""Jack""",Lawrence
+volz-man+law,Volz,Jacob P.*,Lawrence
+whiting-man+law,Whiting,Jesse W.*,Lawrence
+wilson-law,Wilson,J. Garrett*,Lawrence
+anderberg-low,Anderberg,Charles A.,Lowell
+bennett-low,Bennett,,Lowell
+bigbie-low+lyn,Bigbie,George Stanley,Lowell
+bushey-low+lyn,Bushey,Alfred C.,Lowell
+connors.j-low,Connors,James W.,Lowell
+connors.w-low+tau+lyn,Connors,William F.,Lowell
+coughlin-low,Coughlin,John J.,Lowell
+cross-low+man+nas,Cross,G. Lewis*,Lowell
+grant-low+tau,Grant,George W.,Lowell
+halligan-low,Halligan,"Edward ""Ed""",Lowell
+houghton-low,Houghton,William H.,Lowell
+huntington-low+tau,Huntington,Fred W.,Lowell
+jackson.j-how+tau,Jackson,James Francis,Lowell
+jackson.o-low+tau,Jackson,Owen,Lowell
+knotts-low+con,Knotts,Joseph S.*,Lowell
+kussmaul-low,Kussmaul,Henry A.,Lowell
+leonard.j-low+nas,Leonard,John T.,Lowell
+mclaughlin-low+nas,McLaughlin,Bernard T.,Lowell
+merritt-low+law,Merritt,William H.*,Lowell
+mitchell-low,Mitchell,Joseph,Lowell
+orchard-low,Orchard,,Lowell
+pattee-low,Pattee,Harry E.*,Lowell
+simonds-low,Simonds,,Lowell
+sullivan.j-low,Sullivan,James,Lowell
+sullivan.p-low+con,Sullivan,Percy J.,Lowell
+tierney-low+tau,Tierney,Mark,Lowell
+tonkin-low,Tonkin,H. Glenville*,Lowell
+wall-low,Wall,Joseph F.*,Lowell
+wheatley-low,Wheatley,William J.,Lowell
+bannon-lyn,Bannon,Thomas E.*,Lynn
+bigbie-low+lyn,Bigbie,George Stanley,Lynn
+boyson-lyn,Boyson,Walter L.,Lynn
+bushey-low+lyn,Bushey,Alfred C.,Lynn
+cassidy-lyn+man+law,Cassidy,Bernard J.,Lynn
+colburn-nas+lyn,Colburn,Bernard J.,Lynn
+connors.w-low+tau+lyn,Connors,William F.,Lynn
+curry-lyn+fr,Curry,,Lynn
+daum-lyn,Daum,"August Fred ""Gus""",Lynn
+gokey-lyn+nas,Gokey,Eugene F.,Lynn
+goodwin-lyn,Goodwin,Frank,Lynn
+griffin-lyn,Griffin,William,Lynn
+jones-lyn,Jones,Herbert W.,Lynn
+kelley-lyn,Kelley,William,Lynn
+labelle-lyn,Labelle,Henry  P.,Lynn
+lake-lyn+nb,Lake,Frederick L.*,Lynn
+larrabee-lyn,Larrabee,Benjamin T.,Lynn
+leonard-lyn,Leonard,Frank J.,Lynn
+lovell-lyn,Lovell,Clarence D.,Lynn
+marriette-lyn,Marriette,,Lynn
+mcauliffe-lyn,McAuliffe,Eugene L.*,Lynn
+murphy.j-nas+lyn,Murphy,John P.*,Lynn
+oneill.j-hav+lyn,O'Neill,James J.,Lynn
+pastor-lyn,Pastor,"Henry ""Tony""",Lynn
+pierce-lyn,Pierce,Edward,Lynn
+smith.a-man+lyn,Smith,Arthur Woodrow,Lynn
+southwell-lyn,Southwell,Arthur F.,Lynn
+swope-lyn,Swope,Walter,Lynn
+tracy-lyn,Tracy,Henry,Lynn
+vail-lyn,Vail,Robert G.*,Lynn
+walsh-lyn,Walsh,Joseph,Lynn
+brennan-man,Brennan,William J.,Man
+armbruster-man+law,Armbruster,Harry*,Manchester
+carrier-nb+fr+man+hav,Carrier,Archie,Manchester
+cassidy-lyn+man+law,Cassidy,Bernard J.,Manchester
+chellew-man,Chellew,"Robert ""Red""",Manchester
+clark-man+law,Clark,W. Winfield*,Manchester
+cote-man+law,Cote,Henry J.*,Manchester
+cross-low+man+nas,Cross,G. Lewis*,Manchester
+hilbert-man,Hilbert,J. Charles,Manchester
+horton-man,Horton,,Manchester
+kane-man,Kane,William Penn,Manchester
+knau-man+law,Knau,Louis,Manchester
+leith-man,Leith,William*,Manchester
+mcmahon-man,McMahon,William,Manchester
+morrissey-man+nb,Morrissey,"Michael J. ""Frank""*",Manchester
+page-man+law,Page,"Wilfred H. ""Billy""",Manchester
+parent-man,Parent,John,Manchester
+smith.a-man+lyn,Smith,Arthur Woodrow,Manchester
+smith.j-man+law,Smith,John F.*,Manchester
+spratt-man+law,Spratt,"William A. ""Jack""",Manchester
+volz-man+law,Volz,Jacob P.*,Manchester
+whiting-man+law,Whiting,Jesse W.*,Manchester
+bannon-nas,Bannon,William,Nashua
+beard-nas,Beard,James W./A.,Nashua
+briggs-nash,Briggs,Joseph A.,Nashua
+bush-nas,Bush,,Nashua
+callahan-nas,Callahan,,Nashua
+colburn-nas+lyn,Colburn,Bernard J.,Nashua
+connaughton-nas,Connaughton,Frank H.*,Nashua
+cox-nas,Cox,James Francis,Nashua
+devine-nas+con,Devine,Thomas F.,Nashua
+dorgan-nas,Dorgan,William J.,Nashua
+driscoll-nas+hav,Driscoll,James W.,Nashua
+eaton-nas+tau,Eaton,George F.,Nashua
+edmonston-con+nas,Edmonston,Samuel S.*,Nashua
+edwards-nas,Edwards,Ralph S.,Nashua
+flanagan-nas,Flanagan,Stephen D.,Nashua
+gokey-lyn+nas,Gokey,Eugene F.,Nashua
+goodrich-nas,Goodrich,James,Nashua
+hart-nas,Hart,Eugene F.,Nashua
+henry-nas+tau,Henry,George W.*,Nashua
+jordan-nas,Jordan,Charles T.*,Nashua
+leahy-nas+hav,Leahy,David F.,Nashua
+leonard.j-low+nas,Leonard,John T.,Nashua
+leonard.w-nas,Leonard,William L.,Nashua
+mccallum-nas,McCallum,,Nashua
+mcdaniels-nas,McDaniels,Archie,Nashua
+mclaughlin-low+nas,McLaughlin,Bernard T.,Nashua
+murch-nas,Murch,Simeon A.*,Nashua
+murphy.h-nas+tau,Murphy,Harry R.,Nashua
+murphy.j-nas+lyn,Murphy,John P.*,Nashua
+murphy.t-nas+tau,Murphy,Thomas,Nashua
+norris-nas,Norris,Harry L.,Nashua
+otoole-nas,O'Toole,Michael Henry,Nashua
+phelan-nas,Phelan,John F.,Nashua
+sanderson-nas+law,Sanderson,John F.,Nashua
+steventon-con+nas,Steventon,John H.,Nashua
+varney-hav+nas+nb,Varney,Lawrence D.*,Nashua
+welch-nas,Welch,Arthur,Nashua
+wiley-nas,Wiley,John B.,Nashua
+blatchford-nb,Blatchford,Alfred A.,New Bedford
+brown-nb,Brown,Joseph P.,New Bedford
+burrell-nb,Burrell,"Frank A. ""Buster""*",New Bedford
+carrier-nb+fr+man+hav,Carrier,Archie,New Bedford
+coveney-nb,Coveney,John P.*,New Bedford
+deegan-nb,Deegan,William J.*,New Bedford
+doe-nb,Doe,"Alfred G. ""Fred""*",New Bedford
+dwyer-fr+nb,Dwyer,Timothy J.,New Bedford
+elliott-nb,Elliott,Mylon H.,New Bedford
+friend-nb,Friend,Daniel S.*,New Bedford
+howley-nb,Howley,Daniel P.*,New Bedford
+kavanaugh-nb,Kavanaugh,William E.,New Bedford
+kehoe-nb,Kehoe,John F.,New Bedford
+klobedanz-nb,Klobedanz,Frederick A.*,New Bedford
+lake-lyn+nb,Lake,Frederick L.*,New Bedford
+martin-nb,Martin,,New Bedford
+mcquillen-nb,McQuillen,George N.*,New Bedford
+morrissey-man+nb,Morrissey,"Michael J. ""Frank""*",New Bedford
+mullaney-nb,Mullaney,Edward F.,New Bedford
+murphy-nb,Murphy,David F.*,New Bedford
+phillips-nb,Phillips,Thomas,New Bedford
+purington-nb,Purington,Royce D.,New Bedford
+taylor-nb+hav,Taylor,Wallace N.,New Bedford
+turner-nb,Turner,"George A. ""Tuck""*",New Bedford
+valdois-nb,Valdois,Fred J.,New Bedford
+varney-hav+nas+nb,Varney,Lawrence D.*,New Bedford
+beaulieu-tau,Beaulieu,"Stephen ""Steve""",Taunton
+boles-tau,Boles,,Taunton
+burns-tau,Burns,Frank,Taunton
+connors.w-low+tau+lyn,Connors,William F.,Taunton
+drohan-tau,Drohan,James H.,Taunton
+duvally-tau,Duvally,Frank A.,Taunton
+eaton-nas+tau,Eaton,George F.,Taunton
+ellison-tau,Ellison,Joseph A.,Taunton
+fontaine-tau,Fontaine,,Taunton
+grant-low+tau,Grant,George W.,Taunton
+henry-nas+tau,Henry,George W.*,Taunton
+huntington-low+tau,Huntington,Fred W.,Taunton
+jackson.j-how+tau,Jackson,James Francis,Taunton
+jackson.o-low+tau,Jackson,Owen,Taunton
+jordan-tau,Jordan,Herbert E.,Taunton
+lee-fr+tau,Lee,Carl F.,Taunton
+mcaloon-tau,McAloon,Jerry,Taunton
+mcknight-tau,McKnight,James,Taunton
+moore-tau,Moore,,Taunton
+murphy.h-nas+tau,Murphy,Harry R.,Taunton
+murphy.t-nas+tau,Murphy,Thomas,Taunton
+oneil.h-hav+tau,O'Neil,Harry J.,Taunton
+thurber-tau,Thurber,,Taunton
+tierney-low+tau,Tierney,Mark,Taunton
+wolfe-tau,Wolfe,Paul,Taunton
+woodward-tau,Woodward,Arthur C.,Taunton

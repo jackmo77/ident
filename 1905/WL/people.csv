@@ -1,0 +1,229 @@
+person.key,person.name.last,person.name.first,entry.name
+oneill-exc,O'Neill,"Norris J. ""Tip""",#league
+burns-ump,Burns,James A.,#umpire
+caruthers-ump,Caruthers,Robert L.*,#umpire
+mace-ump,Mace,Harry F.*,#umpire
+shuster-ump,Shuster,J. F.,#umpire
+vansickle-ump,Van Sickle,,#umpire
+bader-cs+pue,Bader,"Arthur H. ""Art""*",Colorado Springs
+blair-cs,Blair,William F.,Colorado Springs
+blake-cs+pue,Blake,Harry C.*,Colorado Springs
+companion-oma+cs,Companion,Paul C.,Colorado Springs
+cook-cs+pue,Cook,"James F. ""Jim""*",Colorado Springs
+curtis-cs,Curtis,"Eugene ""Gene""*",Colorado Springs
+delahanty-cs,Delahanty,Thomas*,Colorado Springs
+delahanty-cs+pue,Delahanty,"Thomas ""Tom""*",Colorado Springs
+elwert-cs+pue,Elwert,"William J. ""Billy""",Colorado Springs
+frisbee-dm+cs,Frisbee,Charles A.*,Colorado Springs
+hester-cs+pue,Hester,Herb,Colorado Springs
+knabe-cs+pue,Knabe,Otto*,Colorado Springs
+lindsay-cs+pue,Lindsay,Harry,Colorado Springs
+matney-cs+pue,Matney,Grover Britton,Colorado Springs
+mckean-cs,McKean,"Edwin J. ""Ed""*",Colorado Springs
+mckean-cs,McKean,Ed*,Colorado Springs
+mellor-cs,Mellor,"William ""Bill""*",Colorado Springs
+messitt-cs+pue,Messitt,Tom*,Colorado Springs
+minor-cs+pue,Minor,C. Albert,Colorado Springs
+mitze-cs+pue+stj,Mitze,Carl A.,Colorado Springs
+mott-cs+pue,Mott,Anson Robert,Colorado Springs
+nash-cs,Nash,John,Colorado Springs
+pennell-cs+stj,Pennell,Arthur Lee,Colorado Springs
+schriver-cs+pue,Schriver,"William ""Pop""*",Colorado Springs
+stimmel-cs+pue,Stimmel,Archie*,Colorado Springs
+swormstedt-cs,Swormstedt,Len*,Colorado Springs
+welch-cs,Welch,"Conrad ""Connie""",Colorado Springs
+belden-den,Belden,Ira A.*,Denver
+bohannon-den,Bohannon,"Patrick  H. ""Pat""",Denver
+brown-sc+stj+den,Brown,Dick,Denver
+engel-den,Engel,George M.,Denver
+everitt-den,Everitt,"William L. ""Bill""*",Denver
+everitt-den,Everitt,Bill*,Denver
+fessler-den,Fessler,,Denver
+hartzell-den,Hartzell,Roy A.* ,Denver
+hickman-den,Hickman,J. Gordon,Denver
+hoelskoetter-den,Hoelskoetter,Art*,Denver
+luchia-den,Luchia,Frederick J.,Denver
+lyons-den,Lyons,Sullivan,Denver
+marsh-den,Marsh,(Greeley Reds),Denver
+mcgilvray-den+stj+dm,Hayes,,Denver
+mcgilvray-den+stj+dm,McGilvray,Bill*,Denver
+mchale-den,McHale,"Robert E. ""Bob""*",Denver
+perrine-den,Perrine,"John G. ""Nig""*",Denver
+randall-den,Randall,Newt*,Denver
+robideau-stj+den,Robideau,"David R. ""Dave""",Denver
+schaub-den+sc,Schaub,Louis,Denver
+sisler-den,Sisler,Charles,Denver
+smith-den,Smith,"Thomas ""Tom""",Denver
+tebeau-den,Tebeau,George*,Denver
+vasbinder-den,Vasbinder,Cal*,Denver
+vollendorf-den,Vollendorf,Adolph,Denver
+zinram-stj+den,Zinram,"Edward ""Eddie""",Denver
+caffyn-dm,Caffyn,"Benjamin ""Ben""*",Des Moines
+cantillon.j-dm,Cantillon,Joe,Des Moines
+cantillon.m-dm,Cantillon,Mike E.,Des Moines
+chappell-dm,Chappell,"William ""Bill""*",Des Moines
+coates-dm,Coates,Thomas,Des Moines
+dexter-stj+dm,Dexter,Charles D.*,Des Moines
+doty-dm,Doty,,Des Moines
+fiske-dm,Fiske,Roy B.,Des Moines
+frisbee-dm+cs,Frisbee,Charles A.*,Des Moines
+ganley-dm,Ganley,"Robert S. ""Bob""*",Des Moines
+halla-dm,Halla,John A.*,Des Moines
+hogriever-dm,Hogriever,George C.*,Des Moines
+leifield-dm,Leifield,"Albert P. ""Lefty""*",Des Moines
+long-dm,Long,Herman*,Des Moines
+manske-dm,Manske,Lou*,Des Moines
+mcgilvray-den+stj+dm,McGilvray,Bill*,Des Moines
+mckay-den,McKay,Reeve S.*,Des Moines
+mcnichols-dm,McNichols,Frank J.,Des Moines
+morrison-dm,Morrison,William H.,Des Moines
+owsley-dm,Owsley,Clarence,Des Moines
+rossman=dm,Rossman,Claude*,Des Moines
+schils-stj+dm,Schils,"Albert J. ""Bert"" ",Des Moines
+shugart-dm,Shugart,Frank*,Des Moines
+steele-dm,Steele,Fredrick Morine,Des Moines
+stillman-dm,Stillman,Lee A.,Des Moines
+towne-dm,Towne,"Jay K. ""Babe""*",Des Moines
+wakefield-dm,Wakefield,Howard*,Des Moines
+wolfe-dm,Wolfe,Roland Ray,Des Moines
+adams-oma,Adams,Nig (local s-p),Omaha
+bassey-oma,Bassey,"John H. ""Buster""",Omaha
+bradley-oma,Bradley,,Omaha
+brown-oma,Brown,,Omaha
+buckley-oma,Buckley,(of Tekamah NB),Omaha
+carter-oma,Carter,"Robert ""Bobby""",Omaha
+clark-oma,Clark,,Omaha
+companion-oma+cs,Companion,Paul C.,Omaha
+corns-oma,Corns,Harry Marshall,Omaha
+dolan-oma,Dolan,"Joseph ""Joe""*",Omaha
+freeze-oma,Freeze,"Harry T. ""Butch""",Omaha
+gonding-oma,Gonding,"John ""Johnny""",Omaha
+hall-oma,Hall,Louis C.,Omaha
+henline-stj+oma,Henline,Noah,Omaha
+howard-oma,Howard,Ivan C.*,Omaha
+koukalik-oma,Koukalik,Joseph*,Omaha
+lawler-oma,Lawler,"Edward L. ""Ed""",Omaha
+liebardt-oma+stj,Liebhardt,Glenn J.*,Omaha
+martin-oma,Martin,Frank J.*,Omaha
+mccloskey-oma,McCloskey,Jas. John*,Omaha
+pfiester-oma,Pfiester,Jack*,Omaha
+port-oma,Port,,Omaha
+quick-oma,Quick,Eddie*,Omaha
+rourke-oma,Rourke,"William ""Pa""",Omaha
+sanders-oma,Sanders,"Warren W. ""War""*",Omaha
+shipke-oma,Shipke,Bill*,Omaha
+thiel-oma,Thiel,Otto,Omaha
+thomas-oma+stj,Thomas,"John N. ""Jack""",Omaha
+welch.h-oma,Welch,Harry J.,Omaha
+welch.k-oma,Welch,Kelly,Omaha
+bader-cs+pue,Bader,"Arthur H. ""Art""*",Pueblo
+blake-cs+pue,Blake,Harry C.*,Pueblo
+brown-pue,Brown,,Pueblo
+cadwalader-sc+pue,Cadwalader,Ralph L.,Pueblo
+cook-cs+pue,Cook,"James F. ""Jim""*",Pueblo
+dawson-sc+pue,Dawson,(from Keokuk),Pueblo
+delahanty-cs+pue,Delahanty,"Thomas ""Tom""*",Pueblo
+elwert-cs+pue,Elwert,"William J. ""Billy""",Pueblo
+faurot-pue,Faurot,Lee C.,Pueblo
+graham-pue,Graham,G. A.,Pueblo
+hester-cs+pue,Hester,Herb,Pueblo
+hutter-pue,Hutter,Amos,Pueblo
+jackson-pue,Jackson,,Pueblo
+knabe-cs+pue,Knabe,Otto*,Pueblo
+lee-pue,Lee,(local amateur),Pueblo
+lindsay-cs+pue,Lindsay,Harry,Pueblo
+matney-cs+pue,Matney,Grover Britton,Pueblo
+messitt-cs+pue,Messitt,Tom*,Pueblo
+minor-cs+pue,Minor,C. Albert,Pueblo
+mitze-cs+pue+stj,Mitze,Carl A.,Pueblo
+mott-cs+pue,Mott,Anson Robert,Pueblo
+newton-sc+pue,Newton,"Albert ""Al""",Pueblo
+schriver-cs+pue,Schriver,"William ""Pop""*",Pueblo
+stimmel-cs+pue,Stimmel,Archie*,Pueblo
+allemang-sc,Allemang,Harry,Sioux City
+baerwald-sc,Baerwald,Charles August,Sioux City
+bartos-sc,Bartos,John L.,Sioux City
+bills-sc,Bills,"Joseph L. ""Joe""",Sioux City
+brown-sc+stj+den,Brown,Dick,Sioux City
+cadwalader-sc+pue,Cadwalader,Ralph L.,Sioux City
+carney-sc,Carney,"John J. ""Jack""*",Sioux City
+collins-sc+stj,Collins,Edw. Conrad,Sioux City
+dawson-sc+pue,Dawson,(from Keokuk),Sioux City
+hatch-sc,Hatch,Harry French,Sioux City
+haviland-sc,Haviland,John C.,Sioux City
+jarrott-sc,Jarrott,Ferdinand,Sioux City
+kostal+sc,Kostal,"Joseph W. ""Joe""*",Sioux City
+lawler-sc,Lawler,John Montague,Sioux City
+leach-sc,Leach,,Sioux City
+mcdonald-sc,McDonald,Charles,Sioux City
+meek-sc,Meek,Herman J.,Sioux City
+metz-sc,Metz,Eddie (SC amat),Sioux City
+newlin-sc,Newlin,"Otto ""Red""",Sioux City
+newton-sc+pue,Newton,"Albert ""Al""",Sioux City
+noblit-sc,Noblit,George S.,Sioux City
+noyes-stj+sc,Noyes,Edwin Gossin,Sioux City
+ohara-sc,O'Hara,"James F. ""Kid""*",Sioux City
+pulsifer-sc,Pulsifer,"Nathan ""Nate""",Sioux City
+schaub-den+sc,Schaub,Louis,Sioux City
+shea-sc,Shea,John H.,Sioux City
+sheehan-sc,Sheehan,"Daniel ""Dan""",Sioux City
+skeen-sc,Skeen,,Sioux City
+starnagle-sc,Starnagle,George*,Sioux City
+villeman-sc,Villeman,George,Sioux City
+volz-sc,Volz,Jake*,Sioux City
+weed-sc,Weed,Frederic M.,Sioux City
+wilkes-sc,Wilkes,"Joseph ""Joe""",Sioux City
+wilson-sc,Wilson,"James G. ""Gary""*",Sioux City
+anderson-stj,Anderson,Ernest H. (s-p),St. Joseph
+andrews-stj,Andrews,"Jay Allen ""Doc""",St. Joseph
+brown-sc+stj+den,Brown,Dick,St. Joseph
+clark-sj,Clark,"Orel ""Red""",St. Joseph
+collins-sc+stj,Collins,Edw. Conrad,St. Joseph
+dexter-stj+dm,Dexter,Charles D.*,St. Joseph
+dexter-stj+dm,Dexter,Charles*,St. Joseph
+douglass-stj,Douglass,"Wm. ""Klondike*""",St. Joseph
+douglass-stj,Douglass*,William,St. Joseph
+duncan-stj,Duncan,,St. Joseph
+dunn-stj,Dunn,Bert A.,St. Joseph
+durbin-stj,Durbin,"Blaine A. ""Kid""*",St. Joseph
+eyler-sj,Eyler,Elwood Clay,St. Joseph
+fair-sj,Fair,Charles E.,St. Joseph
+finch-stj,Finch,Jack W.,St. Joseph
+fleming-stj,Fleming,"Thomas ""Tom""*",St. Joseph
+freeman-stj,Freeman,(of Sunday L.),St. Joseph
+henline-stj+oma,Henline,Noah,St. Joseph
+jones-stj,Jones,John A.,St. Joseph
+ketchum-stj,Ketchum,Fred*,St. Joseph
+kuss-stj,Kuss/Huss,(of Troy KS),St. Joseph
+kuss-stj,Kuss/Huss,(of Troy KS),St. Joseph
+kuss-stj,Kuss/Huss,(of Troy KS),St. Joseph
+liebardt-oma+stj,Liebhardt,Glenn J.*,St. Joseph
+lizotte-stj,Lizotte,Abe*,St. Joseph
+mccall-stj,McCall,John H.,St. Joseph
+mccreight-stj,McCreight,,St. Joseph
+mcgilvray-den+stj+dm,McGilvray,Bill*,St. Joseph
+meier-stj,Meier,,St. Joseph
+mitze-cs+pue+stj,Mitze,Carl A.,St. Joseph
+molyneaux-stj,Molyneaux,Edward J.,St. Joseph
+noyes-stj+sc,Noyes,Edwin Gossin,St. Joseph
+obrien-stj,O'Brien,,St. Joseph
+peer-stj,Peer,Michael Francis,St. Joseph
+pennell-cs+stj,Pennell,Arthur Lee,St. Joseph
+quillin-stj,Quillin,"Leon A. ""Lee""*",St. Joseph
+reynolds-stj,Reynolds,Hal R.,St. Joseph
+richardson-stj,Richardson,,St. Joseph
+robideau-stj+den,Robideau,"David R. ""Dave""",St. Joseph
+schils-stj+dm,Schils,"Albert J. ""Bert"" ",St. Joseph
+seay-stj,Seay,"Harry W. ""Pat""",St. Joseph
+shea-stj,Shea,Pete,St. Joseph
+souders-stj,Souders,Hawley A.,St. Joseph
+spencer-stj,Spencer,,St. Joseph
+stoup-stj,Stoup,Joseph Richard,St. Joseph
+stvrain-stj,St. Vrain,Jim*,St. Joseph
+thomas-oma+stj,Thomas,"John N. ""Jack""",St. Joseph
+waller-stj,Waller,,St. Joseph
+walsh-stj,Walsh,Jack,St. Joseph
+wilson-stj,Wilson,,St. Joseph
+zink-stj,Zink,Bill,St. Joseph
+zinman-stj,Zinman,Eddie,St. Joseph
+zinram-stj+den,Zinram,"Edward ""Eddie""",St. Joseph

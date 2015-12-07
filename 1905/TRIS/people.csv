@@ -1,0 +1,373 @@
+person.key,person.name.last,person.name.first,entry.name
+creamer-ump,Creamer,Theodore B.,#league
+black-ump,Black,Robt. W.,#umpire
+bressler-ump,Bressler,"Harry J. ""Rube""",#umpire
+connor-ump,Connor,Tom,#umpire
+donovan-ump,Donovan,,#umpire
+drauby-ump,Drauby,Jacob C.*,#umpire
+england-ump,England,,#umpire
+gallagher-ump,Gallagher,,#umpire
+gray-ump,Gray,,#umpire
+heard-ump,Heard,,#umpire
+hickey-ump,Hickey,,#umpire
+kelley-ump,Kelley,,#umpire
+laird-ump,Laird,,#umpire
+malligan-ump,Malligan,,#umpire
+mcnamara-ump,McNamara,Bob,#umpire
+oneill-ump,O'Neill,,#umpire
+smith-ump,Smith,,#umpire
+stanton-ump,Stanton,,#umpire
+thatcher-ump,Thatcher,Uly. Grant*,#umpire
+bates-alt,Bates,James W.,Altoona
+dexter-alt,Dexter,,Altoona
+dively-alt,Dively,,Altoona
+dowd-alt,Dowd,"Thom. J. ""Tommy""*",Altoona
+dowling-wpt+har+alt+lan,Dowling,"Patrick V. ""Pat""",Altoona
+fisher-alt,Fisher,"Harry P. ""Chick""",Altoona
+fox-alt,Fox,"Geo. B. ""Paddy""*",Altoona
+franks-alt,Franks,,Altoona
+friend-wpt+alt,Friend,"Daniel S. ""Danny""*",Altoona
+grubb-alt,Grubb,"Herbert M. ""Bert""",Altoona
+hart-alt,Hart,"James J. ""Jimmy""*",Altoona
+houser-alt,Houser,"William M. ""Bill""",Altoona
+iott-alt,Iott,"Fred. B. ""Happy""*",Altoona
+kelley.e-alt+wil,Kelley,E.,Altoona
+kennedy-alt,Kennedy,,Altoona
+lang-alt,Lang,"John ""Football""",Altoona
+magie-alt,Magie,"Jacob D. ""Jake""",Altoona
+martin-alt,Martin,A.,Altoona
+mcdonald.j-coa+alt,McDonald,Joseph,Altoona
+mcneeley-alt+har,McNeeley,"Harris G. ""Hugh""",Altoona
+miran-joh+alt+wil,Miran,"John J. ""Jack""",Altoona
+pearson-alt,Pearson,"Alexander F. ""Alex""*",Altoona
+plank-alt,Plank,Ira David,Altoona
+rafferty-alt,Rafferty,,Altoona
+rothermel-leb+wil+alt,Rothermel,"Edw. H. ""Bobby""*",Altoona
+smith-alt,Smith,"George J. ""Germany""*",Altoona
+smith-alt,Smith,"George ""Germany""*",Altoona
+stephens-alt,Stephens,James,Altoona
+tibbetts-coa+alt,Tibbetts,James,Altoona
+weddige-alt,Weddige,"Albert H. ""Al""",Altoona
+wiggs-alt,Wiggs,"James A. ""Jimmy""*",Altoona
+wilson-alt,Wilson,,Altoona
+allemang-coa+sha+joh+wil,Allemang,Harry,Coatesville
+arndt-coa,Arndt,Harry J.*,Coatesville
+aubrey-coa,Aubrey,"Harry H. ""Chub""*",Coatesville
+bowers-coa+sha,Bowers,"D. ""Rube""",Coatesville
+brent-coa,Brent,Milford,Coatesville
+chilcott-coa,Chilcott,Walter,Coatesville
+coffey-coa+sha,Coffey,"Edward B. ""Eddie""",Coatesville
+connors-yor+lan+coa+sha,Connors,"Edward J. ""Ed""",Coatesville
+dolan-coa,Dolan,John Frank,Coatesville
+feeney-coa,Feeney,James F.,Coatesville
+fitzgerald-coa,Fitzgerald,E. S.,Coatesville
+flock-wpt+cpa,Flock,"Jacob ""Jake""",Coatesville
+griffin-har+coa+sha,Griffin,"Stephen J. ""Steve""",Coatesville
+herr-coa,Herr,Edward Joseph,Coatesville
+jackson-wpt+coa+sha,Jackson,"Herbert B. ""Herb""*",Coatesville
+mauch-coa+lan,Mauch,"Albert/Alvin ""Al""",Coatesville
+mccoy-coa,McCoy,M. F.,Coatesville
+mccrane-coa+sha,McCrane,John,Coatesville
+mcdonald.j-coa+alt,McDonald,Joseph,Coatesville
+mcdonald.m-coa,McDonald,Malcolm,Coatesville
+miller-coa,Miller,(Frank?),Coatesville
+moore-coa,Moore,George,Coatesville
+pney-coa,P'    ney,,Coatesville
+purnell-coa,Purnell,(Jesse*/George?),Coatesville
+reisling-coa,Reisling,"Frank C. ""Doc""*",Coatesville
+sharpe-coa+sha,Sharpe,"Bayard H. ""Bud""*",Coatesville
+shaughnessy-coa,Shaughnessy,"Francis J. ""Shag""*",Coatesville
+slattery-coa+sha,Slattery,"John T. ""Jack""*",Coatesville
+smith-coa,Smith,William,Coatesville
+smith-coa+sha,Smith,"William ""Bill""",Coatesville
+stetler-coa,Stetler,J. Percy,Coatesville
+sweeney-coa+lan+har,Sweeney,Alex,Coatesville
+tibbetts-coa+alt,Tibbetts,James,Coatesville
+ward-leb+coa,Ward,"Joseph A. ""Joe""*",Coatesville
+williams-coa,Williams,"David O. ""Dave""*",Coatesville
+wolfe-coa,Wolfe,Maurice Aloysius,Coatesville
+zimmerman-coa,Zimmerman,"Edward D. ""Eddie""*",Coatesville
+agnew-har+wil,Agnew ,"Peter Henry ""Pete""",Harrisburg
+bonner-har,Bonner,"John ""Jack""",Harrisburg
+brackenridge-har+sha,Brackenridge,John G.*,Harrisburg
+broderick-har,Broderick,"Matthew T. ""Matty""*",Harrisburg
+calhoun-har,Calhoun,"John C. ""Red""*",Harrisburg
+calhoun-har,Calhoun,John C.,Harrisburg
+campbell-har,Campbell,"William J. ""Billy""*",Harrisburg
+connaughton-har,Connaughton,Frank H.*,Harrisburg
+davis.e-har+wil,Davis,"Elmer ""Red""",Harrisburg
+davis.w-har,Davis,"William J. H. ""Cy""",Harrisburg
+donovan-har,Donovan,Jerry,Harrisburg
+dorman-har+lan,Dorman,John,Harrisburg
+doscher-har,Doscher,"John H., Jr.*",Harrisburg
+dowling-wpt+har+alt+lan,Dowling,"Patrick V. ""Pat""",Harrisburg
+duffy-lan+har,Duffy,"Thomas ""Tom""",Harrisburg
+dyer-har,Dyer,"William H. ""Billy""",Harrisburg
+ernst-leb+wil+har+yor,Ernst,"John ""Jack""",Harrisburg
+falkenburg-har,Falkenburg,"Frederick P. ""Cy""*",Harrisburg
+griffin-har+coa+sha,Griffin,"Stephen J. ""Steve""",Harrisburg
+groh-har,Groh,"""Shorty""",Harrisburg
+hafford-har+wil,Hafford,"Frank Al ""Chic""",Harrisburg
+hagen-har,Hagen,"""Kid""",Harrisburg
+hamilton-har,Hamilton,"William R. ""Billy""*",Harrisburg
+hamilton-har,Hamilton,"William ""Billy""*",Harrisburg
+hartman-har,Hartman,William G.,Harrisburg
+hoffman-har,Hoffman,"Harry C. ""Izzy""*",Harrisburg
+jerger-har+wil,Jerger,"Joseph ""Joe""",Harrisburg
+kennedy-joh+har,Kennedy,,Harrisburg
+king-leb+har,King,Frank J.,Harrisburg
+leary-leb+har,Leary,"Francis P. ""Frank""*",Harrisburg
+lewis-har,Lewis,"Philip ""Phil""*",Harrisburg
+mcgeehan-har,McGeehan,"Cornelius B. ""Connie""*",Harrisburg
+mcmahon-har,McMahon,"M. D. ""Molly""",Harrisburg
+mcneeley-alt+har,McNeeley,"Harris G. ""Hugh""",Harrisburg
+morgan-joh+har,Morgan,Russell Hess,Harrisburg
+mueller-har,Mueller,"Walter G. ""Baron""",Harrisburg
+murray-har,Murray,"James O. ""Jim""*",Harrisburg
+nallin-joh+har+wil,Nallin,"Richard Francis ""Dick""",Harrisburg
+ohare-har,O'Hare,"Thomas ""Tom""",Harrisburg
+omo-har,Omo,Harry William,Harrisburg
+osborne-har,Osborne,"Arch J. ""Lefty""",Harrisburg
+peterson-har,Peterson,"Robert A. ""Bob""*",Harrisburg
+raidy-har,Raidy,"Joseph M. ""Joe""",Harrisburg
+sweeney-coa+lan+har,Sweeney,Alex,Harrisburg
+tuckey-har,Tuckey,"Thomas H. ""Tom""*",Harrisburg
+varney-har,Varney,Lawrence D.*,Harrisburg
+venning-yor+har+wil,Venning,,Harrisburg
+vinson-har,Vinson,"Ernest A. ""Rube""*",Harrisburg
+allemang-coa+sha+joh+wil,Allemang,Harry,Johnstown
+anderson-joh,Anderson,"Arthur A. ""Andy""",Johnstown
+atherton-joh,Atherton,Charles M. H.*,Johnstown
+badel-joh,Badel,"Frederick ""Fred""",Johnstown
+belcher-joh,Belcher,,Johnstown
+blair-wpt+joh,Blair,Walter A.*,Johnstown
+bowser-joh,Bowser,"James H. ""Red""*",Johnstown
+burns-joh,Burns,"John ""Johnny""",Johnstown
+connelly-joh,Connelly,,Johnstown
+ferry-joh,Ferry,"Alfred J. ""Cy""*",Johnstown
+glendon-joh,Glendon,Martin J.*,Johnstown
+good-joh,Good,Wilbur D.*,Johnstown
+griffin-joh+leb,Griffin,John,Johnstown
+hagan-joh,Hagan,Raymond,Johnstown
+kennedy-joh+har,Kennedy,,Johnstown
+kinkead-joh,Kinkead,,Johnstown
+lavelle-joh,Lavelle,,Johnstown
+lipp-joh+lan,Lipp,"Thomas C. ""Tom""*",Johnstown
+lobart-joh,Lobart,"John B. ""Hans""*",Johnstown
+martin-joh,Martin,Joseph S.*,Johnstown
+mcconnell-joh,McConnell,"George N. ""Slats""*",Johnstown
+mchale-wpt+joh,McHale,,Johnstown
+melchoir-joh,Melchoir,,Johnstown
+miller-yor+joh,Miller,"Frank A. ""Kohly""*",Johnstown
+miran-joh+alt+wil,Miran,"John J. ""Jack""",Johnstown
+morgan-joh+har,Morgan,Russell Hess,Johnstown
+murphy-joh,Murphy,Eddie ,Johnstown
+nallin-joh+har+wil,Nallin,"Richard Francis ""Dick""",Johnstown
+owens-joh,Owens,,Johnstown
+pleiss-wpt+joh,Pleiss,"Edward ""Ed""",Johnstown
+rice-joh,Rice,,Johnstown
+sandherr-joh,Sandherr,Nelson W.,Johnstown
+shaw-joh,Shaw,"Alfred L. ""Shoddy""*",Johnstown
+somer-joh,Somer,,Johnstown
+sweeney-joh,Sweeney,"Patrick ""Pat""",Johnstown
+toner-joh,Toner,Thomas J.,Johnstown
+upp-joh,Upp,"George H. ""Jerry""*",Johnstown
+varner-joh,Varner,,Johnstown
+vorhees-joh,Vorhees,"Henry Bert ""Cy""*",Johnstown
+ashenfelder-lan+leb,Ashenfelder,,Lancaster
+baker-lan,Baker,,Lancaster
+barber-lan,Barber,"David M. ""Dave""",Lancaster
+barger-lan,Barger,"Eros B. ""Cy""*",Lancaster
+barthold-lan,Barthold,"John F. ""Hans""*",Lancaster
+becker-lan,Becker,,Lancaster
+biehl-lan,Biehl,"Joseph Emerle ""Joe""",Lancaster
+bully-lan,Bully,,Lancaster
+burch-lan,Burch,"Albert W. ""Al""*",Lancaster
+buttermore-lan,Buttermore,John H.,Lancaster
+clayton-lan,Clayton,Harry D.,Lancaster
+connors-yor+lan+coa+sha,Connors,"Edward J. ""Ed""",Lancaster
+davis-lan,Davis,,Lancaster
+day-lan,Day,,Lancaster
+derby-lan,Derby,,Lancaster
+diggins-lan,Diggins,Williams L.,Lancaster
+dorman-har+lan,Dorman,John,Lancaster
+dowling-wpt+har+alt+lan,Dowling,"Patrick V. ""Pat""",Lancaster
+duffy-lan+har,Duffy,"Thomas ""Tom""",Lancaster
+edwards-lan,Edwards,,Lancaster
+farrell-lan,Farrell,"Frank ""Red""",Lancaster
+ford-lan,Ford,,Lancaster
+foreman-lan,Foreman,"John D. ""Brownie""*",Lancaster
+halligan-lan,Halligan,,Lancaster
+hennessey-lan,Hennessey,Joseph C.,Lancaster
+hilbert-lan,Hilbert,J. Charles,Lancaster
+hohman-lan+wil,Hohman,,Lancaster
+hoover-lan,Hoover,,Lancaster
+jordan-lan,Jordan,,Lancaster
+killheffer-lan+sha,Killheffer,Allen D.,Lancaster
+koehler-lan,Koehler,,Lancaster
+law-lan,Law,"John H. ""Jack""",Lancaster
+lipp-joh+lan,Lipp,"Thomas C. ""Tom""*",Lancaster
+long-lan,Long,,Lancaster
+lord-lan,Lord,"William ""Billy""",Lancaster
+lord-lan,Lord,William,Lancaster
+mauch-coa+lan,Mauch,"Albert/Alvin ""Al""",Lancaster
+mcintrie-lan,McIntrie,,Lancaster
+monohan-lan,Monohan,,Lancaster
+moran-leb+lan,Moran,John Herbert*,Lancaster
+morrison-lan,Morrison,,Lancaster
+needham-lan,Needham,George L.,Lancaster
+rinn-lan,Rinn,Frank,Lancaster
+rosenbach-lan,Rosenbach,(A.?),Lancaster
+rothfuss-lan,Rothfuss,"John A. ""Jack""*",Lancaster
+rothfuss-lan,Rothfuss,John A.*,Lancaster
+sheridan-lan,Sheridan,,Lancaster
+simon-lan,Simon,"Henry J. ""Hank""*",Lancaster
+sweeney-coa+lan+har,Sweeney,Alex,Lancaster
+sylvester-lou,Sylvester,Louis,Lancaster
+wall-lan,Wall,"Joseph F. ""Joe""*",Lancaster
+wall-lan,Wall,Joseph,Lancaster
+ward-lan,Ward,"Frank G. ""Piggy""*",Lancaster
+washer-lan+wil,Washer,"William ""Buck""*",Lancaster
+ziegler-lan,Ziegler,John J.,Lancaster
+adamson-leb,Adamson,,Lebanon
+ashenfelder-lan+leb,Ashenfelder,,Lebanon
+bates-leb,Bates,,Lebanon
+bevier-leb,Bevier,Frank,Lebanon
+coughlin-leb,Coughlin,,Lebanon
+craft-leb,Craft,,Lebanon
+eckert-leb,Eckert,,Lebanon
+ernst-leb+wil+har+yor,Ernst,"John ""Jack""",Lebanon
+ernst-leb+wil+har+yor,Ernst,John,Lebanon
+evans-leb,Evans,,Lebanon
+griffin-joh+leb,Griffin,John,Lebanon
+jacoby-leb,Jacoby,Jacob T.,Lebanon
+kelcher-leb,Kelcher,"Charles S. ""Pop""",Lebanon
+kelcher-leb,Kelcher,Charles S.,Lebanon
+king-leb+har,King,Frank J.,Lebanon
+krause-leb,Krause,Harry,Lebanon
+leary-leb+har,Leary,"Francis P. ""Frank""*",Lebanon
+manning-leb+wil,Manning,(Walter*?),Lebanon
+marburger-leb,Marburger,,Lebanon
+maxwell-leb,Maxwell,Charles Ellwood,Lebanon
+mccarthy-leb,McCarthy,,Lebanon
+miller-leb,Miller,,Lebanon
+moran-leb+lan,Moran,John Herbert*,Lebanon
+porter-leb,Porter,D. D.,Lebanon
+rothermel-leb+wil+alt,Rothermal,Edward*,Lebanon
+rothermel-leb+wil+alt,Rothermel,"Edw. H. ""Bobby""*",Lebanon
+rutherford-leb,Rutherford,"Joseph ""Joe""",Lebanon
+shultz-leb,Shultz,"Edward ""Eddie""",Lebanon
+shultz-leb,Shultz,Edward,Lebanon
+sinex-leb,Sinex,Lawrence F.,Lebanon
+stitzer-leb,Stitzer,J. A.,Lebanon
+wagner-leb,Wagner,,Lebanon
+walker-leb+wpt,Walker,,Lebanon
+ward-leb+coa,Ward,"Joseph A. ""Joe""*",Lebanon
+allemang-coa+sha+joh+wil,Allemang,Harry,Shamokin
+ball-sha,Ball,,Shamokin
+bowden-sha,Bowden,,Shamokin
+bowers-coa+sha,Bowers,"D. ""Rube""",Shamokin
+brackenridge-har+sha,Brackenridge,John G.*,Shamokin
+cockill-sha,Cockill,George,Shamokin
+coffey-coa+sha,Coffey,"Edward B. ""Eddie""",Shamokin
+connors-yor+lan+coa+sha,Connors,"Edward J. ""Ed""",Shamokin
+griffin-har+coa+sha,Griffin,"Stephen J. ""Steve""",Shamokin
+jackson-wpt+coa+sha,Jackson,"Herbert B. ""Herb""*",Shamokin
+jones-sha,Jones,,Shamokin
+killheffer-lan+sha,Killheffer,Allen D.,Shamokin
+mccabe-sha,McCabe,Jas. Arthur,Shamokin
+mccrane-coa+sha,McCrane,John,Shamokin
+miller-sha,Miller,(Frank?),Shamokin
+sharpe-coa+sha,Sharpe,"Bayard H. ""Bud""*",Shamokin
+slattery-coa+sha,Slattery,"John T. ""Jack""*",Shamokin
+smith-coa+sha,Smith,"William ""Bill""",Shamokin
+white-sha,White,,Shamokin
+applegate-wpt,Applegate,Frederick R.*,Williamsport
+blair-wpt+joh,Blair,Walter A.*,Williamsport
+charles-wpt,Charles,"Raym. ""Chappy""*",Williamsport
+donovan-wpt,Donovan,"Jeremiah F. ""Jerry""*",Williamsport
+dowling-wpt+har+alt+lan,Dowling,"Patrick V. ""Pat""",Williamsport
+flock-wpt+cpa,Flock,"Jacob ""Jake""",Williamsport
+friend-wpt+alt,Friend,"Daniel S. ""Danny""*",Williamsport
+hallman-wpt,Hallman,"William W. ""Bill""*",Williamsport
+hinchman-wpt,Hinchman,"William W. ""Bill""*",Williamsport
+jackson-wpt+coa+sha,Jackson,"Herbert B. ""Herb""*",Williamsport
+lewis-wpt+wil,Lewis,,Williamsport
+lindemann-wpt,Lindemann,"John F. M. ""Bob""*",Williamsport
+lindheimer-wpt,Lindheimer,Max,Williamsport
+lush-wpt,Lush,"John C. ""Johhny""*",Williamsport
+maitland-wpt,Maitland,Edgar Haas,Williamsport
+manning-wpt,Manning,"Walter S. ""Rube""*",Williamsport
+mccarthy-wpt,McCarthy,"Joseph T. ""Joe""",Williamsport
+mchale-wpt+joh,McHale,,Williamsport
+pleiss-wpt+joh,Pleiss,"Edward ""Ed""",Williamsport
+ritchie-wpt,Ritchie,William,Williamsport
+rudolph-wpt,Rudolph,"John H. ""Dutch""*",Williamsport
+scott-wpt,Scott,,Williamsport
+sebring-wpt,Sebring,"James D. ""Jimmy""*",Williamsport
+shibe-wpt,Shibe,,Williamsport
+stecher-wpt,Stecher,Charles W.,Williamsport
+walker-leb+wpt,Walker,,Williamsport
+weigand-wpt,Weigand,"Curtis ""Curt""",Williamsport
+weigand-wpt,Weigand,Curtis,Williamsport
+agnew-har+wil,Agnew ,"Peter Henry ""Pete""",Wilmington
+allemang-coa+sha+joh+wil,Allemang,Harry,Wilmington
+bradley-wil,Bradley,,Wilmington
+bussey-wil,Bussey,(Henry?),Wilmington
+bussey-wil,Bussey,,Wilmington
+campbell-wil,Campbell,Tommy,Wilmington
+crepo-wil,Crepo,,Wilmington
+davis.e-har+wil,Davis,"Elmer ""Red""",Wilmington
+dunn-wpt,Dunn,,Wilmington
+ernst-leb+wil+har+yor,Ernst,"John ""Jack""",Wilmington
+foreman-wil,Foreman,"Francis I. ""Frank""*",Wilmington
+hafford-har+wil,Hafford,"Frank Al ""Chic""",Wilmington
+hartley-wil,Hartley,"Walter S. ""Chick""*",Wilmington
+hartman-wil,Hartman,William,Wilmington
+hinton-wil,Hinton,"John R. ""Red""*",Wilmington
+hinton-wil,Hinton,John R.*,Wilmington
+hohman-lan+wil,Hohman,,Wilmington
+jerger-har+wil,Jerger,"Joseph ""Joe""",Wilmington
+kelley.e-alt+wil,Kelley,E.,Wilmington
+kelley.m-wil,Kelley,M.,Wilmington
+khner-wil,K   hner,,Wilmington
+lewis-wpt+wil,Lewis,,Wilmington
+lucas-wil,Lucas,(Chas. W.?),Wilmington
+maher-wil,Maher,Thomas Francis,Wilmington
+manning-leb+wil,Manning,(Walter*?),Wilmington
+mclaughlin-wil,McLaughlin,(Warren*?),Wilmington
+miran-joh+alt+wil,Miran,"John J. ""Jack""",Wilmington
+moss-wil,Moss,Charles E.,Wilmington
+myers-wil,Myers,"Joseph W. ""Joe""*",Wilmington
+nallin-joh+har+wil,Nallin,"Richard Francis ""Dick""",Wilmington
+oneal-wil,O'Neal,,Wilmington
+rothermel-leb+wil+alt,Rothermel,"Edw. H. ""Bobby""*",Wilmington
+smith-wil,Smith,"Alex. B. ""Aleck""*",Wilmington
+vasbinder-wil,Vasbinder,"M. Calhoun ""Cal""*",Wilmington
+venning-yor+har+wil,Venning,,Wilmington
+verga-wil,Verga,George Perry,Wilmington
+ward-wil,Ward,,Wilmington
+washer-lan+wil,Washer,"William ""Buck""*",Wilmington
+weand-wil,Weand,"George D. ""Dick""",Wilmington
+bagley-yor,Bagley,"John ""Jack""",York
+bagley-yor,Bagley,John,York
+billett-yor,Billett,"Harry C. ""Yabby""",York
+cargo-yor,Cargo,"Charles ""Chic""",York
+clay-yor,Clay,"Frederick C. ""Bill""*",York
+connors-yor+lan+coa+sha,Connors,"Edward J. ""Ed""",York
+ernst-leb+wil+har+yor,Ernst,"John ""Jack""",York
+hayden-yor,Hayden,"John F. ""Jack""*",York
+heckert-yor,Heckert,George Washington,York
+lloyd-yor,Lloyd,"David ""Davy""",York
+mack-yor,Mack,,York
+matthews-yor,Matthews,William C.*,York
+mccormick-york,McCormick,"Harry E. ""Moose""*",York
+mcglynn-yor,McGlynn,"U. S. G. ""Stoney""*",York
+miller-yor+joh,Miller,"Frank A. ""Kohly""*",York
+oneill-yor,O'Neill,"Michael J. ""Mike""*",York
+owens-yor,Owens,"Thomas L. ""Red""*",York
+russell-yor,Russell,(see note),York
+schaub-yor,Schaub,"Robert P. ""Bob""",York
+smith-yor,Smith,"Joseph H. ""Joe""",York
+venning-yor+har+wil,Venning,,York
+wiltze-yor,Wiltze,"Lewis D. ""Snake""*",York

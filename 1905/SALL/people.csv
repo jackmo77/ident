@@ -1,0 +1,190 @@
+person.key,person.name.last,person.name.first,entry.name
+boyer-exc,Boyer,Charles W.,#league
+rice-exc,Rice,Grantland,#league
+byron-ump,Byron,Arthur,#umpire
+keefe-ump,Keefe,John P.,#umpire
+kelly-ump,Kelly,"John J. ""Shamokin""",#umpire
+latham-ump,Latham,"Walter A. ""Arlie""*",#umpire
+matthews-ump,Matthews,Wilson,#umpire
+bird-aug,Bird,"Thomas ""Tom""",Augusta
+bowen-aug,Bowen,Andrew N.,Augusta
+brown-aug,Brown,"Charles N. ""Bert""",Augusta
+carlin-jax+aux,Carlin,"Thomas ""Tom""",Augusta
+cicotte-aug,Cicotte,"Edgar V. ""Eddie""*",Augusta
+cobb-aug,Cobb,"Tyrus R. ""Ty""*",Augusta
+engle-aug,Engle,A. Clyde*,Augusta
+fitzpatrick-aug,Fitzpatrick,Matt,Augusta
+hickey-col+aug,Hickey,Walter A.,Augusta
+holmes-aug,Holmes,James Scott*,Augusta
+jordan-aug,Jordan,"Clar. V. ""Slats""*",Augusta
+lauzon-aug,Lauzon,Edward,Augusta
+laval-mac+aug,Laval,"William L. ""Billy""",Augusta
+leidy-aug,Leidy,George Osmum,Augusta
+leidy-aug,Leidy,George O.,Augusta
+lynch-aug,Lynch,Henry W.*,Augusta
+matthews-aug,Matthews,,Augusta
+mattison-aug,Mattison,,Augusta
+mclaughlin-aug,McLaughlin,"Edward ""Ed""",Augusta
+meehan-aug+col,Meehan,"Daniel ""Dan""",Augusta
+polchow-aug,Polchow,"Louis W. ""Lou""*",Augusta
+roth-aug,Roth,"Andrew E. ""Andy""",Augusta
+roth-aug,Roth,Andrew E.,Augusta
+rucker-aug,Rucker,"George ""Nap""*",Augusta
+ruhland-aug,Ruhland,Gus,Augusta
+salm-aug,Salm,Walter P.,Augusta
+sanford-aug,Sanford,Will D.,Augusta
+schiappacasse-aug,Schiappacasse,"Louis J. ""Lou""*",Augusta
+shannon-aug,Shannon,"J. Francis ""Frank""*",Augusta
+smith-aug,Smith,T. W.,Augusta
+whipple-aug,Whipple,Eugene W.,Augusta
+ashenback-cha,Ashenbach,Edward M.,Charleston
+ashenback-cha,Ashenback,Edward Michael,Charleston
+bender-cha,Bender,John C.,Charleston
+carson-cha+col,Carson,"Thomas J. ""Zeke""",Charleston
+childs-cha,Childs,"Louis B. ""Brawney""",Charleston
+cooper-cha,Cooper,Jack,Charleston
+daley-col+cha+mac,Daley,"James A. ""Jimmy""",Charleston
+demontreville-cha,DeMontreville,"Leon ""Lee""*",Charleston
+demontreville-cha,DeMontreville,Leon*,Charleston
+dwyer.c-mac+cha,Dwyer,Charles ,Charleston
+frost-jax+cha,Frost,"John ""Jack""",Charleston
+gunter-cha+mac,Gunter,C. Guy,Charleston
+lally-cha,Lally,"Daniel J. ""Dan""*",Charleston
+mcgraw-cha,McGraw,"Bernard ""Benny""",Charleston
+mckernan-cha,McKernan,"Edward ""Ed""",Charleston
+miller-cha,Miller,"Christian ""Chris""",Charleston
+munson-cha,Munson,"Clarence H. ""Red""*",Charleston
+murdock-cha,Murdock,Wilbur Edwin,Charleston
+murray-cha,Murray,Ernest M.,Charleston
+newnam-ch,Newnam,"Robert A. ""Pat""*",Charleston
+raftery-cha,Raftery,Thomas F.*,Charleston
+rosson-cha,Rosson,"Lester G. ""Dummy""",Charleston
+savidge-sav+cha,Savidge,Ralph A.*,Charleston
+shaffer-sav+cha,Shaffer,Charles A.,Charleston
+smith-cha,Smith,"Sydney A. ""Syd""*",Charleston
+stackpole-cha,Stackpole,"Arthur H. ""Cy""",Charleston
+tibald-cha,Tibald,"Peter M. ""Pat""",Charleston
+tibald-cha,Tibald,Peter M.,Charleston
+turner-cha,Turner,Vincent William,Charleston
+wagner-cha,Wagner,"""Jay""",Charleston
+ward-cha,Ward,"Frank G. ""Piggy""*",Charleston
+weatherly-cha,Weatherly,A. E. (of Cheraw SC),Charleston
+ashton-col,Ashton,"John A. ""Jack""",Columbia
+beusse-col,Beusse,Carlton Gerdts,Columbia
+carson-cha+col,Carson,"Thomas J. ""Zeke""",Columbia
+daley-col+cha+mac,Daley,"James A. ""Jimmy""",Columbia
+dexter-col,Dexter,Charles,Columbia
+dingle-jax+col,Dingle,Fred R.,Columbia
+duke-col,Duke,Thomas W.,Columbia
+earle-col,Earle,William M.*,Columbia
+earle-col,Earle,"William M. ""Billy""*",Columbia
+fisher-col,Fisher,"Harry P. ""Chick""",Columbia
+fritz-col,Fritz,Charles C.*,Columbia
+gilbert-col,Gilbert,Rufus W.,Columbia
+granville-jax+col,Granville,Arthur Calixtus,Columbia
+ham-col,Ham,,Columbia
+hickey-col+aug,Hickey,Walter A.,Columbia
+hoff-sav,Hoffman,Fred,Columbia
+holland-col,Holland,,Columbia
+kennedy-jax+col,Kennedy,Robert E.,Columbia
+kuhn-col+mac,Kuhn,"James ""Jimmy""",Columbia
+lally-col,Lally,Harry Edward,Columbia
+lipp-col+sav,Lipp,"Thomas C. ""Tom""*",Columbia
+massey-col,Massey,,Columbia
+meehan-aug+col,Meehan,"Daniel ""Dan""",Columbia
+needham-col,Needham,George L.,Columbia
+reynolds-col,Reynolds,Jesse T.,Columbia
+sabrie-col,Sabrie,"Edwin L. ""Eddie""",Columbia
+shaver-col,Shaver,(of Greenville SC),Columbia
+sweeney-col,Sweeney,"Edward ""Ed""",Columbia
+verneulle-jax+col,Verneulle,Robert Lee,Columbia
+walker-jax+col,Walker,"Edward H. ""Ed""*",Columbia
+wallace.a-col,Wallace,Arthur,Columbia
+wallace.r-col,Wallace,"Robert ""Bob""",Columbia
+wallace.w-col,Wallace,W.,Columbia
+wenig-col,Wenig,Fred,Columbia
+adams-jax,Adams,Clyde,Jacksonville
+bracken-jax,Bracken,"John J. ""Jack""*",Jacksonville
+carlin-jax+aux,Carlin,"Thomas ""Tom""",Jacksonville
+chappelle-jax,Chappelle,Robert Olin,Jacksonville
+clark-jax,Clark,"J. L. ""Wild Bill""",Jacksonville
+curran-jax,Curran,"John F. ""Jack""",Jacksonville
+dingle-jax+col,Dingle,Fred R.,Jacksonville
+feldhaus-jax,Feldhaus,Harry,Jacksonville
+frost-jax+cha,Frost,"John ""Jack""",Jacksonville
+gnadinger-jax,Gnadinger,Edward Charles,Jacksonville
+gonzalez-jax,Gonzalez,Valentin,Jacksonville
+granville-jax+col,Granville,Arthur Calixtus,Jacksonville
+hennegar-jax,Hennegar,"Joseph A. ""Joe""",Jacksonville
+hester-jax,Hester,,Jacksonville
+hoffman-jax+col,Hoffman,Fred,Jacksonville
+horner-jax,Horner,,Jacksonville
+kennedy-jax+col,Kennedy,Robert E.,Jacksonville
+leslie-jax,Leslie,Fenner Samuel,Jacksonville
+lewis-jax,Lewis,Earl,Jacksonville
+newnham-jax,Newnham,"Alfred G. ""Al""",Jacksonville
+pender-jax,Pender,Robert E.,Jacksonville
+pender-jax,Pender,"Robert E. ""Bob""",Jacksonville
+persons-jax,Persons,"Edward ""Eddie""",Jacksonville
+robinson-jax,Robinson,"John W. ""Jack""*",Jacksonville
+schwenck-jax,Schwenck,"Rudolph C. ""Rudy""*",Jacksonville
+shea-jax,Shea,"Dennis J. ""Dennie""",Jacksonville
+verneulle-jax+col,Verneulle,Robert Lee,Jacksonville
+viola-jax,Viola,Juan,Jacksonville
+walker-jax+col,Walker,"Edward H. ""Ed""*",Jacksonville
+anderson-mac,Anderson,Smylie Scott,Macon
+brandt-mac,Brandt,"William ""Willie""",Macon
+cassidy-sav+mac,Cassidy,Michael F.,Macon
+cawthorne-mac,Cawthorne,,Macon
+daley-col+cha+mac,Daley,"James A. ""Jimmy""",Macon
+dannehower-mac,Dannehower,J. Harry,Macon
+dovey-mac,Dovey,George,Macon
+dwyer.c-mac+cha,Dwyer,Charles ,Macon
+dwyer.j-mac,Dwyer,"James T. ""Jim""",Macon
+dwyer.w-mac,Dwyer,"William ""Bill""",Macon
+evers-mac,Evers,"John J. ""Jack""",Macon
+fox.james-mac,Fox,"James C. ""Jim""",Macon
+fox.john-mac,Fox,John D.,Macon
+george-mac,George,Curtis,Macon
+gunter-cha+mac,Gunter,C. Guy,Macon
+harnish-mac,Harnish,Nick,Macon
+helms-mac,Helms,"James Ross ""Ross""",Macon
+houston-mac,Houston,"Robert L. ""Bob""",Macon
+justis-mac,Justis,"Walter N. ""Walt""*",Macon
+kaplan-mac,Kaplan,"Elias Emanuel ""Ely""",Macon
+kuhn-col+mac,Kuhn,"James ""Jimmy""",Macon
+laval-mac+aug,Laval,"William L. ""Billy""",Macon
+lipe-mac,Lipe,Perry Hamilton,Macon
+loucks-mac,Loucks,Sylvester Day,Macon
+piepho-mac,Piepho,C. Arthur,Macon
+segars-mac,Segars,John,Macon
+sentell-mac,Sentell,"Leopold T. ""Paul""*",Macon
+smith-mac,Smith,"William A. ""Billy""",Macon
+spade-mac,Spade,"Robert ""Bob""*",Macon
+stinson-mac,Stinson,George C.,Macon
+taylor-mac,Taylor,,Macon
+thomas-mac,Thomas,,Macon
+burt-sav,Burt,Daniel,Savannah
+cassidy-sav+mac,Cassidy,Michael F.,Savannah
+deaver-sav,Deaver,Walter H.,Savannah
+gaston-sav,Gaston,William David,Savannah
+hallman-sav,Hallman,"William W. ""Bill""*",Savannah
+hallman-sav,Hallman,William W.*,Savannah
+hanford-sav,Hanford,"Charles ""Chip""",Savannah
+heismann-sav,Heismann,Christian E.*,Savannah
+hoff-sav,Hoff,August,Savannah
+holmes-sav,Holmes,"Howard E. ""Ducky""*",Savannah
+howard-sav,Howard,Ernest E.,Savannah
+kane-sav,Kane,Harry*,Savannah
+king-sav,King,Frank J.,Savannah
+lipp-col+sav,Lipp,"Thomas C. ""Tom""*",Savannah
+logan-sav,Logan,"Thomas ""Tom""",Savannah
+manning-sav,Manning,"Walter S. ""Rube""*",Savannah
+mowrey-sav,Mowrey,"Harry H. ""Mike""*",Savannah
+orourke-sav,O'Rourke,Joseph L.*,Savannah
+oyler-sav,Oyler,"William B. ""Billy""",Savannah
+savidge-sav+cha,Savidge,Ralph A.*,Savannah
+shaffer-sav+cha,Shaffer,Charles A.,Savannah
+swindells-sav,Swindells,Charles J.*,Savannah
+thatcher-sav,Thatcher,Uly. Grant*,Savannah
+welch-sav,Welch,"Conrad Hugh ""Con""",Savannah

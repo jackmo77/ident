@@ -1,0 +1,230 @@
+person.key,person.name.last,person.name.first,entry.name
+kent-exc,Kent,E. H.,#league
+selby-exc,Selby,,#league
+anderson-ump,Anderson,O.,#umpire
+eagan-ump,Eagan,,#umpire
+harris-ump,Harris,,#umpire
+irvine-ump,Irvine,,#umpire
+long-ump,Long,,#umpire
+murphy-scb+win+dul,Murphy,"John J. ""Checkers""",#umpire
+quigg-ump,Quigg,,#umpire
+baker-win+cro,Baker,Louis M.,Crookston
+brekke-cro,Brekke,O.,Crookston
+burke-cro,Burke,,Crookston
+capron-cro,Capron,George Henry,Crookston
+collette-cro,Collette,Dennis Benjamin,Crookston
+davies-cro,Davies,N. S.,Crookston
+dorn-cro,Dorn,Peter,Crookston
+drennan-cro,Drennan,Calvin,Crookston
+dunn-cro,Dunn,Mart,Crookston
+fitzsimmons-cro+gf,Fitzsimmons,J.,Crookston
+grandish-cro,Grandish/Grodenich,,Crookston
+grandish-cro,Grandish,,Crookston
+grandish-cro,Grodenich,,Crookston
+harris-cro+scb+sup,Harris,William L.,Crookston
+hoover-cro+sup,Hoover,Lloyd,Crookston
+johnston-win+cro,Johnston,C. F.,Crookston
+kaltenback-cro,Kaltenback,Harold,Crookston
+kilcey-cro,Kilcey,,Crookston
+leighty-cro+win,Leighty,"James Lee ""Jim""",Crookston
+little-cro,Little,,Crookston
+livingstone-cro,Livingstone,L. L.,Crookston
+ludwig-cro,Ludwig,Arthur L.,Crookston
+maloney-win+cro,Maloney,John C.,Crookston
+martin-cro,Martin,,Crookston
+mcneil-cro,McNeil,"William H. ""Will""",Crookston
+mueller-gf+cro+sup+win,Mueller,,Crookston
+mullen-cro+dul,Mullen,,Crookston
+murphy-cro,Murphy,,Crookston
+olson-cro,Olson,"John ""Ole""",Crookston
+potts-dul+sup+win+cro,Potts,Dennis,Crookston
+reeves-cro,Reeves,,Crookston
+ripley-scb+sup+cro,Ripley,Frank,Crookston
+roy-cro,Roy,L.,Crookston
+schlatter-cro,Schlatter,"Edward ""Ed""",Crookston
+smith.m-far+cro,Smith,M. C.,Crookston
+sorenson-cro+sup,Sorenson,Walter W.,Crookston
+speery-cro,Speery,G. ,Crookston
+speiser-scb+sup+cro,Speiser,A. Frank,Crookston
+stephens-cro,Stephens,,Crookston
+waukenshawn-cro,Waukenshawn,,Crookston
+williams-cro,Williams,,Crookston
+wing-scb+sup+cro,Wing,Fred W.,Crookston
+zeider-cro+win,Zeider,Rollie H.*,Crookston
+bennett-dul,Bennett,"Simon ""Si""",Duluth
+bradley-win+gf+dul,Bradley,"James ""Jim""",Duluth
+dougar-dul,Dougar,,Duluth
+erickson-dul,Erickson,"Eric Edward ""Ed""",Duluth
+feye-dul,Feye,George,Duluth
+freeman-dul,Freeman,"George J. ""Buck""",Duluth
+irwin-dul,Irwin,"""Scamper""",Duluth
+jarvie-far+dul+gf,Jarvie,John,Duluth
+kehoe-dul,Kehoe,,Duluth
+kennelly-dul,Kennelly,"William J. ""Butch""",Duluth
+lowe-dul,Lowe,Earl F.,Duluth
+mcaleese-dul,McAleese,Daniel A.,Duluth
+mcshane-dul+sup,McShane,Michael R.,Duluth
+menice-dul,Menice,Samuel Vint,Duluth
+miller.jl-dul,Miller,"J. L. ""Lefty""",Duluth
+miller.jos-dul,Miller,"Joseph ""Joe""",Duluth
+mullen-cro+dul,Mullen,,Duluth
+murphy-scb+win+dul,Murphy,"John J. ""Jack"" ""Checkers""",Duluth
+nealon-dul,Nealon,,Duluth
+nehr-scb+far+dul,Nehr,"Edward ""Eddie""",Duluth
+neighbors-dul,Neighbors,"Cecil F. ""Cy""*",Duluth
+newman-dul,Newman,"John P. ""Sox""",Duluth
+odea-dul,O'Dea,"Arthur ""Artie""",Duluth
+odea-dul,O'Dea,Arthur,Duluth
+peterson-win+dul,Peterson,,Duluth
+potter-dul,Potter,Harry,Duluth
+potts-dul+sup+win+cro,Potts,Dennis,Duluth
+powell-dul,Powell,B. W.,Duluth
+summers-dul,Summers,Frank A.,Duluth
+symons-dul,Symons,"Charles M. ""Cy""",Duluth
+vanpraugh-dul,Van Praugh,Leonard,Duluth
+weiler-dul,Weiler,Frederick M.,Duluth
+zemich-dul,Zemich,E.,Duluth
+alberts-far,Alberts,Ed,Fargo
+aronson-far,Aronson,,Fargo
+berrigan-far,Berrigan,"Edward ""Ed""",Fargo
+cochems-far,Cochems,,Fargo
+corrigan-far,Corrigan,Frank,Fargo
+dolan-far,Dolan,"Leon M. ""Biddy""*",Fargo
+donovan-far+win,Donovan,,Fargo
+finnegan-far,Finnegan,P. H.,Fargo
+fitzgerald-far,Fitzgerald,George J.,Fargo
+french-far+sup,French,F. D.,Fargo
+fuller-far,Fuller,R. H.,Fargo
+hansen-far,Hansen,Peter,Fargo
+hanson-far+scb+sup,Hanson,Oren,Fargo
+hisey-far,Hisey,,Fargo
+jarvie-far+dul+gf,Jarvie,John,Fargo
+mehl-far,Mehl,"Wm. Henry ""Billy""",Fargo
+nehr-scb+far+dul,Nehr,"Edward ""Eddie""",Fargo
+price-far,Price,W. J.,Fargo
+rose-far,Rose,"Chas. A. ""Chuck""*",Fargo
+smith-far,Smith,,Fargo
+smith.m-far+cro,Smith,M. C.,Fargo
+snyder-far,Snyder,,Fargo
+stripp-far,Stripp,Frederick S.,Fargo
+traeger-far,Traeger,Charles Frederick,Fargo
+traeger-far,Traeger,Charles,Fargo
+troch-far,Troch,J. B.,Fargo
+wanish-far,Wanish,Matt John,Fargo
+anderson-gf,Anderson,"Albert R. ""Spike""",Grand Forks
+anderson-gf,Anderson,"Albert ""Spike""",Grand Forks
+bond-gf,Bond,Harold Harvey,Grand Forks
+bradley-win+gf+dul,Bradley,"James ""Jim""",Grand Forks
+caldwell-gr,Caldwell,Fay,Grand Forks
+chandler-gf,Chandler,"Charles J. ""Chuck""",Grand Forks
+clark-gf,Clark,,Grand Forks
+conmy-gf,Conmy,"John P. ""Chick""",Grand Forks
+converse-gf,Converse,"Leroy R. ""Roy""",Grand Forks
+fitzsimmons-cro+gf,Fitzsimmons,J.,Grand Forks
+forde-gf,Forde,"Ed ""Red""",Grand Forks
+gardner-gf,Gardner,"""Indian""",Grand Forks
+hanrahan.h-gf,Hanrahan,Harry J.,Grand Forks
+hanrahan.w-gf,Hanrahan,"William T. ""Billy""",Grand Forks
+holgren-sup+gf,Holgren,,Grand Forks
+houck-gf,Houck,George Albert,Grand Forks
+jarvie-far+dul+gf,Jarvie,John,Grand Forks
+leach-gf,Leach,Hugh Ellis,Grand Forks
+maloney-gf,Maloney,,Grand Forks
+mueller-gf+cro+sup+win,Mueller,,Grand Forks
+mullane-gf,Mullane,"Frank L. ""Mul""",Grand Forks
+murphy-gf,Murphy,,Grand Forks
+nutt-gf,Nutt,Richard,Grand Forks
+perry-gf,Perry,,Grand Forks
+reid-gf,Reid,Roy,Grand Forks
+saunders-gf,Saunders,,Grand Forks
+shannon-gf,Shannon,,Grand Forks
+smith-gf,Smith,Charles,Grand Forks
+spanton-gf,Spanton,"Albert Charles ""Spike""",Grand Forks
+stanchfield-gf,Stanchfield,M.,Grand Forks
+treadway-gf,Treadway,Wix Stootly,Grand Forks
+turner-gf,Turner,"John D. ""Jack""",Grand Forks
+varco-gf,Varco,"Albert R. ""Ray""",Grand Forks
+anderson-scb,Anderson,,St. Cloud-Brainerd
+crosley-scb,Crosley,,St. Cloud-Brainerd
+davidson-stc,Davidson,,St. Cloud-Brainerd
+eastman-scb,Eastman,,St. Cloud-Brainerd
+gibson-scp,Gibson,William,St. Cloud-Brainerd
+gilchrist-scb+sup,Gilchrist,W. P.,St. Cloud-Brainerd
+griebler-scb,Griebler,"Mathew ""Matt""",St. Cloud-Brainerd
+hanson-far+scb+sup,Hanson,Oren,St. Cloud-Brainerd
+harris-cro+scb+sup,Harris,William L.,St. Cloud-Brainerd
+howell-scb+sup,Howell,Frank Z.,St. Cloud-Brainerd
+johnson-scb+sup,Johnson,,St. Cloud-Brainerd
+kelley-scb,Kelley,,St. Cloud-Brainerd
+kemp-scb,Kemp,,St. Cloud-Brainerd
+murphy-scb+win+dul,Murphy,"John J. ""Jack"" ""Checkers""",St. Cloud-Brainerd
+nehr-scb+far+dul,Nehr,"Edward ""Eddie""",St. Cloud-Brainerd
+pattison-scb,Pattison,J. P.,St. Cloud-Brainerd
+rees-win+scb,Rees,Henry,St. Cloud-Brainerd
+reilly-scb,Reilly,M. J.,St. Cloud-Brainerd
+ripley-scb+sup+cro,Ripley,Frank,St. Cloud-Brainerd
+ronesch-scb+sup,Ronesch,Jerry,St. Cloud-Brainerd
+ryan-scb,Ryan,,St. Cloud-Brainerd
+speiser-scb+sup+cro,Speiser,A. Frank,St. Cloud-Brainerd
+white-scb+sup,White,"William F. ""Billy""",St. Cloud-Brainerd
+wing-scb+sup+cro,Wing,Fred W.,St. Cloud-Brainerd
+anderson-sup,Anderson,Frank,Superior
+dahlquist-sup+win,Dahlquist,"William J. ""Pete""",Superior
+french-far+sup,French,F. D.,Superior
+gilchrist-scb+sup,Gilchrist,W. P.,Superior
+hanson-far+scb+sup,Hanson,Oren,Superior
+harris-cro+scb+sup,Harris,William L.,Superior
+holgren-sup+gf,Holgren,,Superior
+hoover-cro+sup,Hoover,Lloyd,Superior
+howell-scb+sup,Howell,Frank Z.,Superior
+johnson-scb+sup,Johnson,,Superior
+jones-sup,"""Jones""",,Superior
+kelley-sup,Kelley,,Superior
+mcshane-dul+sup,McShane,Michael R.,Superior
+mueller-gf+cro+sup+win,Mueller,,Superior
+nolan-sup,Nolan,,Superior
+patterson-sup,Patterson,Thomas,Superior
+potts-dul+sup+win+cro,Potts,Dennis,Superior
+ripley-scb+sup+cro,Ripley,Frank,Superior
+robinson-sup,Robinson,Tommy,Superior
+ronesch-scb+sup,Ronesch,Jerry,Superior
+severeid-sup,Severeid,Al,Superior
+smith-sup,Smith,Theodore,Superior
+sommerville-sup,Sommerville,,Superior
+sorenson-cro+sup,Sorenson,Walter W.,Superior
+speiser-scb+sup+cro,Speiser,A. Frank,Superior
+white-scb+sup,White,"William F. ""Billy""",Superior
+wing-scb+sup+cro,Wing,Fred W.,Superior
+anderson-win,Anderson,Mark,Winnipeg
+baker-win+cro,Baker,Louis M.,Winnipeg
+bradley-win+gf+dul,Bradley,"James ""Jim""",Winnipeg
+breen-win,Breen,,Winnipeg
+cameron-win,Cameron,Frank A.,Winnipeg
+casey-win,Casey,Frank,Winnipeg
+claytor-win,Claytor,"Henry Lee ""Harry""",Winnipeg
+claytor-win,Claytor,Harry,Winnipeg
+dahlquist-sup+win,Dahlquist,"William J. ""Pete""",Winnipeg
+donovan-far+win,Donovan,,Winnipeg
+gatewood-win,Gatewood,"Henry ""Harry""",Winnipeg
+green-win,Green,"Frank ""Hetty""",Winnipeg
+hamill-win,Hamill,James T.,Winnipeg
+howells-win,Howells,"William D. ""Billy""",Winnipeg
+howells-win,Howells,William D.,Winnipeg
+johnston-win+cro,Johnston,C. F.,Winnipeg
+kennedy-win,Kennedy,Ted,Winnipeg
+lamb-win,Lamb,J. M.,Winnipeg
+leighty-cro+win,Leighty,"James Lee ""Jim""",Winnipeg
+maloney-win+cro,Maloney,John C.,Winnipeg
+mueller-gf+cro+sup+win,Mueller,,Winnipeg
+murphy-scb+win+dul,Murphy,"John J. ""Jack"" ""Checkers""",Winnipeg
+peterson-win+dul,Peterson,,Winnipeg
+piper-win,Piper,Lawrence C.,Winnipeg
+potts-dul+sup+win+cro,Potts,Dennis,Winnipeg
+rees-win+scb,Rees,Henry,Winnipeg
+riches-win,Riches,,Winnipeg
+rogers-win,Rogers,"Frank Fred ""Fred""",Winnipeg
+sporer-win,Sporer,"Joseph J. ""Lefty""",Winnipeg
+tripp-win,Tripp,"J. P. ""Jack""",Winnipeg
+tucker-win,Tucker,David John,Winnipeg
+witman-win,Witman,C.,Winnipeg
+zeider-cro+win,Zeider,Rollie H.*,Winnipeg

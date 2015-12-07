@@ -1,0 +1,135 @@
+person.key,person.name.last,person.name.first,entry.name
+lucas-exc,Lucas,William H.,#league
+derrick-ump,Derrick,,#umpire
+drennan-bel,Drennan,Kirby John,#umpire
+huston-eve,Huston,"John ""Jack""",#umpire
+mcrea-ump,McRea,John,#umpire
+schock-eve+van,Schock,Fred C.,#umpire
+treadway-ump,Treadway,George B.*,#umpire
+brinker-bel,Brinker,"William H. ""Dode""*",Bellingham
+bristow-vic+spo+bel,Bristow,George G.*,Bellingham
+califf-bel,Califf,Evelyn S.,Bellingham
+carter-eve+bel,Carter,"Charles R. ""Duke""",Bellingham
+clark-bel,Clark,"Alfred R. ""Dad""*",Bellingham
+donovan-van+bel,Donovan,Billy,Bellingham
+downey-bel,Downey,Thomas Charles,Bellingham
+drennan-bel,Drennan,"Kirby John ""Jack""",Bellingham
+drew-bel,Drew,,Bellingham
+druhot-bel,Druhot,"Carl A. ""Colly""*",Bellingham
+dudley-bel+vic,Dudley,Roy,Bellingham
+duggan-bel,Duggan,,Bellingham
+james-bel,James,"Robert E. ""Bobby""",Bellingham
+jansa-bel+vic,Jansa,Frank,Bellingham
+kelsey-bel,Kelsey,"George W. ""Billy""*",Bellingham
+kennedy-bel,Kennedy,Ed,Bellingham
+king-bel,King,H. A.,Bellingham
+lent-bel,Lent,,Bellingham
+mahon-bel,Mahon,Eugene Joseph,Bellingham
+nonnenbacher-bel,Nonnenbacher,,Bellingham
+spencer-bel,Spencer,"Frank J. ""Stub""",Bellingham
+steele-eve+bel,Steele,A. L.,Bellingham
+stickney-spo+bel,Stickney,"A. Lincoln ""Link""",Bellingham
+altman-eve,Altman,"Joseph Jacob ""Joe""",Everett
+belt-eve,Belt,"Harry H. ""Hick""",Everett
+bevins-eve,Bevins,,Everett
+brahan-eve,Brahan,,Everett
+brundage-eve,Brundage,,Everett
+burns-eve,Burns,"John J. ""Jack""*",Everett
+carter-eve+bel,Carter,"Charles R. ""Duke""",Everett
+cook-eve,Cook,,Everett
+doyle-eve,Doyle,"Thomas E. ""Tommy""",Everett
+erle-eve+vic+spo,Erle,"Albert Henry ""Al""",Everett
+ford.e-vic+eve,Ford,"Edward ""Eddie""",Everett
+hanson-eve,Hanson,George W.,Everett
+heitmuller-eve,Heitmuller,"William F. ""Heinie""*",Everett
+hulen-eve,Hulen,"William F. ""Billy""*",Everett
+huston-eve,Huston,"John ""Jack""",Everett
+irby-vic+spo+eve,Irby,Charles T.,Everett
+jacobs-eve+vic+spo,Jacobs,,Everett
+mackey-eve,Mackey,"John ""Cheese""",Everett
+mcinnes-eve,McInnes,Hector,Everett
+pringle-eve,Pringle,,Everett
+raymond-eve,Raymond,"Frank C. ""Tealy""",Everett
+rowan-eve,Rowan,"David ""Dave""*",Everett
+schock-eve+van,Schock,Fred C.,Everett
+steele-eve+bel,Steele,A. L.,Everett
+strub-eve,Strub,Dr. Charles Henry,Everett
+suess-eve+vic+spo,Suess,"Frank Jacob ""Doc""",Everett
+sullivan-eve,Sullivan,,Everett
+yeasell-eve,Yeasell,Lefty,Everett
+baer-spo,Baer,,Spokane
+bristol-vic+spo,Bristol*,,Spokane
+bristow-vic+spo+bel,Bristow,George G.*,Spokane
+cutter-spo,Cutter,"Winthrop ""Win""",Spokane
+dashwood-spo,Dashwood,Walter E.,Spokane
+driscoll-spo,Driscoll,,Spokane
+duggan-spo,Duggan,Clarence E. F.,Spokane
+egan-vic+spo,Egan,Dick*,Spokane
+erle-eve+vic+spo,Erle,"Albert Henry ""Al""",Spokane
+ferris-spo,Ferris,George Martin,Spokane
+franklin-vic+spo,Franklin,Ernest M.,Spokane
+hutchinson-vic+spo,Hutchinson,"Edwin F. ""Ed""",Spokane
+irby-vic+spo+eve,Irby,Charles T.,Spokane
+jacobs-eve+vic+spo,Jacobs,,Spokane
+longnecker-spo,Longnecker,,Spokane
+martinke-vic+spo,Martinke,Felix,Spokane
+mcintyre-spo,McIntyre,"Charles F. ""Butch""",Spokane
+mcintyre-spo,McIntyre,Charles,Spokane
+mcmanus-vic+spo,McManus,,Spokane
+shoulderer-spo,Shoulderer,William J.,Spokane
+simons-spo,Simons,"John Van ""Jack""",Spokane
+stickney-spo+bel,Stickney,"A. Lincoln ""Link""",Spokane
+suess-eve+vic+spo,Suess,"Frank Jacob ""Doc""",Spokane
+swain-spo,Swain,"Charles R. ""Cy""",Spokane
+thomas-spo,Thomas,(Williams Col.),Spokane
+toren-spo,Toren,Roy Henry,Spokane
+babbitt-van,Babbitt,George F.,Vancouver
+ballantyne-van,Ballantyne,,Vancouver
+burns-van,Burns,William (*?),Vancouver
+dammann-van,Dammann,"William H. ""Bill""*",Vancouver
+davis-van,Davis,"William ""Bill""",Vancouver
+delmas-van,Delmas,"Albert Russell ""Del""",Vancouver
+donovan-van+bel,Donovan,Billy,Vancouver
+galaski-vic+van,Galaski,"Joseph ""Joe""",Vancouver
+goen-van,Goen,,Vancouver
+green-vic+van,Green,,Vancouver
+harmon-van,Harmon,Ira,Vancouver
+hausen-van,Hausen,"Homer Chase ""Bill""",Vancouver
+klopf-van,Klopf,"Gustave L. ""Gus""",Vancouver
+marshall-van,Marshall,"Joseph H. ""Joe""*",Vancouver
+mccloskey-van,McCloskey,John J.*,Vancouver
+muller-van,Muller,"Maxmilan F. ""Max""",Vancouver
+obrien-van,O'Brien,,Vancouver
+oconnell-van,O'Connell,"John Jos. ""Jack""*",Vancouver
+schock-eve+van,Schock,Fred C.,Vancouver
+smith-van,Smith,Elmer F.,Vancouver
+thomas-van,Thomas,"Joseph J. ""Joe""",Vancouver
+ward-van,Ward,Frank,Vancouver
+weaver-van,Weaver,"William B. ""Buck""*",Vancouver
+boyle-vic,Boyle,Grover William,Victoria
+bristol-vic+spo,Bristol,George G.*,Victoria
+bristow-vic+spo+bel,Bristow,George G.*,Victoria
+brockhoff-vic,Brockhoff,"William H. ""Billy""",Victoria
+daley-vic,Daley,,Victoria
+downing-vic,Downing,,Victoria
+dudley-bel+vic,Dudley,Roy,Victoria
+egan-vic+spo,Egan,Dick*,Victoria
+erickson-vic,Erickson,,Victoria
+erle-eve+vic+spo,Erle,"Albert Henry ""Al""",Victoria
+ford.c-vic,Ford,C. (brother),Victoria
+ford.e-vic+eve,Ford,"Edward ""Eddie""",Victoria
+franklin-vic+spo,Franklin,Ernest M.,Victoria
+galaski-vic+van,Galaski,"Joseph ""Joe""",Victoria
+green-vic+van,Green,,Victoria
+holness-vic,Holness,Thomas James,Victoria
+hutchinson-vic+spo,Hutchinson,"Edwin F. ""Ed""*",Victoria
+irby-vic+spo+eve,Irby,Charles T.,Victoria
+jacobs-eve+vic+spo,Jacobs,,Victoria
+jansa-bel+vic,Jansa,Frank,Victoria
+jones-vic,Jones,,Victoria
+lewis-vic,Lewis,Carl Leland,Victoria
+martinke-vic+spo,Martinke,Felix,Victoria
+mcmanus-vic+spo,McManus,,Victoria
+phillbrick-vic,Phillbrick,"Ralph L. ""Chub""",Victoria
+suess-eve+vic+spo,Suess,"Frank Jacob ""Doc""",Victoria
+williams-vic,Williams,,Victoria

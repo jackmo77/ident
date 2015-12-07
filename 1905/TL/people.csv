@@ -1,0 +1,189 @@
+person.key,person.name.last,person.name.first,entry.name
+roberts-exc,Roberts,J. Doak,#league
+bailey-ump,Bailey,"Arch P. ""Pie""",#umpire
+burns-ump,Burns,"Michael ""Mike""",#umpire
+clark-ump,Clark,"Edmund C. ""Ed""*",#umpire
+mulkey-tem+dal+ump,Mulkey,Silas E.,#umpire
+sheehan-ump,Sheehan,Nick,#umpire
+spencer.v-ump,Spencer,"Victor D. ""Dit""",#umpire
+spencer.w-ump,Spencer,Wirt,#umpire
+tackaberry-ump,Tackaberry,Harry,#umpire
+beasley-aus,Beasley,,Austin
+clayton-aus+tem,Clayton,William F.,Austin
+darlington-aus+wac,Darlington,,Austin
+deskin-aus+dal+tem,Deskin,"Samuel T. ""Sam""",Austin
+dugan-cor+aus,Dugan,"Thomas ""Tom""",Austin
+fenner-aus+dal+wac,Fenner,John,Austin
+hartman-aus,Hartman,Charles,Austin
+karney-aus,Karney,William,Austin
+killilay-aus+dal,Killilay,"John W. ""Jack""*",Austin
+oconnor-aus+wac,O'Connor,"Mike ""Big Mike""",Austin
+oconnor-aus+wac,O'Connor,Mike,Austin
+ragsdale-aus+wac,Ragsdale,Scott,Austin
+shands-aus,Shands,Ned Douglass,Austin
+slater-aus,Slater,Asa D.,Austin
+stovall-aus+wac,Stovall,Samuel Watson,Austin
+taylor-aus+dal,Taylor,"Edgar R. ""Eddie""*",Austin
+wilson-aus+fw,Wilson,"John O. ""Chief""*",Austin
+wortham-aus,Wortham,,Austin
+atkinson-cor,Atkinson,Floyd,Corsicana
+baker-tem+cor,Baker,Mat,Corsicana
+bales-cor,Bales,,Corsicana
+blasingame-cor+fw,Blasingame,A. L.,Corsicana
+block-cor+tem,Block,"James J. ""Bruno""*",Corsicana
+brown-cor,Brown,Walter,Corsicana
+butler-cor+fw+wac,Butler,"William S. ""Will""",Corsicana
+cavanaugh-cor+tem,Cavanaugh,"Joseph ""Joe""",Corsicana
+dorsey-cor,Dorsey,Joe,Corsicana
+dugan-cor+aus,Dugan,"Thomas ""Tom""",Corsicana
+farrish-cor,Farrish,,Corsicana
+hanson-cor,Hanson,,Corsicana
+hardy-cor,Hardy,,Corsicana
+head-cor,Head,,Corsicana
+howell-cor,Howell,,Corsicana
+huddleston-cor+fw,Huddleston,"Thomas V. ""Tom""",Corsicana
+lovett-cor,Lovett,Thomas,Corsicana
+lowrey-cor,Lowrey,,Corsicana
+lucid-cor,Lucid,"Cornelius ""Con""*",Corsicana
+lucid-cor,Lucid*,"""Con""",Corsicana
+mahaffey-cor,Mahaffey,James,Corsicana
+mcivor-cor+tem,McIvor,Otto*,Corsicana
+miller-cor,Miller,William L.,Corsicana
+morales-cor,Morales,Charles Joseph,Corsicana
+pilgrim-cor+tem,Pilgrim,Paul,Corsicana
+reed-cor,Reed,,Corsicana
+rogers-cor,Rogers,,Corsicana
+salm-cor+tem,Salm,Walter P.,Corsicana
+smith-cor,Smith,"Lester F. ""Les""",Corsicana
+teas-cor+tem,Teas,Robert,Corsicana
+vinson-cor,Vinson,Theodore Richard,Corsicana
+waters-cor+tem,Waters,Emmitt,Corsicana
+ables-dal,Ables,Harry T.*,Dallas
+andreas-dal,Andreas,George William,Dallas
+behrend-dal,Behrendt,,Dallas
+bero-dal,Bero,Archibald Robert,Dallas
+blumling-dal,Blumling,Harry,Dallas
+bridges-dal,Bridges,Marvin O.,Dallas
+deskin-aus+dal+tem,Deskin,"Samuel T. ""Sam""",Dallas
+doyle-dal,Doyle,William Thomas,Dallas
+farris-dal,Farris,Frank R.,Dallas
+fenner-aus+dal+wac,Fenner,John,Dallas
+fink-dal,Fink,Clarence C.,Dallas
+jackson-dal,Jackson,"William R. ""Bill""*",Dallas
+jutzi-dal,Jutzi,Gustav John,Dallas
+killilay-aus+dal,Killilay,"John W. ""Jack""*",Dallas
+kohlar-dal,Kohlar,Steve,Dallas
+maloney-dal,Maloney,"James J. ""Curley""",Dallas
+maloney-dal,Maloney,"James ""Curley""",Dallas
+mcdermott-wac+dal,McDermott,Fred,Dallas
+meyers-dal,Meyers,Ben,Dallas
+moran-dal+fw,Moran,Charles B.*,Dallas
+mulkey-tem+dal+ump,Mulkey,"Silas E. ""Si""",Dallas
+porter-dal,Porter,Charles P.,Dallas
+ragsdale-dal,Ragsdale,Benjamin Franklin,Dallas
+rickey-dal,Rickey,W. Branch*,Dallas
+shaffner-dal,Shaffner,Hardy,Dallas
+sullivan-fw+dal,Sullivan,"John F. ""Sully""",Dallas
+taylor-aus+dal,Taylor,"Edgar R. ""Eddie""*",Dallas
+ury-dal,Ury,"Louis S. ""Lon""*",Dallas
+wharton-dal,Wharton,Bert,Dallas
+ballew-fw,Ballew,L. E.,Fort Worth
+bates-fw,Bates,"Albert ""Red""",Fort Worth
+blasingame-cor+fw,Blasingame,A. L.,Fort Worth
+boles-fw,Boles,Walter Grey,Fort Worth
+burleson-fw,Burleson,Luther,Fort Worth
+butler-cor+fw+wac,Butler,"William S. ""Will""",Fort Worth
+cavneder-fw,Cavender,Dred,Fort Worth
+christman-fw,Christman,Harold,Fort Worth
+erwin-fw,Erwin,"Ross E. ""Tex""*",Fort Worth
+ford-fw,Ford,Dennis,Fort Worth
+gfroerer-fw,Gfroerer,Oliver P. M.,Fort Worth
+gilligan-fw,Gilligan,Edward?,Fort Worth
+hanlon-fw,Hanlon,"Edward ""Ned""",Fort Worth
+harris-tem+tw,Harris,John,Fort Worth
+hogsett-fw,Hogsett,Charles,Fort Worth
+horn-fw,Horn,William C.,Fort Worth
+hubbard-fw,Hubbard,A. B.,Fort Worth
+huddleston-cor+fw,Huddleston,"Thomas V. ""Tom""",Fort Worth
+johnson-fw,Johnson,Leonard,Fort Worth
+markley-fw,Markley,George S.,Fort Worth
+mauch-fw,Mauch,"Patrick ""Paddy""",Fort Worth
+mcginnis-tem+fw,McGinnis,,Fort Worth
+moran-dal+fw,Moran,Charles B.*,Fort Worth
+murphy-fw,Murphy,Howard*,Fort Worth
+nicholls-tem+fw,Nicholls,J. Wesley,Fort Worth
+pennell-fw,Pennell,"Arthur Lee ""Art""",Fort Worth
+pierce-tem+fw,Pierce,,Fort Worth
+poindexter-fw+tem,Poindexter,"Cecil Dee ""Dee""",Fort Worth
+schwenck-fw,Schwenck,"Rudolph ""Rudy""*",Fort Worth
+sullivan-fw+dal,Sullivan,"John F. ""Sully""",Fort Worth
+vitter-tem+fw,Vitter,"Harry W. ""Red""",Fort Worth
+walsh-fw,Walsh,Leo,Fort Worth
+wicker-fw,Wicker,Edward,Fort Worth
+wills-fw,Wills,Charles ,Fort Worth
+wilson-aus+fw,Wilson,"John O. ""Chief""*",Fort Worth
+adams-tem,Adams,"Reuben A. ""Rick""*",Temple
+akin-tem,Akin,Roy Benjamin,Temple
+baker-tem+cor,Baker,Mat,Temple
+blackburn-tem,Blackburn,Charles,Temple
+blair-tem,Blair,Walter A.*,Temple
+block-cor+tem,Block,"James J. ""Bruno""*",Temple
+burke-tem,Burke,Joseph E.,Temple
+cavanaugh-cor+tem,Cavanaugh,"Joseph ""Joe""",Temple
+clayton-aus+tem,Clayton,William F.,Temple
+coyle-tem,Coyle,"Frank B.""Mickey""",Temple
+deskin-aus+dal+tem,Deskin,"Samuel T. ""Sam""",Temple
+dickson-tem,Dickson,"Walter R. ""Walt""*",Temple
+gilreath-tem,Gilreath,"William E. ""Will""",Temple
+harris-tem+tw,Harris,John,Temple
+hise-tem,Hise,Bert,Temple
+jarvis-tem,Jarvis,"William ""Jack""",Temple
+kahlkoff-tem,Kahlkoff,George M. L.,Temple
+kitchens-tem,Kitchens,William,Temple
+leslie-tem,Leslie,,Temple
+lewis-tem,Lewis,Cal R.,Temple
+mcginnis-tem+fw,McGinnis,,Temple
+mcivor-cor+tem,McIvor,Otto*,Temple
+mitchell-tem,Mitchell,Alb. Roy*,Temple
+mulkey-tem+dal+ump,Mulkey,"Silas E. ""Si""",Temple
+nicholls-tem+fw,Nicholls,J. Wesley,Temple
+pierce-tem+fw,Pierce,,Temple
+pilgrim-cor+tem,Pilgrim,Paul,Temple
+poindexter-fw+tem,Poindexter,"Cecil Dee ""Dee""",Temple
+powell-tem,Powell,William F.,Temple
+salm-cor+tem,Salm,Walter P.,Temple
+shelton-tem,Shelton,"Ben ""Prince Ben""",Temple
+shelton-tem,Shelton,Ben,Temple
+spencer-tem,Spencer,,Temple
+teas-cor+tem,Teas,Robert,Temple
+thomas-tem,Thomas,R. E.,Temple
+vitter-tem+fw,Vitter,"Harry W. ""Red""",Temple
+waters-cor+tem,Waters,Emmitt,Temple
+woods-tem,Woods,,Temple
+bigbie-wac,Bigbie,Frank Hutchinson,Waco
+butler-cor+fw+wac,Butler,"William S. ""Will""",Waco
+curtis-wac,Curtis,"W. Donald ""Don""",Waco
+curtis-wac,Curtis,Don,Waco
+darlington-aus+wac,Darlington,,Waco
+fenner-aus+dal+wac,Fenner,John,Waco
+haley-wac,Haley,,Waco
+hardy-wac,Hardy,Ellis G.,Waco
+hartsfield-wac,Hartsfield,John,Waco
+heinz-wac,Heinz,Frank,Waco
+lennox-wac,Lennox,Ed James,Waco
+lower-wac,Lower,John D.,Waco
+mcdermott-wac+dal,McDermott,Fred,Waco
+mckay-wac,McKay,Reeve S.*NO,Waco
+metz-wac,Metz,Louis W.,Waco
+oconnor-aus+wac,O'Connor,"Mike ""Big Mike""",Waco
+oconnor-aus+wac,O'Connor,Mike,Waco
+peer-wac,Peer,"Michael ""Mike""",Waco
+pruiett-wac,Pruiett,"Charles L. ""Tex""*",Waco
+ragsdale-aus+wac,Ragsdale,Scott,Waco
+rodebaugh-wac,Rodebaugh,"Edward ""Ed""",Waco
+sapp-wac,Sapp,Edward R.,Waco
+spencer-wac,Spencer,"Edw. R. ""Tubby""*",Waco
+stovall-aus+wac,Stovall,Samuel Watson,Waco
+white-wac,White,Robert Marion,Waco
+whiteman-wac,Whiteman,George*,Waco
+williams-wac,Williams,"James H.""Jimmy""",Waco

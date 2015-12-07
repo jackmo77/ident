@@ -1,0 +1,231 @@
+person.key,person.name.last,person.name.first,entry.name
+powers-exc,Powers,Patrick T.*,#league
+conroy-ump,Conroy,John,#umpire
+egan-ump,Egan,"John J. ""Jack""*",#umpire
+hassett-ump,Hassett,Charles F.,#umpire
+moran.a-ump,Moran,"August F. ""Augie""",#umpire
+moran.f-ump,Moran,Frank,#umpire
+zinner-ump,Zinner,"Charles L. ""Chief""*",#umpire
+adkins-bal,Adkins,Merle T.*,Baltimore
+beall-bal,Beall,John (Johnny),Baltimore
+burchell-bal,Burchell,Frederick D.*,Baltimore
+byers-bal,Byers,James William (Bill)*,Baltimore
+eason-bal,Eason,Malcolm W.*,Baltimore
+griffin-bal,Griffin,Stephen J.,Baltimore
+hallman-bal,Hallman,William W. (Billy)*,Baltimore
+hayden-bal,Hayden,John F. (Jack)*,Baltimore
+hearne-bal,Hearne,Hugh J.*,Baltimore
+jennings-bal,Jennings,Hugh A.*,Baltimore
+jordan-bal,Jordan,Timothy J.*,Baltimore
+kelly-bal,Kelly,John B.*,Baltimore
+loudenslager-bal,Loudenslager (Loudy),Charles*,Baltimore
+lynch-bal,Lynch,"Michael J., Jr.",Baltimore
+mason-bal,Mason,Adelbert (Del)*,Baltimore
+mcaleese-bal,McAleese,John J.*,Baltimore
+mcneal-bal,McNeal,John Harley*,Baltimore
+mullin-bal,Mullin,James H.*,Baltimore
+neal-bal,Neal,Offa*,Baltimore
+ohara-bal,O'Hara,William A.*,Baltimore
+rothgeb-bal,Rothgeb,Claude J.*,Baltimore
+sylvester-bal,Sylvester,Louis,Baltimore
+welch-bal,Welch,,Baltimore
+wiltse-bal,Wiltse,Lewis D.*,Baltimore
+allen-buf,Allen,,Buffalo
+bird-buf+mon,Bird,Thomas,Buffalo
+brockett-buf,Brockett,Louis A.*,Buffalo
+brown-buf,Brown,L,Buffalo
+callahan-buf,Callahan,,Buffalo
+cooney-buf,Cooney,Philip C.*,Buffalo
+delahanty-buf,Delahanty,Joseph N.*,Buffalo
+gettman-buf,Gettman,Jacob J.*,Buffalo
+glassburner-buf,Glassburner,William George,Buffalo
+greene-buf,Greene,T. P. Ernest,Buffalo
+hill-buf,Hill,Hugh E.*,Buffalo
+jones-buf,Jones,Alexander H.*,Buffalo
+kisinger-buf,Kisinger,Charles S. (Rube)*,Buffalo
+laporte-buf,Laporte,Frank B.*,Buffalo
+matterson-buf,Matterson,H. E.,Buffalo
+matthews-buf,Matthews,Bill,Buffalo
+mcallister-buf,McAllister,Lewis W.  (Lew)*,Buffalo
+mcmanus-buf,McManus,Frank E.*,Buffalo
+miller-buf,Miller,William (Billy),Buffalo
+milligan-buf,Milligan,William J.*,Buffalo
+murphy-buf,Murphy,Edward J.*,Buffalo
+murray-tor+buf,Murray,James O.,Buffalo
+nattress-buf,Nattress,William Wallace,Buffalo
+senno-buf,Senno,Daniel Anthony,Buffalo
+stallings-buf,Stallings,George T.*,Buffalo
+sullivan-buf,Sullivan,,Buffalo
+wood-buf,Wood,Robert L.*,Buffalo
+yerkes-buf,Yerkes,Stanley L.*,Buffalo
+zacher-buf,Zacher,Elmer H.*,Buffalo
+bean-jc,Bean,Joseph W.*,Jersey City
+cargo-jc,Cargo,Charles (Chic),Jersey City
+cassidy-jc,Cassidy,Peter F.*,Jersey City
+clarkson-jc,Clarkson,Walter H.*,Jersey City
+clement-jc,Clement,Wallace Oakes*,Jersey City
+halligan-jc,Halligan,William E. (Jocko)*,Jersey City
+hines-jc,Hines,,Jersey City
+irwin-jc,Irwin,"Thomas D, (Tommy)",Jersey City
+keister-jc,Keister,William H.*,Jersey City
+kelley-jc,Kelley,Leo,Jersey City
+lindaman-jc,Lindaman,Vivan A.*,Jersey City
+mccann-jc,McCann,Henry Eugene*,Jersey City
+mccauley-jc,McCauley,Patrick F.*,Jersey City
+mcquillan-jc,Mack (McQuillan),George*,Jersey City
+merritt-jc,Merritt,George W.*,Jersey City
+mueller-jc+tor,Mueller,Walter,Jersey City
+murray-jc,Murray,William J.*,Jersey City
+olmsted-jc,Olmsted,Henry T. (Hank)*,Jersey City
+pattee-jc,Pattee,Harry E.*,Jersey City
+pfanmiller-jc,Pfanmiller,George P.,Jersey City
+thielman-jc,Thielman,Henry J.*,Jersey City
+vandegrift-jc,Vandegrift,George,Jersey City
+woods-jc,Woods,Walter S.*,Jersey City
+aubrey-pro+mon,Aubrey,Harry,Montreal
+bannon-mon,Bannon,James H.*,Montreal
+barber-mon,Barber,Frank L.,Montreal
+bird-buf+mon,Bird,Thomas,Montreal
+busse-mon,Busse,Carlton Tilton (Charley),Montreal
+clancy-mon,Clancy,Charles Albert,Montreal
+dyer-mon,Dyer,William H.,Montreal
+felix-mon,Felix,Harry*,Montreal
+ferry-mon,Ferry,Alfred J. (Cy)*,Montreal
+gibson-mon,Gibson,George C.*,Montreal
+hammond-mon,Hammond,,Montreal
+hartman.f-mon,Hartman,Frederick O.*,Montreal
+hartman.l-mon,Hartman,Louis C.,Montreal
+james-ric,James,Richard,Montreal
+joyce-mon,Joyce,Michael J.,Montreal
+kellogg-mon,Kellogg,Albert C.*,Montreal
+kuhns-mon,Kuhns,Charles B.*,Montreal
+lachance-mon,LaChance,George J.*,Montreal
+latimer-new+mon,Latimer,Clifford (Tacks),Montreal
+leroy-mon,LeRoy,Louis P.*,Montreal
+mccarthy-mon,McCarthy,Archibald J.*,Montreal
+meaney-mon,Meaney,Patrick J.,Montreal
+mellor-mon,Mellor,William H.*,Montreal
+mieure-mon,Mieure,,Montreal
+miller-mon,Miller,James M.*,Montreal
+pappalau-mon,Pappalau,John J.*,Montreal
+raub-mon,Raub,Thomas J.*,Montreal
+wagner-mon,Wagner,Albert*,Montreal
+weidensaul-mon,Weidensaul,Yentzer McL.,Montreal
+wills-mon,Wills,,Montreal
+woeful-mon,Woeful,,Montreal
+bonno-new,Bonno,Gustavus,Newark
+burnham-new,Burnham,Walter W.,Newark
+callahan-new,Callahan,John F. (Jack),Newark
+cockman-new,Cockman,James*,Newark
+connaughton-new,Connaughton,Frank H.*,Newark
+connor-new,Connor,Joseph F.*,Newark
+curran-new,Curran,,Newark
+dillard-new+pro+tor,Dillard,Robert L. (Pat),Newark
+fertsch-roc+new,Fertsch,Edward,Newark
+foster.c-new,Foster,Clarence F.*,Newark
+foster.u-new,Foster,,Newark
+gatins-new,Gatins,Frank A.*,Newark
+hesterfer-new,Hesterfer,Lawrence*,Newark
+jones-new,Jones,James T.*,Newark
+lake-new,Lake,,Newark
+latimer-new+mon,Latimer,Clifford (Tacks),Newark
+mahling-new,Mahling,William E.,Newark
+mclane-new,McLane,Edward C.*,Newark
+mcpherson-new+tor,McPherson,John,Newark
+moriarty-new,Moriarty,Edwin (Ed),Newark
+murphy-tor,Murphy,Frank P.*,Newark
+ohagan-new,O'Hagan,Patrick Henry*.,Newark
+oneill-new,O'Neill,John ('02Newark),Newark
+pardee-new,Pardee,Albert L. (Al),Newark
+schroeder-new,Schroeder,,Newark
+shea-new,Shea,John E. (Nap)*,Newark
+skopec-new,Skopec,John S.*,Newark
+smink-new,Smink,William,Newark
+spooner-new,Spooner,George A.,Newark
+swander-new,Swander,Edward O.*,Newark
+wagner-new,Wagner,Charles F.*,Newark
+washer-new,Washer,William (Buck)*,Newark
+aubrey-pro+mon,Aubrey,Harry,Providence
+ball-eug,Ball,Harry Eugene,Providence
+brodie-pro,Brodie,Walter Stephen*,Providence
+conn-pro,Conn,Albert T. (Bert)*,Providence
+cooper-pro,Cooper,Charles,Providence
+cronin-pro,Cronin,John J. (Jack)*,Providence
+dillard-new+pro+tor,Dillard,Robert L. (Pat),Providence
+dunn-pro,Dunn,John J. (Jack)*,Providence
+harley-tor+pro,Harley,Richard G. (Dick),Providence
+jacklitsch-pro,Jacklitsch,Frederick L.*,Providence
+josslyn-pro,Josslyn,George Bert,Providence
+kelly.j-pro,Kelly,J,Providence
+kelly.m-pro,Kelly,M,Providence
+kelly.r-pro,Kelly,R,Providence
+mcfarland-pro,McFarland,Hermas W.*,Providence
+morgan-pro,Morgan,James E.*,Providence
+mullen-pro,Mullen,John F. (Jack),Providence
+nops-pro,Nops,Jeremiah H. (Jerry)*,Providence
+poland-pro,Poland,Philip,Providence
+poole-pro,Poole,Edward I.*,Providence
+puttmann-pro,Puttmann,Ambrose N*,Providence
+rock-pro,Rock,Royal E.,Providence
+thomas-pro,Thomas,Ira F.*,Providence
+barclay-roc,Barclay,George O.*,Rochester
+bayne-roc,Bayne,Alvin B.,Rochester
+buckenberger-roc,Buckenberger,Albert C.*,Rochester
+burrell-roc,Burrell,Lennius O. (Len),Rochester
+carey-roc,Carey,George C.*,Rochester
+clancy-roc,Clancy,William E.*,Rochester
+cleary-roc,Cleary,James A.,Rochester
+degroff-roc,DeGroff,Edward Arthur*,Rochester
+faulkner-roc,Faulkner,Oliver H.,Rochester
+fertsch-roc+new,Fertsch,Edward,Rochester
+houser-roc+tor,Houser,Benjamin F.,Rochester
+kennedy-roc,Kennedy,James S.,Rochester
+manning-roc,Manning,John,Rochester
+mattern-roc,Mattern,Alonzo Albert (Al)*,Rochester
+mccabe-roc,McCabe,Frank James,Rochester
+mcconnell-roc,McConnell,Ambrose M.*,Rochester
+mclean-roc,McLean,Frank S. G.,Rochester
+nugent-roc,Nugent,John J.,Rochester
+obrien-roc,O'Brien,James L.,Rochester
+owens-roc,Owens,Thomas L. (Red)*,Rochester
+pastor-roc,Pastor,Henry,Rochester
+payne-roc,Payne,Frederick T.*,Rochester
+rothfuss-roc,Rothfuss,John (Jack)*,Rochester
+schlitzer-roc,Schlitzer,Victor J.*,Rochester
+schultz-roc,Schultz,George E.,Rochester
+smith-roc,Smith,George H.*,Rochester
+steelman-roc,Steelman,Morris J.*,Rochester
+wallace-roc,Wallace,James L.*,Rochester
+walters-roc,Walters,Daniel Tony,Rochester
+yancey-roc,Yancey,Hogan Lowndes,Rochester
+applegate-tor,Applegtate,Frederick R.*,Toronto
+barrow-tor,Barrow,Edward G.,Toronto
+caldwell-tor,Caldwell,Ralph G.*,Toronto
+carr-tor,Carr,Lewis S.*,Toronto
+cristall-tor,Cristall,William A.*,Toronto
+currie-tor,Currie,Clarence F.*,Toronto
+curtis-tor,Curtis,,Toronto
+dillard-new+pro+tor,Dillard,Robert L. (Pat),Toronto
+falkenberg-tor,Falkenberg,Frederick P.*,Toronto
+fuller-tor,Fuller,Charles F.*,Toronto
+harley-tor+pro,Harley,Richard G. (Dick),Toronto
+harley-tor+pro,Harley,Richard J.,Toronto
+hoey-tor,Hoey,John B. (Jack)*,Toronto
+houser-roc+tor,Houser,Benjamin F.,Toronto
+kelly-tor,Kelly,,Toronto
+leary-tor,Leary,Frank P.*,Toronto
+long-tor,Long,"Nelson ""Red""",Toronto
+magee-tor,Magee,William J.*,Toronto
+magoon-tor,Magoon,George H.*,Toronto
+mcgeehan-tor,McGeehan,Cornelius B.*,Toronto
+mcpherson-new+tor,McPherson,John,Toronto
+mueller-jc+tor,Mueller,Walter,Toronto
+murray-tor+buf,Murray,James O.,Toronto
+obrien-tor,O'Brien,William A. (Billy),Toronto
+phelan-tor,Phelan,,Toronto
+rapp-tor,Rapp,Louis,Toronto
+soffel-tor,Soffel,August,Toronto
+sullivan-tor,Sullivan,Michael F.,Toronto
+toft-tor,Toft,John (Jack),Toronto
+white-tor,White,John W. (Jack)*,Toronto
+zimmerman-tor,Zimmerman,Edward D.*,Toronto

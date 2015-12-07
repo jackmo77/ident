@@ -1,0 +1,174 @@
+person.key,person.name.last,person.name.first,entry.name
+barbeau-col,Barbeau,,Columbus
+berger-col,Berger,,Columbus
+brown-col,Brown,,Columbus
+clymer-col,Clymer,,Columbus
+congalton-col,Congalton,,Columbus
+davis-col,Davis,,Columbus
+dorner-col,Dorner,,Columbus
+friel-col+ind+min,Friel,,Columbus
+hart-col,Hart,Wm.,Columbus
+hickey-mil+col,Hickey,,Columbus
+hulswitt-col,Hulswitt,,Columbus
+kihm-col,Kihm,,Columbus
+malarkey-col,Malarkey,,Columbus
+pickering-col,Pickering,,Columbus
+pierce-col,Pierce,,Columbus
+ryan-col,Ryan,,Columbus
+veil-col,Veil,,Columbus
+wrighley-col,Wrigley,,Columbus
+bruce-ind,Bruce,,Indianapolis
+carr-ind,Carr,,Indianapolis
+craig-min+ind,Craig,,Indianapolis
+cromley-ind,Cromley,,Indianapolis
+curtis-ind+mil,Curtis,,Indianapolis
+dickey-ind,Dickey,,Indianapolis
+duff-ind,Duff,,Indianapolis
+farrell-ind,Farrell,,Indianapolis
+fisher-ind,Fisher,,Indianapolis
+friel-col+ind+min,Friel,,Indianapolis
+goodwin-mil+ind,Goodwin,,Indianapolis
+jaeger-min+ind,Jaeger,,Indianapolis
+martin-tol+ind,Martin,,Indianapolis
+massey-kc+ind,Massey,,Indianapolis
+mccreery-ind,McCreery,,Indianapolis
+mcgill-ind,McGill,,Indianapolis
+moran-ind,Moran,,Indianapolis
+morgan-ind,Morgan,C.,Indianapolis
+osteen-ind,Osteen,,Indianapolis
+reidy-ind+lou,Reidy,,Indianapolis
+robertson-ind,Robertson,,Indianapolis
+roth-ind,Roth,,Indianapolis
+schwartz-ind,Schwartz,,Indianapolis
+swander-ind,Swander,,Indianapolis
+thoney-ind,Thoney,,Indianapolis
+weaver-min+ind,Weaver,,Indianapolis
+zalusky-stp+ind,Zalusky,,Indianapolis
+bonner-kc,Bonner,,Kansas City
+butler-kc,Butler,,Kansas City
+cassaday-tol+kc,Cassaday,,Kansas City
+castro-kc,Castro,,Kansas City
+charles-kc,Charles,,Kansas City
+donahue-kc,Donahue,,Kansas City
+douglas-kc,Douglas,,Kansas City
+downey-kc,Downey,,Kansas City
+durham-kc,Durham,,Kansas City
+eels-kc,Eels,,Kansas City
+frantz-kc,Frantz,,Kansas City
+gilbert-tol+kc,Gilbert,,Kansas City
+hill-kc,Hill,,Kansas City
+isbell-kc,Isbell,,Kansas City
+justus-kc,Justus,,Kansas City
+kilroy-stp+kc,Kilroy,,Kansas City
+massey-kc+ind,Massey,,Kansas City
+morgan-kc+low,Morgan,A.,Kansas City
+murphy-lou+kc,Murphy,,Kansas City
+nance-kc+tol,Nance,,Kansas City
+rickert-kc,Rickert,,Kansas City
+skopec-kc,Skopec,,Kansas City
+stoner-kc+lou,Stoner,,Kansas City
+sullivan-kc+lou,Sullivan,S.,Kansas City
+wright-lou+lc,Wright,,Kansas City
+zearfoss-tol+kc,Zearfoss,,Kansas City
+brashear-lou,Brashear,,Louisville
+clay-lou,Clay,,Louisville
+dexter-lou,Dexter,,Louisville
+dunkel-lou,Dunkel,,Louisville
+ferguson-lou,Ferguson,G.,Louisville
+haidt-lou,Haidt,,Louisville
+hallman-lou,Hallman,W.,Louisville
+hart-lou,Hart,J.,Louisville
+houser-lou,Houser,,Louisville
+kenna-lou,Kenna,,Louisville
+kerwin-lou,Kerwin,,Louisville
+montgomery-lou,Montgomery,,Louisville
+morgan-kc+low,Morgan,A.,Louisville
+murphy-lou+kc,Murphy,,Louisville
+quinlan-lou,Quinlan,,Louisville
+reidy-ind+lou,Reidy,,Louisville
+schriver-lou,Schriver,,Louisville
+scott-lou,Scott,,Louisville
+shaw-lou,Shaw,,Louisville
+stecher-lou,Stecher,,Louisville
+stoner-kc+lou,Stoner,,Louisville
+sullivan-kc+lou,Sullivan,S.,Louisville
+woodruff-lou,Woodruff,,Louisville
+wright-lou+lc,Wright,,Louisville
+bateman-mil,Bateman,,Milwaukee
+beville-mil,Beville,,Milwaukee
+clark-mil,Clark,,Milwaukee
+curtis-ind+mil,Curtis,,Milwaukee
+dougherty-mil,Dougherty,,Milwaukee
+goodwin-mil+ind,Goodwin,,Milwaukee
+hemphill-mil,Hemphill,F.,Milwaukee
+hickey-mil+col,Hickey,,Milwaukee
+mcchesney-mil,McChesney,,Milwaukee
+mccormick-mil,McCormick,,Milwaukee
+mckay-mil,McKay,,Milwaukee
+morrison-mil,Morrison,,Milwaukee
+obrien-mil,O'Brien,Jack,Milwaukee
+oneill-mil,O'Neill,,Milwaukee
+robinson-mil,Robinson,,Milwaukee
+towne-mil,Towne,,Milwaukee
+wolfe-mil,Wolfe,,Milwaukee
+coulter-min,Coulter,,Minneapolis
+craig-min+ind,Craig,,Minneapolis
+ford-min,Ford,,Minneapolis
+fox-min,Fox,,Minneapolis
+freeman-min,Freeman,,Minneapolis
+friel-col+ind+min,Friel,,Minneapolis
+graham-min,Graham,,Minneapolis
+greminger-min,Greminger,,Minneapolis
+hynes-min,Hynes,,Minneapolis
+jaeger-min+ind,Jaeger,,Minneapolis
+jones-min,Jones,,Minneapolis
+kellum-tol+min,Kellum,,Minneapolis
+marshall-min,Marshall,,Minneapolis
+oyler-min,Oyler,,Minneapolis
+schmidt-min,Schmidt,,Minneapolis
+sievers-min,Sievers,,Minneapolis
+stovall-min,Stovall,,Minneapolis
+sullivan-min,Sullivan,D.,Minneapolis
+thomas-min,Thomas,,Minneapolis
+weaver-min+ind,Weaver,,Minneapolis
+carney-stp,Carney,,St. Paul
+corbett-stp,Corbett,,St. Paul
+evans-stp,Evans,,St. Paul
+ferguson-stp,Ferguson,Chas.,St. Paul
+flourney-stp,Flourney,,St. Paul
+geier-stp,Geier,,St. Paul
+hemphill-stp,Hemphill,Chas.,St. Paul
+kelly-stp,Kelly,,St. Paul
+kilroy-stp+kc,Kilroy,,St. Paul
+marcan-stp,Marcan,,St. Paul
+noonan-stp,Noonan,,St. Paul
+obrien-stp,O'Brien,Pete,St. Paul
+sessions-stp,Sessions,,St. Paul
+slagle-stp,Slagle,,St. Paul
+sullivan-stp,Sullivan,Jack,St. Paul
+wheeler-stp,Wheeler,,St. Paul
+yeager-stp+tol,Yeager,,St. Paul
+zalusky-stp+ind,Zalusky,,St. Paul
+boyle-tol,Boyle,,Toledo
+camnitz-tol,Camnitz,,Toledo
+cassaday-tol+kc,Cassaday,,Toledo
+clark.r-tol,Clark,Roy,Toledo
+clarke.j-tol,Clarke,Josh,Toledo
+clingman-tol,Clingman,,Toledo
+demontreville-tol,Demontreville,,Toledo
+doyle-tol,Doyle,,Toledo
+durrett-tol,Durrett,,Toledo
+fiene-tol,Fiene,,Toledo
+gilbert-tol+kc,Gilbert,,Toledo
+kellum-tol+min,Kellum,,Toledo
+land-tol,Land,,Toledo
+lee-tol,Lee,,Toledo
+martin-tol+ind,Martin,,Toledo
+minnehan-tol,Minnehan,,Toledo
+moriarity-tol,Moriarity,,Toledo
+nance-kc+tol,Nance,,Toledo
+neighbors-tol,Neighbors,,Toledo
+obrien-tol,O'Brien,Fred,Toledo
+piatt-tol,Piatt,,Toledo
+yeager-stp+tol,Yeager,,Toledo
+zearfoss-tol+kc,Zearfoss,,Toledo

@@ -1,0 +1,255 @@
+person.key,person.name.last,person.name.first,entry.name
+carson-exc,Carson,Dr. F. R.,#league
+brugher-ump,Brugher,W. H.,#umpire
+cline-ump,Cline,"Edward M. ""Ed""",#umpire
+craig-ump,Craig,,#umpire
+gay-ump,Gay,,#umpire
+lavelle-ump,Lavelle,Martin,#umpire
+mack-ump,Mack,"""Reddy""",#umpire
+mauch-ump,Mauch,"Alfred M. ""Al""",#umpire
+oconnor-ump,O'Connor,Dan,#umpire
+rigler-ump,Rigler,"Charles ""Cy""",#umpire
+shuster-ump,Shuster,,#umpire
+sinister-ump,Sinister,J. K.,#umpire
+westlake-ump,Westlake,George T.,#umpire
+wheelock-day+can,Wheelock,Wallace,#umpire
+wood-ump,Wood,Harry E.,#umpire
+alberts-fw+can,Alberts,"Frederick J. ""Cy""*",Canton
+bade-can,Bade,"William M. ""Bade""",Canton
+cooley-spr+gr+can,Cooley,William J.,Canton
+farrell.u-can,Farrell,(Bert?),Canton
+hardy-fw+can,Hardy,"John D. ""Jack""*",Canton
+hopke-fw+can,Hopke,"William ""Bill""*",Canton
+johnson-spr+can,Johnson,"J. Raleigh ""Rollo""",Canton
+kline-can,Kline,John,Canton
+lindsay-fw+can,Lindsay,John Lindsey,Canton
+myers.j-spr+can,Myers,"John Henry ""Jack""",Canton
+myers.w-fw+can,Myers,"William M. ""Bade""",Canton
+osborn-fw+can,Osborn,"Wilfred P. ""Fred""*",Canton
+ostdeik-fw+can,Ostdeik,"Harry G. ""Harry""*",Canton
+plummer-spr+can,Plummer,Thomas,Canton
+riley-fw+can,Riley,"Daniel ""Polly""",Canton
+sealts-can,Sealts,Frank W.,Canton
+vananda-fw+can,Van Anda,"Edward S. ""Sam""",Canton
+wheelock-day+can,Wheelock,Wallace,Canton
+willis-spr+can,Willis,Ralph B.,Canton
+austin-day,Austin,"James P. ""Jimmy""*",Dayton
+cameron-spr+day,Cameron,"James ""Jimmy""",Dayton
+crotty-day,Crotty,,Dayton
+edmunds-day+th,Edmunds,,Dayton
+fields-day,Fields,,Dayton
+fuller-day,Fuller,"Charles F. ""Nig""*",Dayton
+haas-day+spr,Haas,Bert,Dayton
+hawkins-day,Hawkins,Thomas,Dayton
+johns-day,Johns,"Oliver T. ""Ollie""*",Dayton
+karnes-day,Karnes,,Dayton
+keller-spr+day,Keller,Fred Harry,Dayton
+knoll.j-day,Knoll,"Julius M. ""Hub""",Dayton
+knoll.j-day,Knoll,"Julius ""Hub""",Dayton
+mcdonald-day,McDonald,,Dayton
+mundhenk-day,Mundhenk,,Dayton
+nye-day,Nye,"Martin E. ""Bill""",Dayton
+paskert-day,Paskert,"George H. ""Dode""*",Dayton
+pearson-day,Pearson,William,Dayton
+pickett-day,Pickett,"David ""Dave""*",Dayton
+schmidt-day,Schmidt,,Dayton
+smith-day,Smith,"Rhesa E. ""Ed""*",Dayton
+welsh-day,Welsh,R.,Dayton
+wheelock-day+can,Wheelock,Wallace,Dayton
+white-day,White,,Dayton
+wise-day,Wise,Pat,Dayton
+brady-eva,Brady,"George ""Lefty""",Evansville
+chandler-eva,Chandler,Robert Hawes,Evansville
+clemments-eva,Clemments,,Evansville
+conaway-eva,Conaway,"Robert ""Bobby""",Evansville
+coy-eva,Coy,Bert Marvin,Evansville
+cross-eva,Cross,Frank A.*,Evansville
+diehl-eva,Diehl,Harry,Evansville
+donahue-spr+fw+eva,Donahue,William,Evansville
+fleming-eva,Fleming,H.,Evansville
+francis-eva,Francis,"Isaac W. ""Ike""",Evansville
+freeman-eva,Freeman,James  C.,Evansville
+fremer-eva,Fremer,"Anthony ""Tony""",Evansville
+gillen-spr+eva,Gillen,Grover,Evansville
+haisman-eva,Haisman,"Victor ""Vic""",Evansville
+henderson-eva,Henderson,,Evansville
+hofman-eva,Hofman,Fred,Evansville
+hunt-th+eva,Hunt,Louis J.,Evansville
+kelly.wa-eva,Kelly,William A.,Evansville
+kelly.wj-eva,Kelly,"William J. ""Billy""*",Evansville
+knolls-eva,Knolls,"Oscar E. ""Hub""*",Evansville
+long-eva,Long,Arthur,Evansville
+lynch-eva,Lynch,"Robert E. ""Bobby""",Evansville
+mccafferty-eva,McCafferty,Charles A.,Evansville
+miller-eva,Miller,,Evansville
+morris-eva,Morris,,Evansville
+parker-eva,Parker,Jay*,Evansville
+ryan-eva,Ryan,James P.* ,Evansville
+stewart-eva,Stewart,Harry L.,Evansville
+watson-eva,Watson,,Evansville
+wilder-eva,Wilder,Percy,Evansville
+alberts-fw+can,Alberts,"Frederick J. ""Cy""*",Fort Wayne
+belden-fw,Belden,William,Fort Wayne
+boyd-fw,Boyd,Zeke,Fort Wayne
+carbiener-fw,Carbiener,Arthur,Fort Wayne
+dennis-fw+th,Dennis,Bert R.,Fort Wayne
+donahue-spr+fw+eva,Donahue,William,Fort Wayne
+doyle-fw,Doyle,"Joseph ""Joe""",Fort Wayne
+grubbs-fw,Grubbs,Frank,Fort Wayne
+hardy-fw+can,Hardy,"John D. ""Jack""*",Fort Wayne
+havel-fw+gr,Havel,"Edward S. ""Sam""",Fort Wayne
+hopke-fw+can,Hopke,"William ""Bill""*",Fort Wayne
+johnson-fw,Johnson,,Fort Wayne
+lindsay-fw+can,Lindsay,John Lindsey,Fort Wayne
+meyers-fw,Meyers,"Leonard ""Leo""",Fort Wayne
+myers.w-fw+can,Myers,"William M. ""Bade""",Fort Wayne
+newcombe-fw,Newcombe,Roy,Fort Wayne
+osborn-fw+can,Osborn,"Wilfred P. ""Fred""*",Fort Wayne
+ostdeik-fw+can,Ostdeik,"Harry G. ""Harry""*",Fort Wayne
+ream-fw,Ream,George Elmer,Fort Wayne
+riley-fw+can,Riley,"Daniel ""Polly""",Fort Wayne
+vananda-fw+can,Van Anda,"Edward S. ""Sam""",Fort Wayne
+alloway-gr,Alloway,"Arthur ""Podge""",Grand Rapids
+andrews-gr+th,Andrews,Charles,Grand Rapids
+backoff-gr,Backoff,Alex Charles,Grand Rapids
+barber-gr,Barber,"William ""Bill""",Grand Rapids
+bliss-gr,Bliss,Elmer W.*,Grand Rapids
+butler-gr,Butler,Isaac B. 'Ike'*,Grand Rapids
+carey-gr,Carey,"George C. ""Scoops""*",Grand Rapids
+chapman-gr+sb+th,Chapman,Clayton,Grand Rapids
+cooley-spr+gr+can,Cooley,William J.,Grand Rapids
+farrell.b-gr,Farrell,Bert J.,Grand Rapids
+fox-gr+th,Fox,Charles,Grand Rapids
+ganzel.john-gr,Ganzel,John,Grand Rapids
+ganzel.jos-gr,Ganzel,"Joseph S. ""Joe""",Grand Rapids
+gaston-gr,Gaston,William David,Grand Rapids
+geyer-gr,Geyer,"John O.  ""Lefty""",Grand Rapids
+hale-gr,Hale,Glenn,Grand Rapids
+harris-sb+gr,Harris,"Joseph ""Joe""",Grand Rapids
+havel-fw+gr,Havel,"Edward S. ""Sam""",Grand Rapids
+horn-gr,Horn,"William L. ""Casey""",Grand Rapids
+hyde-gr,Hyde,Carl W.,Grand Rapids
+kennedy-gr,Kennedy,James,Grand Rapids
+lloyd-gr,Lloyd,,Grand Rapids
+martin-gr+th,Martin,Harry,Grand Rapids
+melchoir-gr,Melchoir,Henry,Grand Rapids
+miller-gr,Miller,"Walter W. ""Walt""*",Grand Rapids
+morrissey-gr,Morrissey,"John A. ""King""*",Grand Rapids
+obrien-gr,O'Brien,,Grand Rapids
+perry-gr,Perry,"William H. ""Hank""*",Grand Rapids
+reading-gr,Reading,Charles A.,Grand Rapids
+thomas-gr,Thomas,Tom (Tom R.*?),Grand Rapids
+vizard-gr+sb,Vizard,James H.,Grand Rapids
+warner-gr,Warner,Homer,Grand Rapids
+anderson-sb,Anderson,"Edward J. ""Goat""*",South Bend
+chapman-gr+sb+th,Chapman,Clayton,South Bend
+christian-sb+th,Christian,John Tyler,South Bend
+connors-sb,Connors,"John T. ""Buck""",South Bend
+ferrias-sb,Ferrias,"E. B. ""Zeke""",South Bend
+foy-sb,Foy,Leon C.,South Bend
+grant-sb,Grant,Angus A.,South Bend
+groeschow-sb,Groeschow,"Wm. Fred ""Cuppy""",South Bend
+hammond-sb+spr,Hammond,Harry,South Bend
+harris-sb+gr,Harris,"Joseph ""Joe""",South Bend
+letcher-sb,Letcher,"Fred. Thomas ""Tom""",South Bend
+moffitt-sb,Moffitt,Elmer,South Bend
+plass-sb,Plass,Forest T.,South Bend
+price-sb,Price,,South Bend
+richardson-th+sb,Richardson,"William H. ""Bill""*",South Bend
+sager-sb,Sager,James L.,South Bend
+schaefer-sb,Schaefer,George F.,South Bend
+searles-sb,Searles,"Thomas ""Tom""",South Bend
+tieman-sb,Tieman,George F.,South Bend
+vizard-gr+sb,Vizard,James H.,South Bend
+williams-sb,Williams,"Thomas C. ""Tom""*",South Bend
+cameron-spr+day,Cameron,"James ""Jimmy""",Springfield
+cooley-spr+gr+can,Cooley,William J.,Springfield
+curtis.u-spr+th,Curtis,,Springfield
+donahue-spr+fw+eva,Donahue,William,Springfield
+gillen-spr+eva,Gillen,Grover,Springfield
+haas-day+spr,Haas,Bert,Springfield
+hammond-sb+spr,Hammond,Harry,Springfield
+hendricks-spr,Hendricks,John C.*,Springfield
+hippert-spr,Hippert,Garfield Arthur,Springfield
+ittig-spr,Ittig,Albert,Springfield
+johnson-spr+can,Johnson,"J. Raleigh ""Rollo""",Springfield
+keller-spr+day,Keller,Fred Harry,Springfield
+lundbom-spr,Lundbom,John F.*,Springfield
+mcgrew-spr,McGrew,Harry Hancock,Springfield
+mckean-spr,McKean,"Edwin J. ""Ed""*",Springfield
+mckevitt-spr,McKevitt,James,Springfield
+merryman-spr,Merryman,Sidney M.,Springfield
+myers.j-spr+can,Myers,"John Henry ""Jack""",Springfield
+osteen-spr,Osteen,"J. Champlin ""Champ""*",Springfield
+plummer-spr+can,Plummer,Thomas,Springfield
+powell-spr,Powell,"Walter B. ""Watt""",Springfield
+reed-spr,Reed,Edward,Springfield
+shannon-spr,Shannon,Owen D. I.*,Springfield
+shaw-spr,Shaw,"Albert S. ""Al""*",Springfield
+summers-spr,Summers,"Oron Edgar ""Ed""*",Springfield
+troy-spr,Troy,"Thaddeus ""Thad""",Springfield
+whisner-spr,Whisner,,Springfield
+willis-spr+can,Willis,Ralph B.,Springfield
+andrews-gr+th,Andrews,Charles,Terre Haute
+asher-th,Asher,Elvis E.,Terre Haute
+barton-th,Barton,"James A. ""Jimmy""",Terre Haute
+brown-th,Brown,John M.,Terre Haute
+chapman-gr+sb+th,Chapman,Clayton,Terre Haute
+christian-sb+th,Christian,John Tyler,Terre Haute
+craig-th,Craig,Ralph,Terre Haute
+curtis.u-spr+th,Curtis,,Terre Haute
+dearmond-th,DeArmond,Charles H.*,Terre Haute
+decker-th,Decker,"Albert ""Al""",Terre Haute
+dennis-fw+th,Dennis,Bert R.,Terre Haute
+dennis-fw+th,Dennis,Bert R.,Terre Haute
+dome-th,Dome,A.,Terre Haute
+dunn-th,Dunn,Joe,Terre Haute
+edmunds-day+th,Edmunds,,Terre Haute
+fleet-th,Fleet,"William E. ""Bill""*",Terre Haute
+forney-th,Forney,"William ""Will""",Terre Haute
+fox-gr+th,Fox,Charles,Terre Haute
+gay-th,Gay,Clyde,Terre Haute
+harlow-th,Harlow,"Conrad ""Con""",Terre Haute
+harris-th,Harris,,Terre Haute
+hunt-th+eva,Hunt,Louis J.,Terre Haute
+king-th,King,Bert,Terre Haute
+krause-th,Krause,"Charles F. ""Pop""*",Terre Haute
+kuhn-th,Kuhn,Albert,Terre Haute
+lyons-th,Lyons,"""Red""",Terre Haute
+martin-gr+th,Martin,Harry,Terre Haute
+massing-th,Massing,John N.,Terre Haute
+miller-th,Miller,"Frank A. ""Kohly""*",Terre Haute
+moran-th,Moran,Charles B.*,Terre Haute
+pearce-th,Pearce,"William C. ""Ducky""*",Terre Haute
+ragan-th,Ragan,"Don Carlos P. ""Pat""*",Terre Haute
+richardson-th+sb,Richardson,"William H. ""Bill""*",Terre Haute
+ruh-th,Ruh,Harry H.,Terre Haute
+seibert-th,Seibert,"John Arthur ""Si""",Terre Haute
+smith-th,Smith,Frederick*,Terre Haute
+stewart-th,Stewart,"Asa ""Ace""*",Terre Haute
+susman-th,Susman,John,Terre Haute
+taylor-th,Taylor,"Harry ""Lefty""",Terre Haute
+thompson-th,Thompson,"John W. ""Swi""",Terre Haute
+warrender-th,Warrender,"Frank ""Mum""",Terre Haute
+williams-th,Williams,"Levi Dal ""Dal""",Terre Haute
+wilson-th,Wilson,"William ""Willy""",Terre Haute
+biery-whe,Biery,"Robert ""Bert""",Wheeling
+cobean-whe,Cobean,"Samuel ""Sam""",Wheeling
+coffey-whe,Coffey,"Edward B. ""Eddie""",Wheeling
+cogswell-whe,Cogswell,Charles ,Wheeling
+deiters-whe,Deiters,"Charles A. ""Heinie""",Wheeling
+doyle-whe,Doyle,"Judd B. ""Slow Joe""*",Wheeling
+dunbar-whe,Dunbar,Harry,Wheeling
+ehman-whe,Ehman,"Fred Gustave ""Buck""",Wheeling
+kennedy-whe,Kennedy,"Wm. P. ""Brickyard""*",Wheeling
+livingston-whe,Livingston,"Patrick J. ""Paddy""*",Wheeling
+mccombs-whe,McCombs,"William ""Billy""",Wheeling
+mcnichol-whe,McNichol,"Edwin B. ""Eddie""*",Wheeling
+miller-whe,Miller,George,Wheeling
+price-whe,Price,"Edson D. ""Teddy""",Wheeling
+robertson-whe,Robertson,William C.,Wheeling
+shriver-whe,Shriver,"Caleb S. ""Pop""",Wheeling
+smith-whe,Smith,"Lewis O. ""Bull""*",Wheeling
+spangler-whe,Spangler,Alva G.,Wheeling
+vought-whe,Vought,William A.,Wheeling
+wessell-whe,Wessell,Frank,Wheeling
