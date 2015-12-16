@@ -28,6 +28,7 @@ cannon-eri,Cannon,,Erie
 close-eri,Close,,Erie
 cooper-eri,Cooper,,Erie
 coveleski-eri,Coveleski,,Erie
+coveleski-eri,Covaleskie,,Erie
 gygli-eri,Gygli,,Erie
 haggerty-eri,Haggerty,,Erie
 harris-eri,Harris,,Erie
@@ -59,6 +60,7 @@ miller-eva,Miller,,Evansville
 tepe-eva,Tepe,,Evansville
 turner-eva,Turner,,Evansville
 winkleman-eva,Winkleman,,Evansville
+winkleman-eva,Winkelman,,Evansville
 woolf-eva,Woolf,,Evansville
 young-eva,Young,,Evansville
 ainsworth-fw,Ainsworth,,Fort Wayne
@@ -66,6 +68,7 @@ bell-fw+whe,Bell,,Fort Wayne
 beyers-fw,Beyers,,Fort Wayne
 brant-fw,Brant,,Fort Wayne
 bratschi-fw,Bratschi,,Fort Wayne
+bratschi-fw,Bratchi,,Fort Wayne
 brubaker-fw,Brubaker,,Fort Wayne
 donley-fw+whe,Donley,,Fort Wayne
 gard-fw,Gard,,Fort Wayne
@@ -106,6 +109,7 @@ romine-gr,Romine,,Grand Rapids
 steil-gr,Steil,,Grand Rapids
 stellbauer-gr,Stellbauer,,Grand Rapids
 brautigam-th,Brautigam,,Terre Haute
+brautigam-th,Brautigan,,Terre Haute
 brown-th,Brown,,Terre Haute
 evers-th,Evers,,Terre Haute
 gilbert-th,Gilbert,,Terre Haute
@@ -147,14 +151,17 @@ ridley-day+whe,Ridley,,Wheeling
 shriver-whe,Shriver,,Wheeling
 sisson-whe,Sisson,,Wheeling
 umlauf-whe,Umlauf,,Wheeling
+umlauf-whe,Umlauff,,Wheeling
 wetzel-whe,Wetzel,,Wheeling
 withrow-whe,Withrow,,Wheeling
 altenburg-you,Altenburg,,Youngstown
+altenburg-you,Altenberg,,Youngstown
 blount-you,Blount,,Youngstown
 collins-you,Collins,,Youngstown
 duffy-you,Duffy,,Youngstown
 gray-you,Gray,,Youngstown
 hemphill-you,Hemphill,,Youngstown
+hemphill-you,Hamphill,,Youngstown
 hill-you,Hill,,Youngstown
 kelley-you,Kelley,,Youngstown
 mcauley-you,McAuley,,Youngstown
