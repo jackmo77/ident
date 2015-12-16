@@ -48,11 +48,11 @@ jamison-cha,Jamison,,Chambersburg
 jamison-cha,Jameson,,Chambersburg
 johnson-cha,Johnson,,Chambersburg
 kalsey-cha,Kalsey,,Chambersburg
-keefe-cha,Keef,,Chambersburg
-keefe-cha,Keefe,,Chambersburg
-keefe-cha,Keefer,,Chambersburg
-keefe-cha,Keifer,,Chambersburg
-keefe-cha,Keiffer,,Chambersburg
+keiffer-cha,Keef,,Chambersburg
+keiffer-cha,Keefe,,Chambersburg
+keiffer-cha,Keefer,,Chambersburg
+keiffer-cha,Keifer,,Chambersburg
+keiffer-cha,Keiffer,,Chambersburg
 kleine-cha,Kline,,Chambersburg
 kleine-cha,Klein,,Chambersburg
 kleine-cha,Kleine,,Chambersburg
@@ -73,8 +73,8 @@ moseley-cha,Moseley,,Chambersburg
 moseley-cha,Mosely,,Chambersburg
 moseley-cha,Moserley,,Chambersburg
 moseley-cha,Mosley,,Chambersburg
-myers-cha,Myers,,Chambersburg
-myers-cha,Meyers,,Chambersburg
+myers-cha+han,Myers,,Chambersburg
+myers-cha+han,Meyers,,Chambersburg
 philips-cha,Phillips,,Chambersburg
 plitt-han+cha,Plitt,,Chambersburg
 poune-cha,Paune,,Chambersburg
@@ -144,7 +144,7 @@ porter-fre,Porter,,Frederick
 statton-fre,Statton,,Frederick
 stevens-fre,Stevens,,Frederick
 stevens-fre,Stephens,,Frederick
-stevens-fre.Stevens,B.,Frederick
+stevens-fre,Stevens,B.,Frederick
 stevens.c-fre,Stevens,C.,Frederick
 strausbaugh-fre+cha,Strasbaugh,,Frederick
 strausbaugh-fre+cha,Strasburg,,Frederick
@@ -267,8 +267,8 @@ jocks-hag,Jocks,,Hagerstown
 jocks-hag,Jacks,,Hagerstown
 johnson-han+hag,Johnson,,Hagerstown
 johnson-han+hag,Johnson [Hag],,Hagerstown
-kelly-hag,Kelly,,Hagerstown
-kelly-hag,Kelley,,Hagerstown
+kelly-mar+hag,Kelly,,Hagerstown
+kelly-mar+hag,Kelley,,Hagerstown
 laughlin-hag,Laughlin,,Hagerstown
 laughlin-hag,Laughman,,Hagerstown
 long-hag,Long,,Hagerstown
@@ -328,8 +328,8 @@ mackert-han,Mackert,,Hanover
 mackert-han,Macker,P.,Hanover
 merchant-han,Merchant,,Hanover
 miller-han+hag,Miller,,Hanover
-myers-han,Myers,,Hanover
-myers-han,Meyers,,Hanover
+myers-cha+han,Myers,,Hanover
+myers-cha+han,Meyers,,Hanover
 plank-han,Plank,,Hanover
 plitt-han+cha,Plitt,,Hanover
 pownall-han,Pownall,,Hanover
@@ -387,11 +387,11 @@ hoffecker-mar,Hoefacker,,Martinsburg
 johnson.g-mar,Johnson,,Martinsburg
 johnson.g-mar,G. Johnson,,Martinsburg
 keener-mar,Keener,,Martinsburg
-kelley-mar,Kelly,,Martinsburg
-kelley-mar,Kelley,,Martinsburg
-kelley-mar,Kelly [Mar],,Martinsburg
-kelley-mar,Kelley [Mar],,Martinsburg
-kelley-mar,Kellly,,Martinsburg
+kelly-mar+hag,Kelly,,Martinsburg
+kelly-mar+hag,Kelley,,Martinsburg
+kelly-mar+hag,Kelly [Mar],,Martinsburg
+kelly-mar+hag,Kelley [Mar],,Martinsburg
+kelly-mar+hag,Kellly,,Martinsburg
 long-mar,Long,,Martinsburg
 long-mar,Lang,,Martinsburg
 mccarthy-mar,McCarty,,Martinsburg
