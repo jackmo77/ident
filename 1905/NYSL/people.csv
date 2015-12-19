@@ -34,24 +34,24 @@ pastorius-alb,Pastorius,James W.*,Albany
 russell-alb,Russell,John  A.,Albany
 schrall-alb+scr,Schrall,Joseph E.,Albany
 spiesman-alb,Spiesman,Matthew J.,Albany
-bell-ajg,Bell,George G.*,Amsterdam-Johnstown-Gloversville
-childs-ajg,Childs,Peter P. *,Amsterdam-Johnstown-Gloversville
-clay-ajg,Clay,Waldo H.,Amsterdam-Johnstown-Gloversville
-cox-ajg,Cox,James Francis,Amsterdam-Johnstown-Gloversville
-eagan-ajc,Eagan,Patrick Peter (Pete),Amsterdam-Johnstown-Gloversville
-earl-ajg,Earl,Howard J.*,Amsterdam-Johnstown-Gloversville
-frank-ajg,Frank,Edward L.,Amsterdam-Johnstown-Gloversville
-hilley-ajg,Hilley,"Edward G, (Whitey)*",Amsterdam-Johnstown-Gloversville
-horton-ajg,Horton,Elmer E.*,Amsterdam-Johnstown-Gloversville
-hurley-ajg,Hurley,Jeremiah (Jerry)*,Amsterdam-Johnstown-Gloversville
-maurer-ajg+syr,Maurer,Bernard F. (Bernie),Amsterdam-Johnstown-Gloversville
-mcpartlin-ajg,McPartlin,Frank J.*,Amsterdam-Johnstown-Gloversville
-pinnance-ajg+tro,Pinnance,Elijah Edward*,Amsterdam-Johnstown-Gloversville
-simon-ajg,Simon,Henry J.*,Amsterdam-Johnstown-Gloversville
-stroh-ajg,Stroh,George J.,Amsterdam-Johnstown-Gloversville
-villeman-ajg,Villeman,George,Amsterdam-Johnstown-Gloversville
-weaver-ajg,Weaver,John H. (Buck),Amsterdam-Johnstown-Gloversville
-zinzer-ajg,Zinzer,Charles,Amsterdam-Johnstown-Gloversville
+bell-ajg,Bell,George G.*,Amsterdam-Gloversville-Johnstown
+childs-ajg,Childs,Peter P. *,Amsterdam-Gloversville-Johnstown
+clay-ajg,Clay,Waldo H.,Amsterdam-Gloversville-Johnstown
+cox-ajg,Cox,James Francis,Amsterdam-Gloversville-Johnstown
+eagan-ajc,Eagan,Patrick Peter (Pete),Amsterdam-Gloversville-Johnstown
+earl-ajg,Earl,Howard J.*,Amsterdam-Gloversville-Johnstown
+frank-ajg,Frank,Edward L.,Amsterdam-Gloversville-Johnstown
+hilley-ajg,Hilley,"Edward G, (Whitey)*",Amsterdam-Gloversville-Johnstown
+horton-ajg,Horton,Elmer E.*,Amsterdam-Gloversville-Johnstown
+hurley-ajg,Hurley,Jeremiah (Jerry)*,Amsterdam-Gloversville-Johnstown
+maurer-ajg+syr,Maurer,Bernard F. (Bernie),Amsterdam-Gloversville-Johnstown
+mcpartlin-ajg,McPartlin,Frank J.*,Amsterdam-Gloversville-Johnstown
+pinnance-ajg+tro,Pinnance,Elijah Edward*,Amsterdam-Gloversville-Johnstown
+simon-ajg,Simon,Henry J.*,Amsterdam-Gloversville-Johnstown
+stroh-ajg,Stroh,George J.,Amsterdam-Gloversville-Johnstown
+villeman-ajg,Villeman,George,Amsterdam-Gloversville-Johnstown
+weaver-ajg,Weaver,John H. (Buck),Amsterdam-Gloversville-Johnstown
+zinzer-ajg,Zinzer,Charles,Amsterdam-Gloversville-Johnstown
 baker-bin,Baker,Howard William,Binghamton
 barger-bin,Barger,Eros B. (Cy)*,Binghamton
 barries-bin,Barries,,Binghamton
@@ -118,7 +118,7 @@ rudinski-scr,Rudinski,John A.,Scranton
 schrall-alb+scr,Schrall,Joseph E.,Scranton
 shea-scr,Shea,Peter,Scranton
 shortell-scr,Shortell,Edward J.,Scranton
-smink-sscr,Smink,William,Scranton
+smink-scr,Smink,William,Scranton
 spooner-scr,Spooner,George A.,Scranton
 steinberg-scr,Steinberg,Paul,Scranton
 wosinski-scr,Wosinski,,Scranton
@@ -146,7 +146,7 @@ schrant-syr,Schrant,John H.,Syracuse
 scudder-syr,Scudder,William E.,Syracuse
 trainor-syr,Trainor,James T.,Syracuse
 bacon-tro,Bacon,James Louis,Troy
-browne-troy,Browne,James H.,Troy
+browne-tro,Browne,James H.,Troy
 collopy-tro,Collopy,James B.,Troy
 connelly-tro,Connelly,,Troy
 davis-wb+tro,Davis,David (Davy),Troy
