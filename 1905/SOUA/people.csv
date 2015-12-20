@@ -10,7 +10,7 @@ pfenninger-ump,Pfenninger,Daniel G.,#umpire
 scheibeck-mon+lr+ump,Scheibeck,Frank S.,#umpire
 anderson-atl+bir,Anderson,Smylie Scott,Atlanta
 archer-atl,Archer,James P.*,Atlanta
-ayre-shr+lr,Ayre (Ayres),,Atlanta
+ayre-lr+atl,Ayre (Ayres),,Atlanta
 brennan-atl,Brennan,John A. (Jack),Atlanta
 burnam-atl,Burnam,"Fred B., Jr.",Atlanta
 butler-atl+bir,Butler,Isaac B.*,Atlanta
@@ -66,7 +66,7 @@ wagner-bir,Wagner,Otto,Birmingham
 wawrd-bir,Ward,Frank G. (Piggy)*,Birmingham
 welch-bir,Welch,(Conrad?),Birmingham
 accorsini-nas+lr,Accorsini,Victor Joseph,Little Rock
-ayre-shr+lr,Ayre (Ayres),,Little Rock
+ayre-lr+atl,Ayre (Ayres),,Little Rock
 becker-lr,Becker,D. Beals*,Little Rock
 bender-lr,Bender,John Reinhold,Little Rock
 blake-lr,Blake,William,Little Rock
@@ -115,7 +115,7 @@ herr-mem,Herr,Edward Joseph,Memphis
 hurlburt-mem,Hurlburt,Edward,Memphis
 petit-mem,Petit,Andrew E.,Memphis
 rafter-mem,Rafter,John C.*,Memphis
-still-mom,Still,Frank L.,Memphis
+still-mem,Still,Frank L.,Memphis
 stocksdale-mem,Stocksdale,Otis H.*,Memphis
 streit-mem+nas,Streit,Oscar W.*,Memphis
 suggs-mem,Suggs,George F.*,Memphis
