@@ -1,174 +1,419 @@
 person.key,person.name.last,person.name.first,entry.name
+obrien-exc,O'Brien,Joseph D.,#league
+gifford-ump,Gifford,M. A.,#umpire
+hart-col+ump,Hart,William F.*,#umpire
+haskell-ump,Haskell,John B.,#umpire
+kane-ump,Kane,Stephen J.,#umpire
+king-ump,King,Charles F.,#umpire
+malarkey-ump,Malarkey,,#umpire
+owens-ump,Owens,Clarence B.,#umpire
+popkay-ump,Popkay,Frederick W.,#umpire
+stone-ump,Stone,George,#umpire
+sullivan-ump,Sullivan,William J.,#umpire
+vansickle-ump,Van Sickle,,#umpire
+barbeau-col,Barbeau,"Wm. J. ""Jap""*",Columbus
 barbeau-col,Barbeau,,Columbus
+berger-col,Berger,"Chas. C. ""Heinie""*",Columbus
 berger-col,Berger,,Columbus
+brown-col,Brown,"Samuel W. ""Sam""* ",Columbus
 brown-col,Brown,,Columbus
+clymer-col,Clymer,"Wm. J. ""Billy""*",Columbus
+clymer-col,Clymer,"William J. ""Billy""*",Columbus
 clymer-col,Clymer,,Columbus
+congalton-col,Congalton,"Wm. M. ""Bunk""*",Columbus
 congalton-col,Congalton,,Columbus
+davis-col,Davis,"Alfonzo D. ""Lefty""*",Columbus
 davis-col,Davis,,Columbus
+dorner-col,Dorner,"Augustus ""Gus""*",Columbus
 dorner-col,Dorner,,Columbus
+friel-col+ind+min,Friel,"William E. ""Bill""* ",Columbus
 friel-col+ind+min,Friel,,Columbus
-hart-col,Hart,Wm.,Columbus
+hart-col+ump,Hart,"William F. ""Bill""*",Columbus
+hart-col+ump,Hart,Wm.,Columbus
+hickey-mil+col,Hickey,"John W. ""Jack""*",Columbus
 hickey-mil+col,Hickey,,Columbus
+hulswitt-col,Hulswitt,"Rudolph ""Rudy""*",Columbus
 hulswitt-col,Hulswitt,,Columbus
+kihm-col,Kihm,George Pius,Columbus
 kihm-col,Kihm,,Columbus
+malarkey-col,Malarkey,John S.*,Columbus
 malarkey-col,Malarkey,,Columbus
+pickering-col,Pickering,"Oliver D. ""Ollie""*",Columbus
 pickering-col,Pickering,,Columbus
+pierce-col,Pierce,Elmer A.,Columbus
 pierce-col,Pierce,,Columbus
+ryan-col,Ryan,"John B. ""Jack""*",Columbus
 ryan-col,Ryan,,Columbus
+sutthoff-col,Sutthoff,"John G. ""Jack""*",Columbus
+veil-col,Veil,"Fred. ""Bucky""*",Columbus
 veil-col,Veil,,Columbus
-wrighley-col,Wrigley,,Columbus
+wagner-col,Wagner,,Columbus
+wrigley-col,Wrigley,Zeke* ,Columbus
+wrigley-col,Wrigley,Zeke* ,Columbus
+wrigley-col,Wrigley,,Columbus
+barrow-ind,Barrow,"Edward G. ""Ed""*",Indianapolis
+berry-ind,Berry,Claude E.*,Indianapolis
+bruce-ind,Bruce,"Louis R. ""Lou""*",Indianapolis
 bruce-ind,Bruce,,Indianapolis
+carr-ind,Carr,John G.,Indianapolis
 carr-ind,Carr,,Indianapolis
+craig-min+ind,Craig,"Edward A. ""Red"" ",Indianapolis
 craig-min+ind,Craig,,Indianapolis
+cromley-ind,Cromley,Lyle Tate,Indianapolis
 cromley-ind,Cromley,,Indianapolis
+curtis-ind+mil,Curtis,"Clifton G. ""Cliff""*",Indianapolis
 curtis-ind+mil,Curtis,,Indianapolis
+dickey-ind,Dickey,Guy,Indianapolis
 dickey-ind,Dickey,,Indianapolis
-duff-ind,Duff,,Indianapolis
+duff-min+ind,Duff,"Patrick H. ""Pat""*",Indianapolis
+duff-min+ind,Duff,,Indianapolis
+farrell-ind,Farrell,John S.*,Indianapolis
 farrell-ind,Farrell,,Indianapolis
+fisher-ind,Fisher,John D.,Indianapolis
 fisher-ind,Fisher,,Indianapolis
+friel-col+ind+min,Friel,"William E. ""Bill""* ",Indianapolis
 friel-col+ind+min,Friel,,Indianapolis
-goodwin-mil+ind,Goodwin,,Indianapolis
+goodwin-ind+mil,Goodwin,Clyde S.*,Indianapolis
+goodwin-ind+mil,Goodwin,,Indianapolis
+graham-ind,Graham,,Indianapolis
+hallman-ind,Hallman,"William W. ""Bill""*",Indianapolis
+jaeger-min+ind,Jaeger,Charles T.*,Indianapolis
 jaeger-min+ind,Jaeger,,Indianapolis
+magee-ind,Magee,William J.*,Indianapolis
+martin-tol+ind,Martin,Dave,Indianapolis
 martin-tol+ind,Martin,,Indianapolis
+massey-kc+ind,Massey,"Wm. H. ""Bill""* ",Indianapolis
 massey-kc+ind,Massey,,Indianapolis
+mattern-ind,Mattern,"Alonzo A. ""Al""",Indianapolis
+mccreery-ind,McCreery,"Thomas L. ""Tom""*",Indianapolis
 mccreery-ind,McCreery,,Indianapolis
+mcgill-ind,McGill,"Wm. V. ""Willie""*",Indianapolis
 mcgill-ind,McGill,,Indianapolis
+moran-ind,Moran,Charles V.*,Indianapolis
 moran-ind,Moran,,Indianapolis
 morgan-ind,Morgan,C.,Indianapolis
+morgan-ind,Morgan,"Henry R. ""Cy""*",Indianapolis
+osteen-ind,Osteen,"J. C. ""Champ""*",Indianapolis
 osteen-ind,Osteen,,Indianapolis
-reidy-ind+lou,Reidy,,Indianapolis
+queisser-ind,Queisser,Walter Andrew,Indianapolis
+reidy-ind,Reidy,"Wm. J. ""Bill""*",Indianapolis
+reidy-ind,Reidy,,Indianapolis
+robertson-ind,Robertson,James A.,Indianapolis
 robertson-ind,Robertson,,Indianapolis
+roth-ind,Roth,"Francis ""Frank""*",Indianapolis
 roth-ind,Roth,,Indianapolis
+schwartz-ind,Schwartz,"William C. ""Bill""*",Indianapolis
 schwartz-ind,Schwartz,,Indianapolis
+starkel-ind,Starkel,"Conrad ""Con""*",Indianapolis
+summers-ind,Summers,"Oren E. ""Ed""*",Indianapolis
+swander-ind,Swander,"Edward ""Pinky""*",Indianapolis
 swander-ind,Swander,,Indianapolis
+thoney-ind,Thoney,"John ""Jack""*",Indianapolis
 thoney-ind,Thoney,,Indianapolis
-weaver-min+ind,Weaver,,Indianapolis
+weaver-ind,Weaver,"Arthur C. ""Art""*",Indianapolis
+weaver-ind,Weaver,,Indianapolis
+zalusky-stp+ind,Zalusky,"John F. ""Jack""*",Indianapolis
 zalusky-stp+ind,Zalusky,,Indianapolis
+barry-kc,Barry,"Thomas A. ""Tom""*",Kansas City
 bonner-kc,Bonner,,Kansas City
+bonner-kc,Bonner,,Kansas City
+bonno-kc,Bonno,"Gustav ""Gus""",Kansas City
+butler-kc,Butler,John A.*,Kansas City
 butler-kc,Butler,,Kansas City
-cassaday-tol+kc,Cassaday,,Kansas City
+cassady-tol+kc,Cassaday,,Kansas City
+cassady-tol+kc,Cassady,Harry D.* ,Kansas City
+castro-kc,Castro,"Luis M. ""Lou""*",Kansas City
 castro-kc,Castro,,Kansas City
 charles-kc,Charles,,Kansas City
+charles-kc,Charles,,Kansas City
+donahue-kc,Donahue,"Charles M. ""She""*",Kansas City
 donahue-kc,Donahue,,Kansas City
-douglas-kc,Douglas,,Kansas City
+douglass-kc,Douglas,,Kansas City
+douglass-kc,Douglass,"Wm. B. ""Klondike""*",Kansas City
+downey-kc,Downey,James,Kansas City
 downey-kc,Downey,,Kansas City
+durham-kc,Durham,James G.* ,Kansas City
 durham-kc,Durham,,Kansas City
-eels-kc,Eels,,Kansas City
+eells-kc,Eells,Harry A.*,Kansas City
+eells-kc,Eels,,Kansas City
+fillman-kc,Fillman,"John Henry ""Jack""",Kansas City
+frantz-kc,Frantz,Walter P.,Kansas City
 frantz-kc,Frantz,,Kansas City
+gilbert-tol+kc,Gilbert,"John R. ""Jack""* ",Kansas City
 gilbert-tol+kc,Gilbert,,Kansas City
+heimerl-kc,Heimerl,Edward,Kansas City
+hill-kc,Hill,Hugh E.*,Kansas City
 hill-kc,Hill,,Kansas City
+irwin-kc,Irwin,Arthur A.*,Kansas City
+isbell-kc,Isbell,Ward,Kansas City
 isbell-kc,Isbell,,Kansas City
-justus-kc,Justus,,Kansas City
+justis-kc,Justis,"Walter N. ""Walt""*",Kansas City
+justis-kc,Justus,,Kansas City
+kilroy-stp+kc,Kilroy,Orville P.,Kansas City
 kilroy-stp+kc,Kilroy,,Kansas City
+luettke-kc,Luettke,Herman G.,Kansas City
+martz-kc,Martz,,Kansas City
+massey-kc+ind,Massey,"Wm. H. ""Bill""* ",Kansas City
 massey-kc+ind,Massey,,Kansas City
-morgan-kc+low,Morgan,A.,Kansas City
+mckell-kc,McKell,,Kansas City
+morgan-kc+lou,Morgan,A.,Kansas City
+morgan-kc+lou,Morgan,Amos,Kansas City
+murphy-lou+kc,Murphy,Howard* ,Kansas City
 murphy-lou+kc,Murphy,,Kansas City
+nance-kc+tol,Nance,William G.* ,Kansas City
 nance-kc+tol,Nance,,Kansas City
+rickert-kc,Rickert,"Joseph F. ""Joe""*",Kansas City
 rickert-kc,Rickert,,Kansas City
+rohn-kc,Rohn,"Richard F. ""Dick""",Kansas City
+rose-kc,Rose,,Kansas City
+skopec-kc,Skopec,John S.*,Kansas City
 skopec-kc,Skopec,,Kansas City
+stoner-kc+lou,Stoner,"Herbert ""Herb""",Kansas City
 stoner-kc+lou,Stoner,,Kansas City
 sullivan-kc+lou,Sullivan,S.,Kansas City
-wright-lou+lc,Wright,,Kansas City
+sullivan-kc+lou,Sullivan,Suter G.*,Kansas City
+wilson-kc,Wilson,,Kansas City
+wright-lou+stp+kc,Wright,Forrest ,Kansas City
+wright-lou+stp+kc,Wright,,Kansas City
+zearfoss-tol+kc,Zearfoss,Dave* ,Kansas City
 zearfoss-tol+kc,Zearfoss,,Kansas City
+barbour-lou,Barber,,Louisville
+brashear-lou,Brashear,Roy P.*,Louisville
 brashear-lou,Brashear,,Louisville
+campbell-lou,Campbell,"Wm. J. ""Billy""*",Louisville
+clay-lou,Clay,"Fred. C. ""Bill""*",Louisville
 clay-lou,Clay,,Louisville
+daly-lou,Daly,,Louisville
+dexter-lou,Dexter,Charles D.*,Louisville
 dexter-lou,Dexter,,Louisville
-dunkel-lou,Dunkel,,Louisville
+dunkle-lou,Dunkel,,Louisville
+dunkle-lou,Dunkle,"Edw. P. ""Davey""*",Louisville
+ferguson-lou,Ferguson,Cecil B.*,Louisville
 ferguson-lou,Ferguson,G.,Louisville
+haidt-lou,Haidt,"Louis A. ""Lew""",Louisville
 haidt-lou,Haidt,,Louisville
 hallman-lou,Hallman,W.,Louisville
+hallman-lou,Hallman,"William H. ""Bill""*",Louisville
 hart-lou,Hart,J.,Louisville
+hart-lou,Hart,"James ""Jimmy""*",Louisville
+houser-lou,Houser,"Benjamin ""Ben""*",Louisville
 houser-lou,Houser,,Louisville
+kenna-lou,Kenna,"Edward B. ""Ed""*",Louisville
 kenna-lou,Kenna,,Louisville
+kerwin-lou,Kerwin,"Daniel P. ""Dan""*",Louisville
 kerwin-lou,Kerwin,,Louisville
+miller-lou,Miller,Pearl,Louisville
+montgomery-lou,Montgomery,Roy M. ,Louisville
+montgomery-lou,Montgomery,Roy M. ,Louisville
 montgomery-lou,Montgomery,,Louisville
-morgan-kc+low,Morgan,A.,Louisville
+morgan-kc+lou,Morgan,A.,Louisville
+morgan-kc+lou,Morgan,Amos,Louisville
+murphy-lou+kc,Murphy,Howard* ,Louisville
 murphy-lou+kc,Murphy,,Louisville
+quinlan-lou,Quinlan,"Law. A. ""Larry""*",Louisville
 quinlan-lou,Quinlan,,Louisville
-reidy-ind+lou,Reidy,,Louisville
+schriver-lou,Schriver,"William F. ""Pop""*",Louisville
 schriver-lou,Schriver,,Louisville
+scott-lou,Scott,George E.,Louisville
 scott-lou,Scott,,Louisville
+shaw-lou,Shaw,"Alfred L. ""Al""*",Louisville
 shaw-lou,Shaw,,Louisville
+stecher-lou,Stecher,Charles W.,Louisville
 stecher-lou,Stecher,,Louisville
+stoner-kc+lou,Stoner,"Herbert ""Herb""",Louisville
 stoner-kc+lou,Stoner,,Louisville
 sullivan-kc+lou,Sullivan,S.,Louisville
+sullivan-kc+lou,Sullivan,Suter G.*,Louisville
+woodruff-lou,Woodruff,"Orville ""Sam""*",Louisville
 woodruff-lou,Woodruff,,Louisville
-wright-lou+lc,Wright,,Louisville
+wright-lou+stp+kc,Wright,Forrest ,Louisville
+wright-lou+stp+kc,Wright,,Louisville
+bateman-mil,Bateman,Henry Quait,Milwaukee
 bateman-mil,Bateman,,Milwaukee
+beville-mil,Beville,H. Monte*,Milwaukee
 beville-mil,Beville,,Milwaukee
+cantillon-mil,Cantillon,"Joseph D. ""Joe""*",Milwaukee
+clark-mil,Clark,"Harry ""Pop""*",Milwaukee
 clark-mil,Clark,,Milwaukee
+curtis-ind+mil,Curtis,"Clifton G. ""Cliff""*",Milwaukee
 curtis-ind+mil,Curtis,,Milwaukee
+dougherty-mil,Dougherty,Tom*,Milwaukee
 dougherty-mil,Dougherty,,Milwaukee
-goodwin-mil+ind,Goodwin,,Milwaukee
+goodwin-ind+mil,Goodwin,Clyde S.*,Milwaukee
+goodwin-ind+mil,Goodwin,,Milwaukee
+halla-mil,Halla,John A.*,Milwaukee
 hemphill-mil,Hemphill,F.,Milwaukee
+hemphill-mil,Hemphill,Frank V.*,Milwaukee
+hickey-mil+col,Hickey,"John W. ""Jack""*",Milwaukee
 hickey-mil+col,Hickey,,Milwaukee
+jackson-mil,Jackson,Charles Wesley,Milwaukee
+levine-mil,Levine,,Milwaukee
+mcchesney-mil,McChesney,Harry V.*,Milwaukee
 mcchesney-mil,McChesney,,Milwaukee
+mccormick-mil,McCormick,"Wm. J. ""Barry""*",Milwaukee
 mccormick-mil,McCormick,,Milwaukee
+mckay-mil,McKay,Reeve S.*,Milwaukee
 mckay-mil,McKay,,Milwaukee
+morrison-mil,Morrison,William H.,Milwaukee
 morrison-mil,Morrison,,Milwaukee
+mueller-mil,Mueller,Walter G.,Milwaukee
 obrien-mil,O'Brien,Jack,Milwaukee
+obrien-mil,O'Brien,"John J. ""Jack""*",Milwaukee
+oneill-mil,O'Neill,"Wm. John ""Bill""*",Milwaukee
 oneill-mil,O'Neill,,Milwaukee
+railing-mil,Railing,"Thomas ""Tom""",Milwaukee
+robinson-mil,Robinson,"Wm. C. ""Rabbit""*",Milwaukee
 robinson-mil,Robinson,,Milwaukee
+towne-mil,Towne,"Jay K. ""Babe""*",Milwaukee
 towne-mil,Towne,,Milwaukee
+wolfe-mil,Wolfe,Roland Ray ,Milwaukee
 wolfe-mil,Wolfe,,Milwaukee
+chappelle-min,Chappelle,"Wm. H. ""Bill""*",Minneapolis
+coulter-min,Coulter,"Arthur ""Cy""",Minneapolis
 coulter-min,Coulter,,Minneapolis
+craig-min+ind,Craig,"Edward A. ""Red"" ",Minneapolis
 craig-min+ind,Craig,,Minneapolis
+duff-min+ind,Duff,"Patrick H. ""Pat""*",Minneapolis
+duff-min+ind,Duff,,Minneapolis
+ford-min,Ford,"Eugene W. ""Gene""*",Minneapolis
 ford-min,Ford,,Minneapolis
+fox-min,Fox,"Wm. H. ""Bill""*",Minneapolis
 fox-min,Fox,,Minneapolis
+freeman-min,Freeman,"Frank E. ""Jerry""*",Minneapolis
 freeman-min,Freeman,,Minneapolis
+friel-col+ind+min,Friel,"William E. ""Bill""* ",Minneapolis
 friel-col+ind+min,Friel,,Minneapolis
+graham-min,Graham,"Geo. ""Peaches""*",Minneapolis
 graham-min,Graham,,Minneapolis
-greminger-min,Greminger,,Minneapolis
+gremminger-min,Greminger,,Minneapolis
+gremminger-min,Gremminger,"L. Edward ""Ed""*",Minneapolis
+hynes-min,Hynes,"Patrick J. ""Pat""*",Minneapolis
 hynes-min,Hynes,,Minneapolis
+jaeger-min+ind,Jaeger,Charles T.*,Minneapolis
 jaeger-min+ind,Jaeger,,Minneapolis
+jones-min,Jones,"David J. ""Davy""*",Minneapolis
 jones-min,Jones,,Minneapolis
+kahoe-min,Kahoe,"Michael J. ""Mike""*",Minneapolis
+kellum-tol+min,Kellum,"Winford A. ""Win""*",Minneapolis
 kellum-tol+min,Kellum,,Minneapolis
+marshall-min,Marshall,"Wm. R. ""Doc""*",Minneapolis
 marshall-min,Marshall,,Minneapolis
+newlin-min,Newlin,"Otto ""Red""",Minneapolis
+oyler-min,Oyler,"Andrew ""Andy""*",Minneapolis
 oyler-min,Oyler,,Minneapolis
+schmidt-min,Schmidt,"Charles ""Boss""*",Minneapolis
 schmidt-min,Schmidt,,Minneapolis
-sievers-min,Sievers,,Minneapolis
+siever-min,Siever,"Edward ""Eddie""*",Minneapolis
+siever-min,Sievers,,Minneapolis
+steele-min,Steele,,Minneapolis
+stovall-min,Stovall,Jesse C.*,Minneapolis
 stovall-min,Stovall,,Minneapolis
 sullivan-min,Sullivan,D.,Minneapolis
+sullivan-min,Sullivan,"Dennis ""Denny""*",Minneapolis
+thomas-min,Thomas,"Forrest ""Frosty""*",Minneapolis
 thomas-min,Thomas,,Minneapolis
-weaver-min+ind,Weaver,,Minneapolis
+villeman-min,Villeman,George,Minneapolis
+watkins-min,Watkins,"William H. ""Bill""*",Minneapolis
+carney-stp,Carney,"Patrick J. ""Pat""*",St. Paul
 carney-stp,Carney,,St. Paul
+corbett-stp,Corbett,"Theo. W. ""Ted""",St. Paul
 corbett-stp,Corbett,,St. Paul
+cristall-stp,Cristall,"William A. ""Lefty""*",St. Paul
+erickson-stp,Erickson,Eric Edward,St. Paul
+evans-stp,Evans,Roy*,St. Paul
 evans-stp,Evans,,St. Paul
+ferguson-stp,Ferguson,Charles A.*,St. Paul
 ferguson-stp,Ferguson,Chas.,St. Paul
+flourney-stp,Flourney,John Thomas,St. Paul
 flourney-stp,Flourney,,St. Paul
+geier-stp,Geier,"Philip L. ""Phil""*",St. Paul
 geier-stp,Geier,,St. Paul
+hemphill-stp,Hemphill,Charles J.*,St. Paul
 hemphill-stp,Hemphill,Chas.,St. Paul
-kelly-stp,Kelly,,St. Paul
+kelley-stp,Kelley,"Michael J. ""Mike""*",St. Paul
+kelley-stp,Kelly,,St. Paul
+kilroy-stp+kc,Kilroy,Orville P.,St. Paul
 kilroy-stp+kc,Kilroy,,St. Paul
+marcan-stp,Marcan,"Arthur M. ""Art""",St. Paul
 marcan-stp,Marcan,,St. Paul
+noonan-stp,Noonan,"Peter J. ""Pete""*",St. Paul
 noonan-stp,Noonan,,St. Paul
 obrien-stp,O'Brien,Pete,St. Paul
+obrien-stp,O'Brien,"Peter J. ""Pete""*",St. Paul
+sessions-stp,Sessions,Perry M.,St. Paul
 sessions-stp,Sessions,,St. Paul
+slagle-stp,Slagle,"Walter J. ""Walt""*",St. Paul
 slagle-stp,Slagle,,St. Paul
 sullivan-stp,Sullivan,Jack,St. Paul
+sullivan-stp,Sullivan,"John E. ""Jack""*",St. Paul
+wheeler-stp,Wheeler,"Edward L. ""Ed""*",St. Paul
 wheeler-stp,Wheeler,,St. Paul
-yeager-stp+tol,Yeager,,St. Paul
+whitridge-stp,Whitridge,"Albert ""Al""",St. Paul
+wright-lou+stp+kc,Wright,Forrest ,St. Paul
+yeager-tol+stp,Yeager,George J.*,St. Paul
+yeager-tol+stp,Yeager,,St. Paul
+zalusky-stp+ind,Zalusky,"John F. ""Jack""*",St. Paul
 zalusky-stp+ind,Zalusky,,St. Paul
+blackburn-tol,Blackburn,R. J.,Toledo
+boyle-tol,Boyle,"John A. ""Jack""*",Toledo
 boyle-tol,Boyle,,Toledo
 camnitz-tol,Camnitz,,Toledo
-cassaday-tol+kc,Cassaday,,Toledo
+camnitz-tol,Camnitz,,Toledo
+cassady-tol+kc,Cassaday,,Toledo
+cassady-tol+kc,Cassady,Harry D.* ,Toledo
+childs-tol,Childs,"Louis B. ""Doc""",Toledo
 clark.r-tol,Clark,Roy,Toledo
+clark.r-tol,Clark,"Roy E. ""Pepper""*",Toledo
 clarke.j-tol,Clarke,Josh,Toledo
+clarke.j-tol,Clarke,"Joshua B. ""Josh""**",Toledo
+clingman-tol,Clingman,"Wm. F. ""Billy""*",Toledo
 clingman-tol,Clingman,,Toledo
+demontreville-tol,DeMontreville,"Eugene N. ""Gene""*",Toledo
+demontreville-tol,DeMontreville,Eugene N.,Toledo
 demontreville-tol,Demontreville,,Toledo
+doyle-tol,Doyle,"John J. ""Jack""*",Toledo
 doyle-tol,Doyle,,Toledo
+durrett-tol,Durrett,"Isaac H. ""Ike""",Toledo
 durrett-tol,Durrett,,Toledo
+fiene-tol,Fiene,"Louis H. ""Lou""*",Toledo
 fiene-tol,Fiene,,Toledo
+finn-tol,Finn,"Michael J. ""Mickey""",Toledo
+foulks-tol,Foulks,Stuart J.,Toledo
+geyer-tol,Geyer,"Jacob B. ""Rube""*",Toledo
+gibson-tol,Gibson,,Toledo
+gilbert-tol+kc,Gilbert,"John R. ""Jack""* ",Toledo
 gilbert-tol+kc,Gilbert,,Toledo
+kellum-tol+min,Kellum,"Winford A. ""Win""*",Toledo
 kellum-tol+min,Kellum,,Toledo
+land-tol,Land,Grover C.*,Toledo
 land-tol,Land,,Toledo
+lee-tol,Lee,"Wyatt A. ""Watty""*",Toledo
 lee-tol,Lee,,Toledo
+loucks-tol,Loucks,Sylvester Day,Toledo
+lovett-tol,Lovett,Thomas,Toledo
+lundbom-tol,Lundbom,John F.*,Toledo
+martin-tol+ind,Martin,Dave,Toledo
 martin-tol+ind,Martin,,Toledo
-minnehan-tol,Minnehan,,Toledo
+mcaleese-tol,McAleese,Daniel A.,Toledo
+meyers-tol,Meyers,"Leonard ""Leo""",Toledo
+minahan-tol,Minahan,"Edmund ""Cotton""* ",Toledo
+minahan-tol,Minahan,"Edmund ""Cotton""* ",Toledo
+minahan-tol,Minnehan,,Toledo
+moriarity-tol,Moriarity,George J.*,Toledo
 moriarity-tol,Moriarity,,Toledo
+murphy-tol,Murphy,,Toledo
+nance-kc+tol,Nance,William G.* ,Toledo
 nance-kc+tol,Nance,,Toledo
+neighbors-tol,Neighbors,"Cecil F. ""Cy""*",Toledo
 neighbors-tol,Neighbors,,Toledo
 obrien-tol,O'Brien,Fred,Toledo
+obrien-tol,O'Brien,"Frederick ""Fred""",Toledo
+ohara-tol,O'Hara,"Wm. A. ""Bill""*",Toledo
+piatt-tol,Piatt,Wiley H.*,Toledo
 piatt-tol,Piatt,,Toledo
-yeager-stp+tol,Yeager,,Toledo
+smith.c-tol,Smith,Carlos,Toledo
+smith.u-tol,Smith,,Toledo
+yeager-tol+stp,Yeager,George J.*,Toledo
+yeager-tol+stp,Yeager,,Toledo
+zearfoss-tol+kc,Zearfoss,Dave* ,Toledo
 zearfoss-tol+kc,Zearfoss,,Toledo
